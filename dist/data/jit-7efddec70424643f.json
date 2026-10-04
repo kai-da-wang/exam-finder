@@ -1,0 +1,266 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-23T05:00:01.257Z",
+  "school": {
+    "id": "jit",
+    "name": "金陵科技学院",
+    "shortName": "金科",
+    "aliases": [
+      "金科",
+      "金科院",
+      "JIT"
+    ],
+    "repository": "wugenqiang/JIT-Courses",
+    "sourceTitle": "金陵科技学院课程学习资料",
+    "coursePathIndex": 0,
+    "province": "江苏"
+  },
+  "courses": [
+    {
+      "name": "操作系统",
+      "aliases": [],
+      "paperCount": 4
+    },
+    {
+      "name": "离散结构",
+      "aliases": [],
+      "paperCount": 2
+    }
+  ],
+  "papers": [
+    {
+      "id": "jit-os-2016-2017-2-a",
+      "school": "jit",
+      "course": "操作系统",
+      "aliases": [],
+      "originalTitle": "试卷A",
+      "year": 2017,
+      "yearLabel": "2016-2017",
+      "term": "第2学期 · A卷",
+      "type": "original",
+      "files": [
+        {
+          "name": "试卷A.docx",
+          "path": "操作系统/操作系统上学期试卷及答案/上学期试卷及答案/试卷A.docx",
+          "format": "DOCX",
+          "url": "https://github.com/wugenqiang/JIT-Courses/blob/b1c46f3fa109f2b65a90f4cb8fc81e8dd177620b/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88/%E4%B8%8A%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88/%E8%AF%95%E5%8D%B7A.docx",
+          "blobSha": "42334b41392e2a77240dc2086ac13d615898c570"
+        }
+      ],
+      "answers": [
+        {
+          "name": "标准答案A.doc",
+          "path": "操作系统/操作系统上学期试卷及答案/上学期试卷及答案/标准答案A.doc",
+          "format": "DOC",
+          "url": "https://github.com/wugenqiang/JIT-Courses/blob/b1c46f3fa109f2b65a90f4cb8fc81e8dd177620b/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88/%E4%B8%8A%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88/%E6%A0%87%E5%87%86%E7%AD%94%E6%A1%88A.doc",
+          "blobSha": "4c97b6895f5095befa90a2885af012e4b8e16cd7"
+        }
+      ],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "",
+      "verifiedAt": "2026-09-23T05:00:01.257Z",
+      "source": {
+        "repository": "wugenqiang/JIT-Courses",
+        "repositoryUrl": "https://github.com/wugenqiang/JIT-Courses",
+        "title": "金陵科技学院课程学习资料",
+        "commit": "b1c46f3fa109f2b65a90f4cb8fc81e8dd177620b"
+      }
+    },
+    {
+      "id": "jit-os-2016-2017-2-b",
+      "school": "jit",
+      "course": "操作系统",
+      "aliases": [],
+      "originalTitle": "试卷B",
+      "year": 2017,
+      "yearLabel": "2016-2017",
+      "term": "第2学期 · B卷",
+      "type": "original",
+      "files": [
+        {
+          "name": "试卷B.doc",
+          "path": "操作系统/操作系统上学期试卷及答案/上学期试卷及答案/试卷B.doc",
+          "format": "DOC",
+          "url": "https://github.com/wugenqiang/JIT-Courses/blob/b1c46f3fa109f2b65a90f4cb8fc81e8dd177620b/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88/%E4%B8%8A%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88/%E8%AF%95%E5%8D%B7B.doc",
+          "blobSha": "78fe728f239f2621a3be8adce7c2354ae8fbb39d"
+        }
+      ],
+      "answers": [
+        {
+          "name": "标准答案B.doc",
+          "path": "操作系统/操作系统上学期试卷及答案/上学期试卷及答案/标准答案B.doc",
+          "format": "DOC",
+          "url": "https://github.com/wugenqiang/JIT-Courses/blob/b1c46f3fa109f2b65a90f4cb8fc81e8dd177620b/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88/%E4%B8%8A%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88/%E6%A0%87%E5%87%86%E7%AD%94%E6%A1%88B.doc",
+          "blobSha": "c3629108714af8014f4943ef761936fd7f34eb29"
+        }
+      ],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "",
+      "verifiedAt": "2026-09-23T05:00:01.257Z",
+      "source": {
+        "repository": "wugenqiang/JIT-Courses",
+        "repositoryUrl": "https://github.com/wugenqiang/JIT-Courses",
+        "title": "金陵科技学院课程学习资料",
+        "commit": "b1c46f3fa109f2b65a90f4cb8fc81e8dd177620b"
+      }
+    },
+    {
+      "id": "jit-os-2016-2017-1-a",
+      "school": "jit",
+      "course": "操作系统",
+      "aliases": [],
+      "originalTitle": "试卷A",
+      "year": 2017,
+      "yearLabel": "2016-2017",
+      "term": "第1学期 · A卷",
+      "type": "original",
+      "files": [
+        {
+          "name": "试卷A.docx",
+          "path": "操作系统/操作系统复习资料/2016-2017-1_操作系统试卷及答案_陶玉婷/试卷A.docx",
+          "format": "DOCX",
+          "url": "https://github.com/wugenqiang/JIT-Courses/blob/b1c46f3fa109f2b65a90f4cb8fc81e8dd177620b/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/2016-2017-1_%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88_%E9%99%B6%E7%8E%89%E5%A9%B7/%E8%AF%95%E5%8D%B7A.docx",
+          "blobSha": "597a2ac84264c2628c4c4b3c43e9b7a97bed479a"
+        }
+      ],
+      "answers": [
+        {
+          "name": "标准答案A.doc",
+          "path": "操作系统/操作系统复习资料/2016-2017-1_操作系统试卷及答案_陶玉婷/标准答案A.doc",
+          "format": "DOC",
+          "url": "https://github.com/wugenqiang/JIT-Courses/blob/b1c46f3fa109f2b65a90f4cb8fc81e8dd177620b/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/2016-2017-1_%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88_%E9%99%B6%E7%8E%89%E5%A9%B7/%E6%A0%87%E5%87%86%E7%AD%94%E6%A1%88A.doc",
+          "blobSha": "17d2e49f679512a4cde9c967dcad0d20631a612b"
+        }
+      ],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "",
+      "verifiedAt": "2026-09-23T05:00:01.257Z",
+      "source": {
+        "repository": "wugenqiang/JIT-Courses",
+        "repositoryUrl": "https://github.com/wugenqiang/JIT-Courses",
+        "title": "金陵科技学院课程学习资料",
+        "commit": "b1c46f3fa109f2b65a90f4cb8fc81e8dd177620b"
+      }
+    },
+    {
+      "id": "jit-os-2016-2017-1-b",
+      "school": "jit",
+      "course": "操作系统",
+      "aliases": [],
+      "originalTitle": "试卷B",
+      "year": 2017,
+      "yearLabel": "2016-2017",
+      "term": "第1学期 · B卷",
+      "type": "original",
+      "files": [
+        {
+          "name": "试卷B.doc",
+          "path": "操作系统/操作系统复习资料/2016-2017-1_操作系统试卷及答案_陶玉婷/试卷B.doc",
+          "format": "DOC",
+          "url": "https://github.com/wugenqiang/JIT-Courses/blob/b1c46f3fa109f2b65a90f4cb8fc81e8dd177620b/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/2016-2017-1_%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88_%E9%99%B6%E7%8E%89%E5%A9%B7/%E8%AF%95%E5%8D%B7B.doc",
+          "blobSha": "fa8df4932442e9658a67dbc0fc154aa73148cf20"
+        }
+      ],
+      "answers": [
+        {
+          "name": "标准答案B.doc",
+          "path": "操作系统/操作系统复习资料/2016-2017-1_操作系统试卷及答案_陶玉婷/标准答案B.doc",
+          "format": "DOC",
+          "url": "https://github.com/wugenqiang/JIT-Courses/blob/b1c46f3fa109f2b65a90f4cb8fc81e8dd177620b/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/2016-2017-1_%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88_%E9%99%B6%E7%8E%89%E5%A9%B7/%E6%A0%87%E5%87%86%E7%AD%94%E6%A1%88B.doc",
+          "blobSha": "00b68e60872b7f49bdb74ac6b8fc1ff81a712498"
+        }
+      ],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "",
+      "verifiedAt": "2026-09-23T05:00:01.257Z",
+      "source": {
+        "repository": "wugenqiang/JIT-Courses",
+        "repositoryUrl": "https://github.com/wugenqiang/JIT-Courses",
+        "title": "金陵科技学院课程学习资料",
+        "commit": "b1c46f3fa109f2b65a90f4cb8fc81e8dd177620b"
+      }
+    },
+    {
+      "id": "jit-discrete-2015-2016-a",
+      "school": "jit",
+      "course": "离散结构",
+      "aliases": [],
+      "originalTitle": "LS_A-2015-5试卷",
+      "year": 2016,
+      "yearLabel": "2015-2016",
+      "term": "第1学期 · A卷",
+      "type": "original",
+      "files": [
+        {
+          "name": "LS_A-2015-5试卷.doc",
+          "path": "离散数学/离散结构2015试卷冬季/试卷A/LS_A-2015-5试卷.doc",
+          "format": "DOC",
+          "url": "https://github.com/wugenqiang/JIT-Courses/blob/b1c46f3fa109f2b65a90f4cb8fc81e8dd177620b/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E7%A6%BB%E6%95%A3%E7%BB%93%E6%9E%842015%E8%AF%95%E5%8D%B7%E5%86%AC%E5%AD%A3/%E8%AF%95%E5%8D%B7A/LS_A-2015-5%E8%AF%95%E5%8D%B7.doc",
+          "blobSha": "06b0feb644bb58731b379a6b3a2bc04f2689d51f"
+        }
+      ],
+      "answers": [
+        {
+          "name": "_LS_A 参考答案2015-5.doc",
+          "path": "离散数学/离散结构2015试卷冬季/试卷A/_LS_A 参考答案2015-5.doc",
+          "format": "DOC",
+          "url": "https://github.com/wugenqiang/JIT-Courses/blob/b1c46f3fa109f2b65a90f4cb8fc81e8dd177620b/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E7%A6%BB%E6%95%A3%E7%BB%93%E6%9E%842015%E8%AF%95%E5%8D%B7%E5%86%AC%E5%AD%A3/%E8%AF%95%E5%8D%B7A/_LS_A%20%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%882015-5.doc",
+          "blobSha": "2ad22723e6d8587059825d2e68cb616dbdbe40f2"
+        }
+      ],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "按卷头课程名“离散结构”收录；来源目录名为“离散数学”。",
+      "verifiedAt": "2026-09-23T05:00:01.257Z",
+      "source": {
+        "repository": "wugenqiang/JIT-Courses",
+        "repositoryUrl": "https://github.com/wugenqiang/JIT-Courses",
+        "title": "金陵科技学院课程学习资料",
+        "commit": "b1c46f3fa109f2b65a90f4cb8fc81e8dd177620b"
+      }
+    },
+    {
+      "id": "jit-discrete-2015-2016-b",
+      "school": "jit",
+      "course": "离散结构",
+      "aliases": [],
+      "originalTitle": "B-2015-5试卷",
+      "year": 2016,
+      "yearLabel": "2015-2016",
+      "term": "第1学期 · B卷",
+      "type": "original",
+      "files": [
+        {
+          "name": "B-2015-5试卷.doc",
+          "path": "离散数学/离散结构2015试卷冬季/试卷B/B-2015-5试卷.doc",
+          "format": "DOC",
+          "url": "https://github.com/wugenqiang/JIT-Courses/blob/b1c46f3fa109f2b65a90f4cb8fc81e8dd177620b/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E7%A6%BB%E6%95%A3%E7%BB%93%E6%9E%842015%E8%AF%95%E5%8D%B7%E5%86%AC%E5%AD%A3/%E8%AF%95%E5%8D%B7B/B-2015-5%E8%AF%95%E5%8D%B7.doc",
+          "blobSha": "c92a536dd34ea5a70f78137505f18b04a8da1f6d"
+        }
+      ],
+      "answers": [
+        {
+          "name": "B 参考答案.doc",
+          "path": "离散数学/离散结构2015试卷冬季/试卷B/B 参考答案.doc",
+          "format": "DOC",
+          "url": "https://github.com/wugenqiang/JIT-Courses/blob/b1c46f3fa109f2b65a90f4cb8fc81e8dd177620b/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E7%A6%BB%E6%95%A3%E7%BB%93%E6%9E%842015%E8%AF%95%E5%8D%B7%E5%86%AC%E5%AD%A3/%E8%AF%95%E5%8D%B7B/B%20%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.doc",
+          "blobSha": "d4950d8a768254a2ed9b346f9d5707c29ad258c6"
+        }
+      ],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "按卷头课程名“离散结构”收录；来源目录名为“离散数学”。",
+      "verifiedAt": "2026-09-23T05:00:01.257Z",
+      "source": {
+        "repository": "wugenqiang/JIT-Courses",
+        "repositoryUrl": "https://github.com/wugenqiang/JIT-Courses",
+        "title": "金陵科技学院课程学习资料",
+        "commit": "b1c46f3fa109f2b65a90f4cb8fc81e8dd177620b"
+      }
+    }
+  ]
+}

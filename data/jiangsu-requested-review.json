@@ -1,0 +1,199 @@
+{
+  "checkedAt": "2026-09-23T05:01:39.980Z",
+  "scope": "用户指定的江苏27所高校；GitHub课程仓库与公开网页检索。结果不代表对互联网资料的穷尽，也不代表未收录学校没有试卷。",
+  "schools": [
+    {
+      "city": "南京",
+      "name": "南京工业大学",
+      "status": "pending",
+      "note": "查到化工原理等第三方文档线索，尚未核实可公开获取的完整题面及出处。",
+      "reference": "https://wenku.baidu.com/view/d7c2a350d5bbfd0a79567392"
+    },
+    {
+      "city": "南京",
+      "name": "南京财经大学",
+      "status": "pending",
+      "note": "已检索课程仓库及公开网页；本轮结果主要为教学通知和模板，尚未核实期末试卷。",
+      "reference": "https://github.com/betelgit/NUFE-Course-Paper-Template"
+    },
+    {
+      "city": "南京",
+      "name": "南京审计大学",
+      "status": "added",
+      "note": "已收录国际结算、计量经济学原卷和计量经济学部分题目回忆，共3条。",
+      "reference": "https://github.com/lnsongxf/NAUCFA",
+      "schoolId": "nau"
+    },
+    {
+      "city": "南京",
+      "name": "南京艺术学院",
+      "status": "pending",
+      "note": "本轮主要查到课程视频及试卷检查通知，未核实可录入的期末题面。",
+      "reference": "https://jwzx.nua.edu.cn/2018/1203/c5688a53024/page.htm"
+    },
+    {
+      "city": "南京",
+      "name": "南京工程学院",
+      "status": "pending",
+      "note": "课程仓库说明提及真题，但当前目录主要是实验报告、课件和考点；未找到可核实试卷。",
+      "reference": "https://github.com/Ryan-Lou/NJIT-ICE-IE-Course"
+    },
+    {
+      "city": "南京",
+      "name": "南京晓庄学院",
+      "status": "pending",
+      "note": "有计算机组成原理2015—2016学年试卷线索，来源页面本轮未能打开核验。",
+      "reference": "https://bsnku.com/category/nanjingxiaozhuangxueyuan/"
+    },
+    {
+      "city": "南京",
+      "name": "金陵科技学院",
+      "status": "added",
+      "note": "已收录操作系统两个学期A/B卷、离散结构A/B卷，共6条，均关联配套答案。",
+      "reference": "https://github.com/wugenqiang/JIT-Courses",
+      "schoolId": "jit"
+    },
+    {
+      "city": "苏州",
+      "name": "苏州科技大学",
+      "status": "pending",
+      "note": "找到拓扑学2024—2025学年A卷的第三方预览线索，完整文件和公开获取方式仍待核实。",
+      "reference": "https://www.scribd.com/document/1062110961/2024-2025-2%E6%8B%93%E6%89%91%E5%AD%A6%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7A"
+    },
+    {
+      "city": "苏州",
+      "name": "苏州工学院",
+      "status": "pending",
+      "note": "同时以旧名“常熟理工学院”检索；查到文档标题及课程归档通知，尚未核实完整试卷。",
+      "reference": "https://swxy.szut.edu.cn/info/1341/7721.htm"
+    },
+    {
+      "city": "苏州",
+      "name": "苏州城市学院",
+      "status": "pending",
+      "note": "同时以“苏州大学文正学院”检索；本轮核实到的是模板、教学大纲和通知，未录入为试卷。",
+      "reference": "https://www.szcu.edu.cn/_upload/article/files/30/48/5c1b442e4dfe837b8127bc3a8ce6/d1a2723d-6c59-4e7f-9939-e08d04ca88dc.pdf"
+    },
+    {
+      "city": "苏州",
+      "name": "西交利物浦大学",
+      "status": "added",
+      "note": "已收录2019—2020学年第1学期CSE107离散数学与统计英文原卷，共1条。",
+      "reference": "https://github.com/PeronGH/CPT107-Revision",
+      "schoolId": "xjtlu"
+    },
+    {
+      "city": "苏州",
+      "name": "昆山杜克大学",
+      "status": "pending",
+      "note": "检索结果包含缺少可靠出处、课程与题面疑似不符的文档标题，暂未核实真实期末卷。",
+      "reference": "https://www.renrendoc.com/paper/439641294.html"
+    },
+    {
+      "city": "徐州",
+      "name": "江苏师范大学",
+      "status": "pending",
+      "note": "查到历年真题预览宣传和网络转载，但尚未核实可公开获取的完整原卷。",
+      "reference": "https://sjds.net/693595.html"
+    },
+    {
+      "city": "徐州",
+      "name": "徐州医科大学",
+      "status": "pending",
+      "note": "本轮主要查到试卷专项检查通知与考务规定，未核实具体期末题面。",
+      "reference": "https://shpg.xzhmu.edu.cn/info/1007/1036.htm"
+    },
+    {
+      "city": "徐州",
+      "name": "徐州工程学院",
+      "status": "pending",
+      "note": "有2011—2012学年数据库原理及应用试卷线索，来源页面本轮无法访问核验。",
+      "reference": "https://www.dayila.net/qimoshijuan/t-fav32v.html"
+    },
+    {
+      "city": "常州",
+      "name": "常州大学",
+      "status": "pending",
+      "note": "查到论坛真题条目与收费附件线索，尚未核实完整、可公开获取的文件。",
+      "reference": "https://www.aizhugong.com/forum-975-1.html"
+    },
+    {
+      "city": "常州",
+      "name": "江苏理工学院",
+      "status": "pending",
+      "note": "找到的官方试卷PDF为命题格式模板，不是实际期末试卷。",
+      "reference": "https://jsjxy.jsut.edu.cn/_upload/article/files/ff/a5/360411bd429786bcdf6ec6bc6bf6/ceef1760-2223-4f6e-8cac-3c657f909e99.pdf"
+    },
+    {
+      "city": "常州",
+      "name": "常州工学院",
+      "status": "pending",
+      "note": "数据库试卷搜索结果打开后变成无关下载页，已排除；本轮未核实其他可录入资料。",
+      "reference": "https://www.haolizi.net/example/view_174306.html"
+    },
+    {
+      "city": "镇江",
+      "name": "江苏大学",
+      "status": "pending",
+      "note": "查到操作系统、C语言等试卷条目，具体来源页面本轮未能完成题面及访问核验。",
+      "reference": "https://bsnku.com/category/jiangsudaxue/"
+    },
+    {
+      "city": "镇江",
+      "name": "江苏科技大学",
+      "status": "pending",
+      "note": "检查了学生学习仓库，主要为代码、课堂测试和练习，未核实期末试卷。",
+      "reference": "https://github.com/hydarealman/sandbox"
+    },
+    {
+      "city": "南通",
+      "name": "南通大学",
+      "status": "pending",
+      "note": "本轮查到试卷管理规范和装订目录通知，尚未核实可录入的试题文件。",
+      "reference": "https://sms.ntu.edu.cn/xzzq/list.htm"
+    },
+    {
+      "city": "扬州",
+      "name": "扬州大学",
+      "status": "pending",
+      "note": "公开课程仓库当前主要为目录和教材习题答案，未找到期末试卷。",
+      "reference": "https://github.com/mangogu/YZU-Scavenger"
+    },
+    {
+      "city": "连云港",
+      "name": "江苏海洋大学",
+      "status": "pending",
+      "note": "有高等数学A（二）2020—2021学年B卷答案的VIP文档线索，尚未核实完整公开原卷。",
+      "reference": "https://max.book118.com/html/2025/0622/8143043026007102.shtm"
+    },
+    {
+      "city": "淮安",
+      "name": "淮安大学",
+      "status": "pending",
+      "note": "已核对2026年更名并使用旧名“淮阴工学院”检索；文档线索尚未通过真实性与访问核验。",
+      "reference": "https://www.hau.edu.cn/info/1012/17599.htm"
+    },
+    {
+      "city": "淮安",
+      "name": "淮阴师范学院",
+      "status": "pending",
+      "note": "查到高数历年试卷收费页面，未获得可公开核验的完整题面。",
+      "reference": "https://www.sanhaojiaoxuelou.com/archives/10191"
+    },
+    {
+      "city": "盐城",
+      "name": "盐城工学院",
+      "status": "added",
+      "note": "已收录现代控制理论2019年期末A/B卷合辑，共1条；未附答案。",
+      "reference": "https://github.com/ZHlovecat/ycitedu",
+      "schoolId": "ycit"
+    },
+    {
+      "city": "盐城",
+      "name": "盐城师范学院",
+      "status": "pending",
+      "note": "查到第三方试卷标题，但学校归属、题面及公开访问条件尚未核实。",
+      "reference": "https://www.renrendoc.com/paper/361818704.html"
+    }
+  ]
+}

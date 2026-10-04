@@ -1,0 +1,1819 @@
+{
+  "schemaVersion": 1,
+  "schools": [
+    {
+      "id": "zju",
+      "name": "浙江大学",
+      "shortName": "浙大",
+      "aliases": [
+        "浙大",
+        "ZJU"
+      ],
+      "repository": "QSCTech/zju-icicles",
+      "sourceTitle": "浙江大学课程攻略共享计划"
+    },
+    {
+      "id": "ustc",
+      "name": "中国科学技术大学",
+      "shortName": "中科大",
+      "aliases": [
+        "中科大",
+        "中国科大",
+        "USTC"
+      ],
+      "repository": "USTC-Resource/USTC-Course",
+      "sourceTitle": "中国科学技术大学课程资源"
+    },
+    {
+      "id": "pku",
+      "name": "北京大学",
+      "shortName": "北大",
+      "aliases": [
+        "北大",
+        "PKU"
+      ],
+      "repository": "lib-pku/libpku",
+      "sourceTitle": "北京大学课程资料民间整理"
+    },
+    {
+      "id": "thu",
+      "name": "清华大学",
+      "shortName": "清华",
+      "aliases": [
+        "清华",
+        "THU",
+        "Tsinghua"
+      ],
+      "repository": "PKUanonym/REKCARC-TSC-UHT",
+      "sourceTitle": "清华大学计算机系课程攻略"
+    },
+    {
+      "id": "nju",
+      "name": "南京大学",
+      "shortName": "南大",
+      "aliases": [
+        "南大",
+        "NJU"
+      ],
+      "repository": "NJU-SE-15-share-review/professional-class",
+      "sourceTitle": "南京大学软件学院专业课共享资料",
+      "coursePathIndex": 0,
+      "province": "江苏"
+    },
+    {
+      "id": "buaa",
+      "name": "北京航空航天大学",
+      "shortName": "北航",
+      "aliases": [
+        "北航",
+        "BUAA"
+      ],
+      "repository": "zhangguochun/BUAA_Course_Sharing",
+      "sourceTitle": "北京航空航天大学课程共享资料",
+      "coursePathIndex": 0
+    },
+    {
+      "id": "hitsz",
+      "name": "哈尔滨工业大学（深圳）",
+      "shortName": "哈工大深圳",
+      "aliases": [
+        "哈工大深圳",
+        "哈工大（深圳）",
+        "哈工深",
+        "HITSZ",
+        "哈尔滨工业大学深圳校区"
+      ],
+      "repository": "HITsz-OpenCS/HITSZ-OpenCS",
+      "sourceTitle": "哈工大（深圳）计算机专业课程攻略",
+      "coursePathIndex": 1
+    },
+    {
+      "id": "seu",
+      "name": "东南大学",
+      "shortName": "东南",
+      "aliases": [
+        "东南",
+        "东大",
+        "SEU"
+      ],
+      "repository": "Golevka2001/Experiments-and-Homework-in-SEU",
+      "sourceTitle": "东南大学网安学院本科课程资料",
+      "coursePathIndex": 1,
+      "province": "江苏"
+    },
+    {
+      "id": "nuaa",
+      "name": "南京航空航天大学",
+      "shortName": "南航",
+      "aliases": [
+        "南航",
+        "NUAA"
+      ],
+      "repository": "NUAA-Open-Source/NUAA-Course",
+      "sourceTitle": "南京航空航天大学课程资源共享计划",
+      "coursePathIndex": 0,
+      "province": "江苏"
+    },
+    {
+      "id": "njust",
+      "name": "南京理工大学",
+      "shortName": "南理工",
+      "aliases": [
+        "南理工",
+        "南京理工",
+        "NJUST"
+      ],
+      "repository": "NJUST-OpenLib/NJUST-docs",
+      "sourceTitle": "南京理工大学课程攻略共享计划",
+      "coursePathIndex": 0,
+      "province": "江苏"
+    },
+    {
+      "id": "njupt",
+      "name": "南京邮电大学",
+      "shortName": "南邮",
+      "aliases": [
+        "南邮",
+        "NJUPT"
+      ],
+      "repository": "NJUPTFreeExams/NJUPT-CST-Free-Exams",
+      "sourceTitle": "南京邮电大学计算机专业历年考试资料",
+      "coursePathIndex": 0,
+      "province": "江苏"
+    },
+    {
+      "id": "suda",
+      "name": "苏州大学",
+      "shortName": "苏大",
+      "aliases": [
+        "苏大",
+        "SUDA",
+        "Soochow University"
+      ],
+      "repository": "SoochowXiong/MathWarehouse",
+      "sourceTitle": "苏州大学数学科学学院资源库",
+      "coursePathIndex": 1,
+      "province": "江苏"
+    },
+    {
+      "id": "jiangnan",
+      "name": "江南大学",
+      "shortName": "江南",
+      "aliases": [
+        "江南",
+        "江大",
+        "Jiangnan University"
+      ],
+      "repository": "Charlie315/JNU-XinJi",
+      "sourceTitle": "江南大学信息与计算科学作业与试卷合集",
+      "coursePathIndex": 1,
+      "province": "江苏"
+    },
+    {
+      "id": "hhu",
+      "name": "河海大学",
+      "shortName": "河海",
+      "aliases": [
+        "河海",
+        "HHU"
+      ],
+      "repository": "zewenli98/HHU_course",
+      "sourceTitle": "河海大学计算机专业课程资料",
+      "coursePathIndex": 0,
+      "province": "江苏"
+    },
+    {
+      "id": "nuist",
+      "name": "南京信息工程大学",
+      "shortName": "南信大",
+      "aliases": [
+        "南信大",
+        "南气",
+        "NUIST"
+      ],
+      "repository": "wzy-acsuc/NUIST-Resources",
+      "sourceTitle": "南京信息工程大学课程资源合集",
+      "coursePathIndex": 1,
+      "province": "江苏"
+    },
+    {
+      "id": "jit",
+      "name": "金陵科技学院",
+      "shortName": "金科",
+      "aliases": [
+        "金科",
+        "金科院",
+        "JIT"
+      ],
+      "repository": "wugenqiang/JIT-Courses",
+      "sourceTitle": "金陵科技学院课程学习资料",
+      "coursePathIndex": 0,
+      "province": "江苏"
+    },
+    {
+      "id": "nau",
+      "name": "南京审计大学",
+      "shortName": "南审",
+      "aliases": [
+        "南审",
+        "NAU",
+        "南京审计学院"
+      ],
+      "repository": "lnsongxf/NAUCFA",
+      "sourceTitle": "南京审计大学金融学（CFA）学习资料",
+      "coursePathIndex": 0,
+      "province": "江苏"
+    },
+    {
+      "id": "ycit",
+      "name": "盐城工学院",
+      "shortName": "盐工",
+      "aliases": [
+        "盐工",
+        "盐城工院",
+        "YCIT"
+      ],
+      "repository": "ZHlovecat/ycitedu",
+      "sourceTitle": "盐城工学院课程攻略共享计划",
+      "coursePathIndex": 1,
+      "province": "江苏"
+    },
+    {
+      "id": "xjtlu",
+      "name": "西交利物浦大学",
+      "shortName": "西浦",
+      "aliases": [
+        "西浦",
+        "XJTLU",
+        "Xi’an Jiaotong-Liverpool University"
+      ],
+      "repository": "PeronGH/CPT107-Revision",
+      "sourceTitle": "PeronGH 课程资料中的 CSE107 历年试卷",
+      "coursePathIndex": 0,
+      "province": "江苏"
+    }
+  ],
+  "papers": [
+    {
+      "id": "zju-001",
+      "school": "zju",
+      "course": "电磁场与电磁波",
+      "aliases": [],
+      "type": "original",
+      "year": 2011,
+      "yearLabel": "2011",
+      "files": [
+        "电磁场与电磁波/历年卷/期末卷/2011期末考试.pdf"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "reviewNote": "来源目录与标题明确标注期末试卷；链接对应已检查的仓库文件。"
+    },
+    {
+      "id": "zju-002",
+      "school": "zju",
+      "course": "电磁场与电磁波",
+      "aliases": [],
+      "type": "original",
+      "year": 2012,
+      "yearLabel": "2012",
+      "files": [
+        "电磁场与电磁波/历年卷/期末卷/2012期末考试.pdf"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "reviewNote": "来源目录与标题明确标注期末试卷；链接对应已检查的仓库文件。"
+    },
+    {
+      "id": "zju-003",
+      "school": "zju",
+      "course": "电磁场与电磁波",
+      "aliases": [],
+      "type": "original",
+      "year": 2013,
+      "yearLabel": "2013",
+      "files": [
+        "电磁场与电磁波/历年卷/期末卷/2013期末考试.pdf"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "reviewNote": "来源目录与标题明确标注期末试卷；链接对应已检查的仓库文件。"
+    },
+    {
+      "id": "zju-004",
+      "school": "zju",
+      "course": "电磁场与电磁波",
+      "aliases": [],
+      "type": "original",
+      "year": 2014,
+      "yearLabel": "2014",
+      "files": [
+        "电磁场与电磁波/历年卷/期末卷/2014期末考试.pdf"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "reviewNote": "来源目录与标题明确标注期末试卷；链接对应已检查的仓库文件。"
+    },
+    {
+      "id": "zju-005",
+      "school": "zju",
+      "course": "电磁场与电磁波",
+      "aliases": [],
+      "type": "original",
+      "year": 2015,
+      "yearLabel": "2015",
+      "files": [
+        "电磁场与电磁波/历年卷/期末卷/2015期末考试.pdf"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "reviewNote": "来源目录与标题明确标注期末试卷；链接对应已检查的仓库文件。"
+    },
+    {
+      "id": "zju-006",
+      "school": "zju",
+      "course": "电磁场与电磁波",
+      "aliases": [],
+      "type": "original",
+      "year": 2016,
+      "yearLabel": "2016",
+      "files": [
+        "电磁场与电磁波/历年卷/期末卷/2016期末考试.pdf"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "reviewNote": "来源目录与标题明确标注期末试卷；链接对应已检查的仓库文件。"
+    },
+    {
+      "id": "zju-007",
+      "school": "zju",
+      "course": "电磁场与电磁波",
+      "aliases": [],
+      "type": "original",
+      "year": 2017,
+      "yearLabel": "2017",
+      "files": [
+        "电磁场与电磁波/历年卷/期末卷/2017期末考试.pdf"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "reviewNote": "来源目录与标题明确标注期末试卷；链接对应已检查的仓库文件。"
+    },
+    {
+      "id": "zju-008",
+      "school": "zju",
+      "course": "数据结构基础",
+      "aliases": [
+        "数据结构"
+      ],
+      "type": "original",
+      "year": 2019,
+      "yearLabel": "2018–2019 学年",
+      "files": [
+        "数据结构基础/考试/浙江大学2018–2019学年秋冬学期 《数据结构基础》课程期末考试试卷.pdf"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "reviewNote": "来源目录与标题明确标注期末试卷；链接对应已检查的仓库文件。",
+      "term": "秋冬学期"
+    },
+    {
+      "id": "zju-009",
+      "school": "zju",
+      "course": "物理化学（甲）",
+      "aliases": [],
+      "type": "original",
+      "year": 2006,
+      "yearLabel": "2005–2006 学年",
+      "files": [
+        "物理化学/历年试卷/浙江大学2005-2006学年冬季学期《物理化学(甲)》课程期末考试试卷.pdf"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "reviewNote": "来源目录与标题明确标注期末试卷；链接对应已检查的仓库文件。",
+      "term": "冬季学期"
+    },
+    {
+      "id": "zju-010",
+      "school": "zju",
+      "course": "物理化学",
+      "aliases": [],
+      "type": "original",
+      "year": 2011,
+      "yearLabel": "2010–2011 学年",
+      "files": [
+        "物理化学/历年试卷/浙江大学2010-2011《物理化学》课程期末考试试卷.pdf"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "reviewNote": "来源目录与标题明确标注期末试卷；链接对应已检查的仓库文件。"
+    },
+    {
+      "id": "zju-011",
+      "school": "zju",
+      "course": "图像信息处理",
+      "aliases": [],
+      "type": "recalled",
+      "year": 2017,
+      "yearLabel": "2016–2017 学年",
+      "files": [
+        "图像信息处理/2017期末试卷.md"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "reviewNote": "已阅读正文标题，明确为期末试卷回忆版，学年为2016–2017。",
+      "term": "春夏学期"
+    },
+    {
+      "id": "zju-012",
+      "school": "zju",
+      "course": "程序设计方法学",
+      "aliases": [],
+      "type": "recalled",
+      "year": 2018,
+      "yearLabel": "2017–2018 学年",
+      "files": [
+        "程序设计方法学/试卷/2017期末试卷.md"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "reviewNote": "已阅读正文标题，明确为2017–2018学年期末试卷回忆版。",
+      "term": "秋冬学期"
+    },
+    {
+      "id": "ustc-004",
+      "school": "ustc",
+      "course": "数理方程（B）",
+      "aliases": [],
+      "type": "recalled",
+      "year": 2014,
+      "yearLabel": "2013–2014 学年",
+      "files": [
+        "数理方程/exams/数理方程期末考试试题.pdf"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "reviewNote": "已读取正文，原文件名未注明的学年是2013–2014，课程为数理方程B，明确标注考后回忆版本。",
+      "term": "第二学期"
+    },
+    {
+      "id": "ustc-005",
+      "school": "ustc",
+      "course": "数理逻辑",
+      "aliases": [],
+      "type": "recalled",
+      "year": 2018,
+      "yearLabel": "2018",
+      "files": [
+        "数理逻辑/exams/中国科学技术大学2018春季学期数理逻辑期末试题.pdf"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "reviewNote": "已读取正文标题，明确标注回忆版，保留来源作者 Lyncien 的原始文档。",
+      "term": "春季学期"
+    },
+    {
+      "id": "ustc-008",
+      "school": "ustc",
+      "course": "随机过程（B）",
+      "aliases": [],
+      "type": "original",
+      "year": 2018,
+      "yearLabel": "2017–2018 学年",
+      "files": [
+        "随机过程/exams/随机过程期末考题(2018.1.9).pdf"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "reviewNote": "已读取正文，课程为随机过程B，2017–2018学年第一学期，考试日期2018年1月9日。",
+      "term": "第一学期"
+    },
+    {
+      "id": "ustc-009",
+      "school": "ustc",
+      "course": "操作系统原理与设计",
+      "aliases": [
+        "操作系统"
+      ],
+      "type": "recalled",
+      "year": 2017,
+      "yearLabel": "2016–2017 学年",
+      "files": [
+        "操作系统原理与设计/exams/2017年操作系统原理与设计试卷（回忆版）.pdf"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "reviewNote": "已读取正文，学年为2016–2017第二学期；来源文件名明确标注回忆版。",
+      "term": "第二学期"
+    },
+    {
+      "id": "pku-001",
+      "school": "pku",
+      "course": "几何学",
+      "aliases": [],
+      "type": "original",
+      "year": 2009,
+      "yearLabel": "2009",
+      "files": [
+        "专业课/几何学/几何学2009秋期末.pdf"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "reviewNote": "来源目录与标题明确标注期末试卷；链接对应已检查的仓库文件。",
+      "term": "秋季学期"
+    },
+    {
+      "id": "pku-002",
+      "school": "pku",
+      "course": "几何学",
+      "aliases": [],
+      "type": "original",
+      "year": 2010,
+      "yearLabel": "2010",
+      "files": [
+        "专业课/几何学/几何学2010秋期末.pdf"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "reviewNote": "来源目录与标题明确标注期末试卷；链接对应已检查的仓库文件。",
+      "term": "秋季学期"
+    },
+    {
+      "id": "pku-003",
+      "school": "pku",
+      "course": "几何学",
+      "aliases": [],
+      "type": "original",
+      "year": 2011,
+      "yearLabel": "2011",
+      "files": [
+        "专业课/几何学/几何学2011秋期末.pdf"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "reviewNote": "来源目录与标题明确标注期末试卷；链接对应已检查的仓库文件。",
+      "term": "秋季学期"
+    },
+    {
+      "id": "pku-004",
+      "school": "pku",
+      "course": "几何学",
+      "aliases": [],
+      "type": "original",
+      "year": 2013,
+      "yearLabel": "2013",
+      "files": [
+        "专业课/几何学/几何学2013秋期末.pdf"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "reviewNote": "来源目录与标题明确标注期末试卷；链接对应已检查的仓库文件。",
+      "term": "秋季学期"
+    },
+    {
+      "id": "pku-005",
+      "school": "pku",
+      "course": "几何学",
+      "aliases": [],
+      "type": "original",
+      "year": 2014,
+      "yearLabel": "2014",
+      "files": [
+        "专业课/几何学/几何学2014秋期末.pdf"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "reviewNote": "来源目录与标题明确标注期末试卷；链接对应已检查的仓库文件。",
+      "term": "秋季学期"
+    },
+    {
+      "id": "pku-006",
+      "school": "pku",
+      "course": "几何学",
+      "aliases": [],
+      "type": "original",
+      "year": 2015,
+      "yearLabel": "2015",
+      "files": [
+        "专业课/几何学/马翔几何学2015秋期末.jpg"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "reviewNote": "来源目录与标题明确标注期末试卷；链接对应已检查的仓库文件。",
+      "term": "秋季学期"
+    },
+    {
+      "id": "pku-007",
+      "school": "pku",
+      "course": "几何学",
+      "aliases": [],
+      "type": "original",
+      "year": 2016,
+      "yearLabel": "2016",
+      "files": [
+        "专业课/几何学/马翔几何学2016秋期末.jpg"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "reviewNote": "来源目录与标题明确标注期末试卷；链接对应已检查的仓库文件。",
+      "term": "秋季学期"
+    },
+    {
+      "id": "pku-008",
+      "school": "pku",
+      "course": "Web技术概论",
+      "aliases": [
+        "web技术概论"
+      ],
+      "type": "original",
+      "year": 2016,
+      "yearLabel": "2016",
+      "files": [
+        "专业课/web技术概论/Web技术概论2016秋期末1.jpg",
+        "专业课/web技术概论/Web技术概论2016秋期末2.jpg"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "reviewNote": "同目录同标题，后缀1/2为同份试卷分页。",
+      "term": "秋季学期"
+    },
+    {
+      "id": "pku-009",
+      "school": "pku",
+      "course": "中国哲学（下）",
+      "aliases": [],
+      "type": "original",
+      "year": 2019,
+      "yearLabel": "2019",
+      "files": [
+        "专业课/中国哲学（下）/2019春中哲（下）期末试题.pdf"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "reviewNote": "来源目录与标题明确标注期末试卷；链接对应已检查的仓库文件。",
+      "term": "春季学期"
+    },
+    {
+      "id": "pku-010",
+      "school": "pku",
+      "course": "人工智能",
+      "aliases": [],
+      "type": "original",
+      "year": 2013,
+      "yearLabel": "2013",
+      "files": [
+        "专业课/人工智能/林作铨AI2013春期末.pdf"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "reviewNote": "来源目录与标题明确标注期末试卷；链接对应已检查的仓库文件。",
+      "term": "春季学期"
+    },
+    {
+      "id": "thu-001",
+      "school": "thu",
+      "course": "微积分A(1)",
+      "aliases": [
+        "微积分A（1）",
+        "微积分A一"
+      ],
+      "type": "original",
+      "year": 2004,
+      "yearLabel": "2004",
+      "files": [
+        "大一上/微积分A(1)/exam/期末/2004微积分（1）期末.pdf"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "reviewNote": "来源目录与标题明确标注期末试卷；链接对应已检查的仓库文件。"
+    },
+    {
+      "id": "thu-002",
+      "school": "thu",
+      "course": "微积分A(1)",
+      "aliases": [
+        "微积分A（1）",
+        "微积分A一"
+      ],
+      "type": "original",
+      "year": 2005,
+      "yearLabel": "2005",
+      "files": [
+        "大一上/微积分A(1)/exam/期末/2005微积分（1）期末.pdf"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "reviewNote": "来源目录与标题明确标注期末试卷；链接对应已检查的仓库文件。"
+    },
+    {
+      "id": "thu-004",
+      "school": "thu",
+      "course": "微积分A(1)",
+      "aliases": [
+        "微积分A（1）",
+        "微积分A一"
+      ],
+      "type": "original",
+      "year": 2007,
+      "yearLabel": "2007",
+      "files": [
+        "大一上/微积分A(1)/exam/期末/2007微积分（1）期末.pdf"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "reviewNote": "来源目录与标题明确标注期末试卷；链接对应已检查的仓库文件。"
+    },
+    {
+      "id": "thu-006",
+      "school": "thu",
+      "course": "微积分A(1)",
+      "aliases": [
+        "微积分A（1）",
+        "微积分A一"
+      ],
+      "type": "original",
+      "year": 2014,
+      "yearLabel": "2014",
+      "files": [
+        "大一上/微积分A(1)/exam/期末/2014微积分（1）期末.doc"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "reviewNote": "来源目录与标题明确标注期末试卷；链接对应已检查的仓库文件。"
+    },
+    {
+      "id": "thu-007",
+      "school": "thu",
+      "course": "微积分A(1)",
+      "aliases": [
+        "微积分A（1）",
+        "微积分A一"
+      ],
+      "type": "original",
+      "year": 2017,
+      "yearLabel": "2017",
+      "files": [
+        "大一上/微积分A(1)/exam/期末/2017微积分（1）期末.pdf"
+      ],
+      "answers": [
+        "大一上/微积分A(1)/exam/期末/2017微积分（1）期末考试答案.pdf"
+      ],
+      "answerIncluded": false,
+      "reviewNote": "来源目录与标题明确标注期末试卷；链接对应已检查的仓库文件。"
+    },
+    {
+      "id": "thu-008",
+      "school": "thu",
+      "course": "微积分A(1)",
+      "aliases": [
+        "微积分A（1）",
+        "微积分A一"
+      ],
+      "type": "original",
+      "year": 2019,
+      "yearLabel": "2019",
+      "files": [
+        "大一上/微积分A(1)/exam/期末/2019-VA1-期末.pdf"
+      ],
+      "answers": [
+        "大一上/微积分A(1)/exam/期末/2019-VA1-期末(含答案).pdf"
+      ],
+      "answerIncluded": false,
+      "reviewNote": "来源目录与标题明确标注期末试卷；链接对应已检查的仓库文件。",
+      "answerNote": "参考答案位于含答案版本中。"
+    },
+    {
+      "id": "thu-009",
+      "school": "thu",
+      "course": "微积分A(1)",
+      "aliases": [
+        "微积分A（1）",
+        "微积分A一"
+      ],
+      "type": "original",
+      "year": 2020,
+      "yearLabel": "2020",
+      "files": [
+        "大一上/微积分A(1)/exam/期末/2020-VA1-期末.pdf"
+      ],
+      "answers": [
+        "大一上/微积分A(1)/exam/期末/2020-VA1-期末(含答案).pdf"
+      ],
+      "answerIncluded": false,
+      "reviewNote": "来源目录与标题明确标注期末试卷；链接对应已检查的仓库文件。",
+      "answerNote": "参考答案位于含答案版本中。"
+    },
+    {
+      "id": "thu-010",
+      "school": "thu",
+      "course": "微积分A(1)",
+      "aliases": [
+        "微积分A（1）",
+        "微积分A一"
+      ],
+      "type": "original",
+      "year": 2021,
+      "yearLabel": "2021",
+      "files": [
+        "大一上/微积分A(1)/exam/期末/2021-VA1-期末.pdf"
+      ],
+      "answers": [
+        "大一上/微积分A(1)/exam/期末/2021-VA1-期末(含答案).pdf"
+      ],
+      "answerIncluded": false,
+      "reviewNote": "来源目录与标题明确标注期末试卷；链接对应已检查的仓库文件。",
+      "answerNote": "参考答案位于含答案版本中。"
+    },
+    {
+      "id": "thu-011",
+      "school": "thu",
+      "course": "微积分A(1)",
+      "aliases": [
+        "微积分A（1）",
+        "微积分A一"
+      ],
+      "type": "original",
+      "year": 2022,
+      "yearLabel": "2022",
+      "files": [
+        "大一上/微积分A(1)/exam/期末/2022-VA1-期末.pdf"
+      ],
+      "answers": [
+        "大一上/微积分A(1)/exam/期末/2022-VA1-期末(含答案).pdf"
+      ],
+      "answerIncluded": false,
+      "reviewNote": "来源目录与标题明确标注期末试卷；链接对应已检查的仓库文件。",
+      "answerNote": "参考答案位于含答案版本中。"
+    },
+    {
+      "id": "thu-012",
+      "school": "thu",
+      "course": "微积分A(1)",
+      "aliases": [
+        "微积分A（1）",
+        "微积分A一"
+      ],
+      "type": "original",
+      "year": 2023,
+      "yearLabel": "2023",
+      "files": [
+        "大一上/微积分A(1)/exam/期末/2023-VA1-期末.pdf"
+      ],
+      "answers": [
+        "大一上/微积分A(1)/exam/期末/2023-VA1-期末(含答案).pdf"
+      ],
+      "answerIncluded": false,
+      "reviewNote": "来源目录与标题明确标注期末试卷；链接对应已检查的仓库文件。",
+      "answerNote": "参考答案位于含答案版本中。"
+    },
+    {
+      "id": "thu-013",
+      "school": "thu",
+      "course": "微积分A(1)",
+      "aliases": [
+        "微积分A（1）",
+        "微积分A一"
+      ],
+      "type": "original",
+      "year": 2024,
+      "yearLabel": "2024",
+      "files": [
+        "大一上/微积分A(1)/exam/期末/2024-VA1-期末.pdf"
+      ],
+      "answers": [
+        "大一上/微积分A(1)/exam/期末/2024-VA1-期末(含答案).pdf"
+      ],
+      "answerIncluded": false,
+      "reviewNote": "来源目录与标题明确标注期末试卷；链接对应已检查的仓库文件。",
+      "answerNote": "参考答案位于含答案版本中。"
+    },
+    {
+      "id": "thu-014",
+      "school": "thu",
+      "course": "微积分A(1)",
+      "aliases": [
+        "微积分A（1）",
+        "微积分A一"
+      ],
+      "type": "original",
+      "year": 2025,
+      "yearLabel": "2025",
+      "files": [
+        "大一上/微积分A(1)/exam/期末/2025-VA1-期末.pdf"
+      ],
+      "answers": [
+        "大一上/微积分A(1)/exam/期末/2025-VA1-期末(含答案).pdf"
+      ],
+      "answerIncluded": false,
+      "reviewNote": "来源目录与标题明确标注期末试卷；链接对应已检查的仓库文件。",
+      "answerNote": "参考答案位于含答案版本中。"
+    },
+    {
+      "id": "thu-015",
+      "school": "thu",
+      "course": "微积分A(1)",
+      "aliases": [
+        "微积分A（1）",
+        "微积分A一"
+      ],
+      "type": "original",
+      "year": null,
+      "yearLabel": "年份未注明",
+      "files": [
+        "大一上/微积分A(1)/exam/期末/不明年份1-一元微积分期末考卷题目.pdf"
+      ],
+      "answers": [
+        "大一上/微积分A(1)/exam/期末/不明年份1-一元微积分期末考卷题目答案.pdf"
+      ],
+      "answerIncluded": false,
+      "reviewNote": "来源目录与标题明确标注期末试卷；链接对应已检查的仓库文件。"
+    },
+    {
+      "id": "thu-016",
+      "school": "thu",
+      "course": "微积分A(1)",
+      "aliases": [
+        "微积分A（1）",
+        "微积分A一"
+      ],
+      "type": "original",
+      "year": 2008,
+      "yearLabel": "2008",
+      "files": [
+        "大一上/微积分A(1)/exam/期末/微积分（1）期末（2008）/SKMBT_C22013040417060_0017.jpg",
+        "大一上/微积分A(1)/exam/期末/微积分（1）期末（2008）/SKMBT_C22013040417060_0018.jpg",
+        "大一上/微积分A(1)/exam/期末/微积分（1）期末（2008）/SKMBT_C22013040417060_0019.jpg",
+        "大一上/微积分A(1)/exam/期末/微积分（1）期末（2008）/SKMBT_C22013040417060_0020.jpg"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "reviewNote": "同一期末试卷目录内连续编号扫描页，合并为一条记录。"
+    },
+    {
+      "id": "thu-017",
+      "school": "thu",
+      "course": "微积分A(1)",
+      "aliases": [
+        "微积分A（1）",
+        "微积分A一"
+      ],
+      "type": "original",
+      "year": 2009,
+      "yearLabel": "2009",
+      "files": [
+        "大一上/微积分A(1)/exam/期末/微积分（1）期末（2009）/SKMBT_C22013040417060_0021.jpg",
+        "大一上/微积分A(1)/exam/期末/微积分（1）期末（2009）/SKMBT_C22013040417060_0022.jpg",
+        "大一上/微积分A(1)/exam/期末/微积分（1）期末（2009）/SKMBT_C22013040417060_0023.jpg",
+        "大一上/微积分A(1)/exam/期末/微积分（1）期末（2009）/SKMBT_C22013040417060_0024.jpg",
+        "大一上/微积分A(1)/exam/期末/微积分（1）期末（2009）/SKMBT_C22013040417060_0025.jpg"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "reviewNote": "同一期末试卷目录内连续编号扫描页，合并为一条记录。"
+    },
+    {
+      "id": "thu-018",
+      "school": "thu",
+      "course": "大学化学A",
+      "aliases": [],
+      "type": "recalled",
+      "year": 2023,
+      "yearLabel": "2023",
+      "files": [
+        "大一上/大学化学A/大学化学A2023期末回忆版.pdf",
+        "大一上/大学化学A/大学化学A2023期末回忆版.md"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "reviewNote": "已阅读正文，明确为2023年期末考试回忆版；PDF和Markdown是同份资料的两种格式。"
+    },
+    {
+      "id": "nju-001",
+      "school": "nju",
+      "course": "C++程序设计",
+      "aliases": [
+        "C++",
+        "CPP"
+      ],
+      "type": "recalled",
+      "year": 2020,
+      "yearLabel": "2020",
+      "files": [
+        "C++/2020C++期末笔试回忆.md"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "reviewNote": "已读取完整 Markdown 正文并计算 Git blob SHA，与来源仓库目录一致；学校与课程由仓库说明、目录及正文联合核对。"
+    },
+    {
+      "id": "nju-002",
+      "school": "nju",
+      "course": "计算机网络",
+      "aliases": [],
+      "type": "recalled",
+      "year": 2019,
+      "yearLabel": "2019",
+      "files": [
+        "计算机网络/历年试卷/2019/2019期末.md"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "reviewNote": "已读取完整 Markdown 正文并计算 Git blob SHA，与来源仓库目录一致；学校与课程由仓库说明、目录及正文联合核对。"
+    },
+    {
+      "id": "nju-003",
+      "school": "nju",
+      "course": "互联网计算",
+      "aliases": [],
+      "type": "recalled",
+      "year": 2020,
+      "yearLabel": "2020",
+      "files": [
+        "计算机网络/历年试卷/2020/2020互联网计算期末笔试回忆.md"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "reviewNote": "已读取完整 Markdown 正文并计算 Git blob SHA，与来源仓库目录一致；学校与课程由仓库说明、目录及正文联合核对。"
+    },
+    {
+      "id": "nju-004",
+      "school": "nju",
+      "course": "软件工程与计算 I",
+      "aliases": [
+        "软件工程与计算一",
+        "软件工程与计算1"
+      ],
+      "type": "recalled",
+      "year": null,
+      "yearLabel": "年份未注明",
+      "files": [
+        "软件工程与计算/Software Engineering and Computing I/软件工程与计算一期末试题回忆-2016.md"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "reviewNote": "已读取完整 Markdown 正文并计算 Git blob SHA，与来源仓库目录一致；学校与课程由仓库说明、目录及正文联合核对。",
+      "note": "文件名与正文日期信息不一致，考试年份尚未确认。保留课程 I，与课程 II 分开检索。"
+    },
+    {
+      "id": "nju-005",
+      "school": "nju",
+      "course": "软件工程与计算 II",
+      "aliases": [
+        "软件工程与计算二",
+        "软件工程与计算2"
+      ],
+      "type": "recalled",
+      "year": 2016,
+      "yearLabel": "2016",
+      "files": [
+        "软件工程与计算/Software Engineering and Computing II/2016期末试题回忆.md"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "reviewNote": "已读取完整 Markdown 正文并计算 Git blob SHA，与来源仓库目录一致；学校与课程由仓库说明、目录及正文联合核对。",
+      "note": "按正文标题收录为 2016 年考试；文档整理于 2018 年。"
+    },
+    {
+      "id": "nju-006",
+      "school": "nju",
+      "course": "需求与商业模式创新",
+      "aliases": [],
+      "type": "recalled",
+      "year": 2022,
+      "yearLabel": "2022",
+      "files": [
+        "需求与商业模式创新/需求2022期末试题（回忆版）.md"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "reviewNote": "已读取完整 Markdown 正文并计算 Git blob SHA，与来源仓库目录一致；学校与课程由仓库说明、目录及正文联合核对。"
+    },
+    {
+      "id": "hitsz-001",
+      "school": "hitsz",
+      "course": "机器学习概论",
+      "aliases": [],
+      "type": "recalled",
+      "year": 2021,
+      "yearLabel": "2021",
+      "files": [
+        "大三上/机器学习概论/exam/2021机器学习期末考_回忆版.md"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "reviewNote": "已读取完整 Markdown 正文并计算 Git blob SHA，与来源仓库目录一致；学校与课程由仓库说明、目录及正文联合核对。",
+      "note": "深圳校区；考点回忆，未包含完整题面。"
+    },
+    {
+      "id": "hitsz-002",
+      "school": "hitsz",
+      "course": "并行处理与体系结构",
+      "aliases": [
+        "并行计算"
+      ],
+      "type": "recalled",
+      "year": 2024,
+      "yearLabel": "2024",
+      "files": [
+        "研究生课/并行处理与体系结构/exam/2024_并行处理与体系结构期末考试回忆版.md"
+      ],
+      "answers": [],
+      "answerIncluded": true,
+      "reviewNote": "已读取完整 Markdown 正文并计算 Git blob SHA，与来源仓库目录一致；学校与课程由仓库说明、目录及正文联合核对。",
+      "note": "深圳校区研究生课程；部分题目未完整回忆。",
+      "answerNote": "原文含部分参考答案，未经过本站校对。"
+    },
+    {
+      "id": "buaa-001",
+      "school": "buaa",
+      "course": "智能自主系统",
+      "aliases": [],
+      "type": "recalled",
+      "year": 2020,
+      "yearLabel": "2020",
+      "files": [
+        "智能自主系统/考试信息/2020考试内容回忆版.md"
+      ],
+      "answers": [],
+      "answerIncluded": true,
+      "reviewNote": "已读取完整 Markdown 正文并计算 Git blob SHA，与来源仓库目录一致；学校与课程由仓库说明、目录及正文联合核对。",
+      "answerNote": "原文含贡献者尝试解答，正确性未核实。"
+    },
+    {
+      "id": "buaa-002",
+      "school": "buaa",
+      "course": "智能自主系统",
+      "aliases": [],
+      "type": "recalled",
+      "year": 2023,
+      "yearLabel": "2023",
+      "files": [
+        "智能自主系统/考试信息/2023考试内容回忆版.md"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "reviewNote": "已读取完整 Markdown 正文并计算 Git blob SHA，与来源仓库目录一致；学校与课程由仓库说明、目录及正文联合核对。",
+      "note": "原文注明可能遗漏部分题目。"
+    },
+    {
+      "id": "seu-001",
+      "school": "seu",
+      "course": "程序设计基础及语言 I",
+      "aliases": [
+        "程序设计基础及语言Ⅰ",
+        "C++ I",
+        "C++1",
+        "C++（上）"
+      ],
+      "type": "original",
+      "year": 2020,
+      "yearLabel": "2019-2020",
+      "files": [
+        "0-大一上学期/程序设计语言基础(C++)/试卷/2019_期末_A卷.docx"
+      ],
+      "answers": [
+        "0-大一上学期/程序设计语言基础(C++)/试卷/2019_期末_A卷_参考答案.docx"
+      ],
+      "answerIncluded": false,
+      "term": "第 2 学期 · A 卷",
+      "note": "课程名和学年依卷头：程序设计基础及语言 I，19-20-2；原始文件名为“2019”。包含笔试与机试。"
+    },
+    {
+      "id": "seu-002",
+      "school": "seu",
+      "course": "程序设计基础及语言 II（双语）",
+      "aliases": [
+        "程序设计基础及语言Ⅱ（双语）",
+        "C++ II",
+        "C++2",
+        "C++（下）"
+      ],
+      "type": "original",
+      "year": 2020,
+      "yearLabel": "2019-2020",
+      "files": [
+        "1-大一下学期/程序设计语言基础(C++)/试卷/2019_期末_A卷.docx"
+      ],
+      "answers": [],
+      "answerIncluded": true,
+      "term": "第 3 学期 · A 卷",
+      "answerNote": "文件末尾附部分参考答案",
+      "note": "课程名和学年依卷头：程序设计基础及语言 II（双语），19-20-3；原始文件名为“2019”。"
+    },
+    {
+      "id": "seu-003",
+      "school": "seu",
+      "course": "程序设计基础及语言 II（双语）",
+      "aliases": [
+        "程序设计基础及语言Ⅱ（双语）",
+        "C++ II",
+        "C++2",
+        "C++（下）"
+      ],
+      "type": "original",
+      "year": 2020,
+      "yearLabel": "2019-2020",
+      "files": [
+        "1-大一下学期/程序设计语言基础(C++)/试卷/2019_期末_B卷.docx"
+      ],
+      "answers": [],
+      "answerIncluded": true,
+      "term": "第 3 学期 · B 卷",
+      "answerNote": "文件末尾附部分参考答案",
+      "note": "课程名和学年依卷头：程序设计基础及语言 II（双语），19-20-3；原始文件名为“2019”。"
+    },
+    {
+      "id": "nuaa-001",
+      "school": "nuaa",
+      "course": "工科数学分析 I",
+      "aliases": [
+        "工科数学分析Ⅰ",
+        "工科数学分析1"
+      ],
+      "type": "original",
+      "year": 2019,
+      "yearLabel": "2018-2019",
+      "files": [
+        "工科数学分析/2018级第1学期期末考试试AB卷及答案.pdf"
+      ],
+      "answers": [],
+      "answerIncluded": true,
+      "term": "第一学期 · A/B 卷合辑",
+      "answerNote": "同一 PDF 含 A、B 两卷及各自参考答案",
+      "note": "按卷头保留课程 I 版本。16 页合辑作为一条资料展示，不重复计算同一文件。"
+    },
+    {
+      "id": "njust-001",
+      "school": "njust",
+      "course": "C 语言程序设计（4 学分）",
+      "aliases": [
+        "C语言程序设计",
+        "C语言",
+        "C语言程序设计（4学分）"
+      ],
+      "type": "original",
+      "year": null,
+      "yearLabel": "年份未注明",
+      "files": [
+        "C语言/06000704-4学分-C语言程序设计/_附件/2016_C语言_期末考试_试卷.pdf"
+      ],
+      "answers": [
+        "C语言/06000704-4学分-C语言程序设计/_附件/2016_C语言_期末考试_答案.pdf"
+      ],
+      "answerIncluded": false,
+      "term": "A 卷",
+      "note": "原文件标为 2016，卷头组卷日期为 2017 年 1 月；未明确考试年份，暂按未知年份展示。课程编号 06000704。部分后续页沿用 15A 卷号，保留来源原貌。"
+    },
+    {
+      "id": "njust-002",
+      "school": "njust",
+      "course": "C 语言程序设计（4 学分）",
+      "aliases": [
+        "C语言程序设计",
+        "C语言",
+        "C语言程序设计（4学分）"
+      ],
+      "type": "original",
+      "year": null,
+      "yearLabel": "年份未注明",
+      "files": [
+        "C语言/06000704-4学分-C语言程序设计/_附件/2017_C语言_期末考试_试卷.pdf"
+      ],
+      "answers": [
+        "C语言/06000704-4学分-C语言程序设计/_附件/2017_C语言_期末考试_答案.pdf"
+      ],
+      "answerIncluded": false,
+      "term": "A 卷",
+      "note": "原文件标为 2017，卷头组卷日期为 2018 年 1 月；未明确考试年份，暂按未知年份展示。课程编号 06000704。"
+    },
+    {
+      "id": "njust-003",
+      "school": "njust",
+      "course": "C 语言程序设计（4 学分）",
+      "aliases": [
+        "C语言程序设计",
+        "C语言",
+        "C语言程序设计（4学分）"
+      ],
+      "type": "original",
+      "year": null,
+      "yearLabel": "年份未注明",
+      "files": [
+        "C语言/06000704-4学分-C语言程序设计/_附件/2018_C语言_期末考试_试卷.pdf"
+      ],
+      "answers": [
+        "C语言/06000704-4学分-C语言程序设计/_附件/2018_C语言_期末考试_答案.pdf"
+      ],
+      "answerIncluded": false,
+      "term": "A 卷",
+      "note": "原文件标为 2018，卷头组卷日期为 2019 年 1 月；未明确考试年份，暂按未知年份展示。课程编号 06000704。"
+    },
+    {
+      "id": "njust-004",
+      "school": "njust",
+      "course": "线性代数（2.5 学分）",
+      "aliases": [
+        "线性代数2.5学分",
+        "线代2.5"
+      ],
+      "type": "original",
+      "year": 2022,
+      "yearLabel": "2021-2022",
+      "files": [
+        "线性代数/11031201-2.5学分-线性代数/_附件/线代试卷(2.5)(21.12.2).pdf"
+      ],
+      "answers": [
+        "线性代数/11031201-2.5学分-线性代数/_附件/线代试卷(2.5)(21.12.2)答案.pdf"
+      ],
+      "answerIncluded": false,
+      "term": "秋学期 · A 卷",
+      "note": "学年与秋学期依据配套答案标题；课程编号 11031201，2.5 学分。A/B 为试卷版本。"
+    },
+    {
+      "id": "njust-005",
+      "school": "njust",
+      "course": "线性代数（2.5 学分）",
+      "aliases": [
+        "线性代数2.5学分",
+        "线代2.5"
+      ],
+      "type": "original",
+      "year": 2023,
+      "yearLabel": "2022-2023",
+      "files": [
+        "线性代数/11031201-2.5学分-线性代数/_附件/线代试卷(2.5)(22.12.4).pdf"
+      ],
+      "answers": [
+        "线性代数/11031201-2.5学分-线性代数/_附件/线代试卷(2.5)(22.12.4)答案.pdf"
+      ],
+      "answerIncluded": false,
+      "term": "秋学期 · A 卷",
+      "note": "学年与秋学期依据配套答案标题；课程编号 11031201，2.5 学分。A/B 为试卷版本。"
+    },
+    {
+      "id": "njust-006",
+      "school": "njust",
+      "course": "线性代数（2.5 学分）",
+      "aliases": [
+        "线性代数2.5学分",
+        "线代2.5"
+      ],
+      "type": "original",
+      "year": 2023,
+      "yearLabel": "2022-2023",
+      "files": [
+        "线性代数/11031201-2.5学分-线性代数/_附件/线代试卷(2.5)(23.1.6).pdf"
+      ],
+      "answers": [
+        "线性代数/11031201-2.5学分-线性代数/_附件/线代试卷(2.5)(23.1.6)答案.pdf"
+      ],
+      "answerIncluded": false,
+      "term": "秋学期 · B 卷",
+      "note": "学年与秋学期依据配套答案标题；课程编号 11031201，2.5 学分。A/B 为试卷版本。"
+    },
+    {
+      "id": "njust-007",
+      "school": "njust",
+      "course": "数字逻辑电路",
+      "aliases": [
+        "数逻"
+      ],
+      "type": "original",
+      "year": 2021,
+      "yearLabel": "2021",
+      "files": [
+        "数字逻辑电路/04026304-3.5学分-数字逻辑电路/_附件/试卷2021.pdf"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "term": "上半年 · A 卷",
+      "note": "卷头试卷编号明确标注年份，课程编号 04026304，3.5 学分。"
+    },
+    {
+      "id": "njust-008",
+      "school": "njust",
+      "course": "数字逻辑电路",
+      "aliases": [
+        "数逻"
+      ],
+      "type": "original",
+      "year": 2022,
+      "yearLabel": "2022",
+      "files": [
+        "数字逻辑电路/04026304-3.5学分-数字逻辑电路/_附件/试卷2022.pdf"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "term": "上半年 · A 卷",
+      "note": "卷头试卷编号明确标注年份，课程编号 04026304，3.5 学分。"
+    },
+    {
+      "id": "njupt-001",
+      "school": "njupt",
+      "course": "离散数学",
+      "aliases": [],
+      "type": "original",
+      "year": 2017,
+      "yearLabel": "2016-2017",
+      "files": [
+        "离散数学/试卷/离散2016-2017-1-A卷.pdf"
+      ],
+      "answers": [],
+      "answerIncluded": true,
+      "term": "第一学期 · A 卷",
+      "answerNote": "部分解答已写入试卷，非完整答案册"
+    },
+    {
+      "id": "suda-001",
+      "school": "suda",
+      "course": "复变函数",
+      "aliases": [
+        "复变"
+      ],
+      "type": "original",
+      "year": 2020,
+      "yearLabel": "2020",
+      "files": [
+        "分析与方程/复变函数/苏州大学2020年复变期末-试卷.pdf"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "term": "6 月 · A 卷"
+    },
+    {
+      "id": "suda-002",
+      "school": "suda",
+      "course": "复变函数",
+      "aliases": [
+        "复变"
+      ],
+      "type": "original",
+      "year": 2022,
+      "yearLabel": "2022",
+      "files": [
+        "分析与方程/复变函数/苏州大学2022年复变期末-试卷.pdf"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "term": "6 月 · A 卷"
+    },
+    {
+      "id": "suda-003",
+      "school": "suda",
+      "course": "泛函分析（双语）",
+      "aliases": [
+        "泛函分析双语"
+      ],
+      "type": "original",
+      "year": 2022,
+      "yearLabel": "2022",
+      "files": [
+        "分析与方程/泛函分析/苏州大学2022年泛函分析期末-试卷.pdf"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "term": "6 月 · A 卷",
+      "note": "卷头明确标注“双语”，保留课程版本。"
+    },
+    {
+      "id": "suda-004",
+      "school": "suda",
+      "course": "高等代数",
+      "aliases": [
+        "高代"
+      ],
+      "type": "original",
+      "year": 2020,
+      "yearLabel": "2020",
+      "files": [
+        "代数、数论与表示论/高等代数/苏州大学2020年高等代数期末-主观题.pdf"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "term": "7 月 · A 卷",
+      "note": "文件只包含主观题部分，并非完整试卷。"
+    },
+    {
+      "id": "jiangnan-001",
+      "school": "jiangnan",
+      "course": "数据结构",
+      "aliases": [],
+      "type": "original",
+      "year": 2015,
+      "yearLabel": "2015",
+      "files": [
+        "计算机类/数据结构/数据结构2015年期末.pdf"
+      ],
+      "answers": [
+        "计算机类/数据结构/数据结构2015期末答案.pdf"
+      ],
+      "answerIncluded": true,
+      "answerNote": "试卷含手写作答；另附对应参考答案",
+      "term": "A 卷",
+      "note": "年份依据原文件及仓库课程说明；部分答案署名 hwdong.com，保留来源署名。"
+    },
+    {
+      "id": "hhu-001",
+      "school": "hhu",
+      "course": "软件工程",
+      "aliases": [
+        "软工"
+      ],
+      "type": "recalled",
+      "year": null,
+      "yearLabel": "年份未注明",
+      "files": [
+        "软件工程/试卷回忆/试卷_回忆版.docx"
+      ],
+      "answers": [],
+      "answerIncluded": true,
+      "answerNote": "回忆稿中含部分贡献者解答",
+      "note": "原文标题为“软件工程期末考试”，未注明年份。回忆稿含省略题面和缺失图示，不是完整原卷。"
+    },
+    {
+      "id": "nuist-001",
+      "school": "nuist",
+      "course": "人工智能概论",
+      "aliases": [],
+      "type": "original",
+      "year": 2020,
+      "yearLabel": "2019-2020",
+      "files": [
+        "专业课/人工智能导论I/2019～2020《人工智能概论》期末试卷.pdf"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "term": "第二学期 · A 卷",
+      "answerNote": "",
+      "note": "按卷头“人工智能概论”收录；不与目录名中的“人工智能导论 I”合并。"
+    },
+    {
+      "id": "nuist-002",
+      "school": "nuist",
+      "course": "人工智能概论",
+      "aliases": [],
+      "type": "original",
+      "year": 2022,
+      "yearLabel": "2021-2022",
+      "files": [
+        "专业课/人工智能导论I/南京信息工程大学《人工智能概论》2021-2022学年第二学期期末试卷.pdf"
+      ],
+      "answers": [],
+      "answerIncluded": true,
+      "term": "第二学期 · A 卷",
+      "answerNote": "文件含选择题、判断题等部分作答，非完整答案册",
+      "note": "按卷头“人工智能概论”收录；不与目录名中的“人工智能导论 I”合并。"
+    },
+    {
+      "id": "nuist-003",
+      "school": "nuist",
+      "course": "数据结构",
+      "aliases": [],
+      "type": "original",
+      "year": 2020,
+      "yearLabel": "2019-2020",
+      "files": [
+        "专业课/数据结构I+课程设计/南京信息工程大学《数据结构》2019-2020学年第一学期期末试卷.pdf"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "term": "第一学期 · A 卷",
+      "note": "按卷头“数据结构”收录，不根据目录名擅自加上 I 版本。"
+    },
+    {
+      "id": "nuist-004",
+      "school": "nuist",
+      "course": "编译原理",
+      "aliases": [],
+      "type": "original",
+      "year": 2024,
+      "yearLabel": "2023-2024",
+      "files": [
+        "专业课/编译原理I/试卷/南京信息工程大学编译原理期末2023.pdf"
+      ],
+      "answers": [],
+      "answerIncluded": true,
+      "term": "第二学期 · A 卷",
+      "answerNote": "文件附选择题作答，非完整答案册",
+      "note": "原文件名含“2023”；卷头明确为 2023-2024 学年第二学期、2024 年 6 月，以卷头为准。"
+    },
+    {
+      "id": "jit-os-2016-2017-2-a",
+      "school": "jit",
+      "course": "操作系统",
+      "aliases": [],
+      "year": 2017,
+      "yearLabel": "2016-2017",
+      "term": "第2学期 · A卷",
+      "type": "original",
+      "files": [
+        "操作系统/操作系统上学期试卷及答案/上学期试卷及答案/试卷A.docx"
+      ],
+      "answers": [
+        "操作系统/操作系统上学期试卷及答案/上学期试卷及答案/标准答案A.doc"
+      ],
+      "answerIncluded": false
+    },
+    {
+      "id": "jit-os-2016-2017-2-b",
+      "school": "jit",
+      "course": "操作系统",
+      "aliases": [],
+      "year": 2017,
+      "yearLabel": "2016-2017",
+      "term": "第2学期 · B卷",
+      "type": "original",
+      "files": [
+        "操作系统/操作系统上学期试卷及答案/上学期试卷及答案/试卷B.doc"
+      ],
+      "answers": [
+        "操作系统/操作系统上学期试卷及答案/上学期试卷及答案/标准答案B.doc"
+      ],
+      "answerIncluded": false
+    },
+    {
+      "id": "jit-os-2016-2017-1-a",
+      "school": "jit",
+      "course": "操作系统",
+      "aliases": [],
+      "year": 2017,
+      "yearLabel": "2016-2017",
+      "term": "第1学期 · A卷",
+      "type": "original",
+      "files": [
+        "操作系统/操作系统复习资料/2016-2017-1_操作系统试卷及答案_陶玉婷/试卷A.docx"
+      ],
+      "answers": [
+        "操作系统/操作系统复习资料/2016-2017-1_操作系统试卷及答案_陶玉婷/标准答案A.doc"
+      ],
+      "answerIncluded": false,
+      "reviewedPaths": [
+        {
+          "path": "操作系统/操作系统复习资料/2016-2017-1_操作系统试卷及答案_陶玉婷/试卷A.docx",
+          "blobSha": "597a2ac84264c2628c4c4b3c43e9b7a97bed479a",
+          "reason": "已打开正文核对金陵科技学院卷头、操作系统课程、2016/2017学年第一学期及A/B卷；此文件是试卷或配套答案，只有父目录名含复习。"
+        },
+        {
+          "path": "操作系统/操作系统复习资料/2016-2017-1_操作系统试卷及答案_陶玉婷/标准答案A.doc",
+          "blobSha": "17d2e49f679512a4cde9c967dcad0d20631a612b",
+          "reason": "已打开正文核对金陵科技学院卷头、操作系统课程、2016/2017学年第一学期及A/B卷；此文件是试卷或配套答案，只有父目录名含复习。"
+        }
+      ]
+    },
+    {
+      "id": "jit-os-2016-2017-1-b",
+      "school": "jit",
+      "course": "操作系统",
+      "aliases": [],
+      "year": 2017,
+      "yearLabel": "2016-2017",
+      "term": "第1学期 · B卷",
+      "type": "original",
+      "files": [
+        "操作系统/操作系统复习资料/2016-2017-1_操作系统试卷及答案_陶玉婷/试卷B.doc"
+      ],
+      "answers": [
+        "操作系统/操作系统复习资料/2016-2017-1_操作系统试卷及答案_陶玉婷/标准答案B.doc"
+      ],
+      "answerIncluded": false,
+      "reviewedPaths": [
+        {
+          "path": "操作系统/操作系统复习资料/2016-2017-1_操作系统试卷及答案_陶玉婷/试卷B.doc",
+          "blobSha": "fa8df4932442e9658a67dbc0fc154aa73148cf20",
+          "reason": "已打开正文核对金陵科技学院卷头、操作系统课程、2016/2017学年第一学期及A/B卷；此文件是试卷或配套答案，只有父目录名含复习。"
+        },
+        {
+          "path": "操作系统/操作系统复习资料/2016-2017-1_操作系统试卷及答案_陶玉婷/标准答案B.doc",
+          "blobSha": "00b68e60872b7f49bdb74ac6b8fc1ff81a712498",
+          "reason": "已打开正文核对金陵科技学院卷头、操作系统课程、2016/2017学年第一学期及A/B卷；此文件是试卷或配套答案，只有父目录名含复习。"
+        }
+      ]
+    },
+    {
+      "id": "jit-discrete-2015-2016-a",
+      "school": "jit",
+      "course": "离散结构",
+      "aliases": [],
+      "year": 2016,
+      "yearLabel": "2015-2016",
+      "term": "第1学期 · A卷",
+      "type": "original",
+      "files": [
+        "离散数学/离散结构2015试卷冬季/试卷A/LS_A-2015-5试卷.doc"
+      ],
+      "answers": [
+        "离散数学/离散结构2015试卷冬季/试卷A/_LS_A 参考答案2015-5.doc"
+      ],
+      "answerIncluded": false,
+      "note": "按卷头课程名“离散结构”收录；来源目录名为“离散数学”。"
+    },
+    {
+      "id": "jit-discrete-2015-2016-b",
+      "school": "jit",
+      "course": "离散结构",
+      "aliases": [],
+      "year": 2016,
+      "yearLabel": "2015-2016",
+      "term": "第1学期 · B卷",
+      "type": "original",
+      "files": [
+        "离散数学/离散结构2015试卷冬季/试卷B/B-2015-5试卷.doc"
+      ],
+      "answers": [
+        "离散数学/离散结构2015试卷冬季/试卷B/B 参考答案.doc"
+      ],
+      "answerIncluded": false,
+      "note": "按卷头课程名“离散结构”收录；来源目录名为“离散数学”。"
+    },
+    {
+      "id": "nau-settlement-2019-2020",
+      "school": "nau",
+      "course": "International Settlement",
+      "aliases": [
+        "国际结算"
+      ],
+      "year": 2020,
+      "yearLabel": "2019-2020",
+      "term": "第2学期",
+      "type": "original",
+      "files": [
+        "国际结算/2019-2020-2《International Settlement》试卷.pdf"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "note": "南京审计大学金融学院，2017级 CFA 1—3班；英文开卷试卷。"
+    },
+    {
+      "id": "nau-econometrics-2019-2020",
+      "school": "nau",
+      "course": "计量经济学",
+      "aliases": [
+        "Econometrics"
+      ],
+      "year": 2020,
+      "yearLabel": "2019-2020",
+      "term": "第2学期",
+      "type": "original",
+      "files": [
+        "计量经济学/真题/计量经济学期末考试试卷.pdf"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "note": "卷头标注2019—2020学年第二学期；来源为南审金融学（CFA）课程仓库。"
+    },
+    {
+      "id": "nau-econometrics-recalled-unknown",
+      "school": "nau",
+      "course": "计量经济学",
+      "aliases": [
+        "Econometrics"
+      ],
+      "year": null,
+      "yearLabel": "年份未注明",
+      "term": "",
+      "type": "recalled",
+      "files": [
+        "计量经济学/真题/readme.md"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "note": "不完整回忆版：含部分简答、判断及计算题回忆和少量解题提示，未附完整答案；原文没有注明考试年份，不与同目录原卷推定为同一次考试。"
+    },
+    {
+      "id": "ycit-control-2019-ab",
+      "school": "ycit",
+      "course": "现代控制理论",
+      "aliases": [],
+      "year": 2019,
+      "yearLabel": "2019",
+      "term": "A/B卷合辑",
+      "type": "original",
+      "files": [
+        "盐城工学院课程攻略共享计划/现代控制理论/现代控制理论2019年试卷.pdf"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "note": "7页扫描文件合并包含A、B两卷，计为一条资料。年份依据来源文件名；题面明确标注“期末试卷”，学校归属依据盐城工学院课程仓库。未附答案。"
+    },
+    {
+      "id": "xjtlu-cse107-2019-2020",
+      "school": "xjtlu",
+      "course": "Discrete Mathematics and Statistics（CSE107）",
+      "aliases": [
+        "CSE107",
+        "离散数学与统计（CSE107）",
+        "Discrete Mathematics and Statistics"
+      ],
+      "year": 2020,
+      "yearLabel": "2019-2020",
+      "term": "第1学期",
+      "type": "original",
+      "files": [
+        "2019-2020_CSE107_Final_S1.pdf"
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "note": "卷头课程代码为CSE107，按原卷保留；不因仓库名为CPT107而合并课程。5页英文期末原卷。"
+    }
+  ]
+}

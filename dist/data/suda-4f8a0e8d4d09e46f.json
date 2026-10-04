@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-23T04:25:19.843Z",
+  "school": {
+    "id": "suda",
+    "name": "苏州大学",
+    "shortName": "苏大",
+    "aliases": [
+      "苏大",
+      "SUDA",
+      "Soochow University"
+    ],
+    "repository": "SoochowXiong/MathWarehouse",
+    "sourceTitle": "苏州大学数学科学学院资源库",
+    "coursePathIndex": 1,
+    "province": "江苏"
+  },
+  "courses": [
+    {
+      "name": "泛函分析（双语）",
+      "aliases": [
+        "泛函分析双语"
+      ],
+      "paperCount": 1
+    },
+    {
+      "name": "复变函数",
+      "aliases": [
+        "复变"
+      ],
+      "paperCount": 2
+    },
+    {
+      "name": "高等代数",
+      "aliases": [
+        "高代"
+      ],
+      "paperCount": 1
+    }
+  ],
+  "papers": [
+    {
+      "id": "suda-001",
+      "school": "suda",
+      "course": "复变函数",
+      "aliases": [
+        "复变"
+      ],
+      "originalTitle": "苏州大学2020年复变期末-试卷",
+      "year": 2020,
+      "yearLabel": "2020",
+      "term": "6 月 · A 卷",
+      "type": "original",
+      "files": [
+        {
+          "name": "苏州大学2020年复变期末-试卷.pdf",
+          "path": "分析与方程/复变函数/苏州大学2020年复变期末-试卷.pdf",
+          "format": "PDF",
+          "url": "https://github.com/SoochowXiong/MathWarehouse/blob/95454cde1d3729229f0e3fca965a30317a705718/%E5%88%86%E6%9E%90%E4%B8%8E%E6%96%B9%E7%A8%8B/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E8%8B%8F%E5%B7%9E%E5%A4%A7%E5%AD%A62020%E5%B9%B4%E5%A4%8D%E5%8F%98%E6%9C%9F%E6%9C%AB-%E8%AF%95%E5%8D%B7.pdf",
+          "blobSha": "07fefd182f048b2977ea4dccfb0a41dca264fcb6"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "",
+      "verifiedAt": "2026-09-23T04:25:19.843Z",
+      "source": {
+        "repository": "SoochowXiong/MathWarehouse",
+        "repositoryUrl": "https://github.com/SoochowXiong/MathWarehouse",
+        "title": "苏州大学数学科学学院资源库",
+        "commit": "95454cde1d3729229f0e3fca965a30317a705718"
+      }
+    },
+    {
+      "id": "suda-002",
+      "school": "suda",
+      "course": "复变函数",
+      "aliases": [
+        "复变"
+      ],
+      "originalTitle": "苏州大学2022年复变期末-试卷",
+      "year": 2022,
+      "yearLabel": "2022",
+      "term": "6 月 · A 卷",
+      "type": "original",
+      "files": [
+        {
+          "name": "苏州大学2022年复变期末-试卷.pdf",
+          "path": "分析与方程/复变函数/苏州大学2022年复变期末-试卷.pdf",
+          "format": "PDF",
+          "url": "https://github.com/SoochowXiong/MathWarehouse/blob/95454cde1d3729229f0e3fca965a30317a705718/%E5%88%86%E6%9E%90%E4%B8%8E%E6%96%B9%E7%A8%8B/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E8%8B%8F%E5%B7%9E%E5%A4%A7%E5%AD%A62022%E5%B9%B4%E5%A4%8D%E5%8F%98%E6%9C%9F%E6%9C%AB-%E8%AF%95%E5%8D%B7.pdf",
+          "blobSha": "92ad4e7303e60aa5c5ffcb121fa8d08a990685ba"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "",
+      "verifiedAt": "2026-09-23T04:25:19.843Z",
+      "source": {
+        "repository": "SoochowXiong/MathWarehouse",
+        "repositoryUrl": "https://github.com/SoochowXiong/MathWarehouse",
+        "title": "苏州大学数学科学学院资源库",
+        "commit": "95454cde1d3729229f0e3fca965a30317a705718"
+      }
+    },
+    {
+      "id": "suda-003",
+      "school": "suda",
+      "course": "泛函分析（双语）",
+      "aliases": [
+        "泛函分析双语"
+      ],
+      "originalTitle": "苏州大学2022年泛函分析期末-试卷",
+      "year": 2022,
+      "yearLabel": "2022",
+      "term": "6 月 · A 卷",
+      "type": "original",
+      "files": [
+        {
+          "name": "苏州大学2022年泛函分析期末-试卷.pdf",
+          "path": "分析与方程/泛函分析/苏州大学2022年泛函分析期末-试卷.pdf",
+          "format": "PDF",
+          "url": "https://github.com/SoochowXiong/MathWarehouse/blob/95454cde1d3729229f0e3fca965a30317a705718/%E5%88%86%E6%9E%90%E4%B8%8E%E6%96%B9%E7%A8%8B/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/%E8%8B%8F%E5%B7%9E%E5%A4%A7%E5%AD%A62022%E5%B9%B4%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E6%9C%9F%E6%9C%AB-%E8%AF%95%E5%8D%B7.pdf",
+          "blobSha": "04ee587ea31ef807d43d4727db94c4e3e04c7b4f"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "卷头明确标注“双语”，保留课程版本。",
+      "verifiedAt": "2026-09-23T04:25:19.843Z",
+      "source": {
+        "repository": "SoochowXiong/MathWarehouse",
+        "repositoryUrl": "https://github.com/SoochowXiong/MathWarehouse",
+        "title": "苏州大学数学科学学院资源库",
+        "commit": "95454cde1d3729229f0e3fca965a30317a705718"
+      }
+    },
+    {
+      "id": "suda-004",
+      "school": "suda",
+      "course": "高等代数",
+      "aliases": [
+        "高代"
+      ],
+      "originalTitle": "苏州大学2020年高等代数期末-主观题",
+      "year": 2020,
+      "yearLabel": "2020",
+      "term": "7 月 · A 卷",
+      "type": "original",
+      "files": [
+        {
+          "name": "苏州大学2020年高等代数期末-主观题.pdf",
+          "path": "代数、数论与表示论/高等代数/苏州大学2020年高等代数期末-主观题.pdf",
+          "format": "PDF",
+          "url": "https://github.com/SoochowXiong/MathWarehouse/blob/95454cde1d3729229f0e3fca965a30317a705718/%E4%BB%A3%E6%95%B0%E3%80%81%E6%95%B0%E8%AE%BA%E4%B8%8E%E8%A1%A8%E7%A4%BA%E8%AE%BA/%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0/%E8%8B%8F%E5%B7%9E%E5%A4%A7%E5%AD%A62020%E5%B9%B4%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0%E6%9C%9F%E6%9C%AB-%E4%B8%BB%E8%A7%82%E9%A2%98.pdf",
+          "blobSha": "89791b01a8d7d753ca9890924e6e93e866aafa26"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "文件只包含主观题部分，并非完整试卷。",
+      "verifiedAt": "2026-09-23T04:25:19.843Z",
+      "source": {
+        "repository": "SoochowXiong/MathWarehouse",
+        "repositoryUrl": "https://github.com/SoochowXiong/MathWarehouse",
+        "title": "苏州大学数学科学学院资源库",
+        "commit": "95454cde1d3729229f0e3fca965a30317a705718"
+      }
+    }
+  ]
+}

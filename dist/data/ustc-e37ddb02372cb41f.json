@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-23T04:25:19.843Z",
+  "school": {
+    "id": "ustc",
+    "name": "中国科学技术大学",
+    "shortName": "中科大",
+    "aliases": [
+      "中科大",
+      "中国科大",
+      "USTC"
+    ],
+    "repository": "USTC-Resource/USTC-Course",
+    "sourceTitle": "中国科学技术大学课程资源"
+  },
+  "courses": [
+    {
+      "name": "操作系统原理与设计",
+      "aliases": [
+        "操作系统"
+      ],
+      "paperCount": 1
+    },
+    {
+      "name": "数理方程（B）",
+      "aliases": [],
+      "paperCount": 1
+    },
+    {
+      "name": "数理逻辑",
+      "aliases": [],
+      "paperCount": 1
+    },
+    {
+      "name": "随机过程（B）",
+      "aliases": [],
+      "paperCount": 1
+    }
+  ],
+  "papers": [
+    {
+      "id": "ustc-004",
+      "school": "ustc",
+      "course": "数理方程（B）",
+      "aliases": [],
+      "originalTitle": "数理方程期末考试试题",
+      "year": 2014,
+      "yearLabel": "2013–2014 学年",
+      "term": "第二学期",
+      "type": "recalled",
+      "files": [
+        {
+          "name": "数理方程期末考试试题.pdf",
+          "path": "数理方程/exams/数理方程期末考试试题.pdf",
+          "format": "PDF",
+          "url": "https://github.com/USTC-Resource/USTC-Course/blob/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/exams/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E9%A2%98.pdf",
+          "blobSha": "149861d6bd2d4ee4d5494c7ed56b3d08ead5dcb6"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "",
+      "verifiedAt": "2026-09-23T04:25:19.843Z",
+      "source": {
+        "repository": "USTC-Resource/USTC-Course",
+        "repositoryUrl": "https://github.com/USTC-Resource/USTC-Course",
+        "title": "中国科学技术大学课程资源",
+        "commit": "d091d4d43df88d6744e4c914825afa8f5019d95f"
+      }
+    },
+    {
+      "id": "ustc-005",
+      "school": "ustc",
+      "course": "数理逻辑",
+      "aliases": [],
+      "originalTitle": "中国科学技术大学2018春季学期数理逻辑期末试题",
+      "year": 2018,
+      "yearLabel": "2018",
+      "term": "春季学期",
+      "type": "recalled",
+      "files": [
+        {
+          "name": "中国科学技术大学2018春季学期数理逻辑期末试题.pdf",
+          "path": "数理逻辑/exams/中国科学技术大学2018春季学期数理逻辑期末试题.pdf",
+          "format": "PDF",
+          "url": "https://github.com/USTC-Resource/USTC-Course/blob/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/exams/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A62018%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf",
+          "blobSha": "2a997cb4298c65c28ed371a0cb6011d755933362"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "",
+      "verifiedAt": "2026-09-23T04:25:19.843Z",
+      "source": {
+        "repository": "USTC-Resource/USTC-Course",
+        "repositoryUrl": "https://github.com/USTC-Resource/USTC-Course",
+        "title": "中国科学技术大学课程资源",
+        "commit": "d091d4d43df88d6744e4c914825afa8f5019d95f"
+      }
+    },
+    {
+      "id": "ustc-008",
+      "school": "ustc",
+      "course": "随机过程（B）",
+      "aliases": [],
+      "originalTitle": "随机过程期末考题(2018.1.9)",
+      "year": 2018,
+      "yearLabel": "2017–2018 学年",
+      "term": "第一学期",
+      "type": "original",
+      "files": [
+        {
+          "name": "随机过程期末考题(2018.1.9).pdf",
+          "path": "随机过程/exams/随机过程期末考题(2018.1.9).pdf",
+          "format": "PDF",
+          "url": "https://github.com/USTC-Resource/USTC-Course/blob/d091d4d43df88d6744e4c914825afa8f5019d95f/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/exams/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E9%A2%98(2018.1.9).pdf",
+          "blobSha": "63f59b6a7d13c5a66f98d422afde789baf577c49"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "",
+      "verifiedAt": "2026-09-23T04:25:19.843Z",
+      "source": {
+        "repository": "USTC-Resource/USTC-Course",
+        "repositoryUrl": "https://github.com/USTC-Resource/USTC-Course",
+        "title": "中国科学技术大学课程资源",
+        "commit": "d091d4d43df88d6744e4c914825afa8f5019d95f"
+      }
+    },
+    {
+      "id": "ustc-009",
+      "school": "ustc",
+      "course": "操作系统原理与设计",
+      "aliases": [
+        "操作系统"
+      ],
+      "originalTitle": "2017年操作系统原理与设计试卷（回忆版）",
+      "year": 2017,
+      "yearLabel": "2016–2017 学年",
+      "term": "第二学期",
+      "type": "recalled",
+      "files": [
+        {
+          "name": "2017年操作系统原理与设计试卷（回忆版）.pdf",
+          "path": "操作系统原理与设计/exams/2017年操作系统原理与设计试卷（回忆版）.pdf",
+          "format": "PDF",
+          "url": "https://github.com/USTC-Resource/USTC-Course/blob/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/exams/2017%E5%B9%B4%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1%E8%AF%95%E5%8D%B7%EF%BC%88%E5%9B%9E%E5%BF%86%E7%89%88%EF%BC%89.pdf",
+          "blobSha": "bc1906bc4860964beff6b96d0c88ba3d0ea8cc93"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "",
+      "verifiedAt": "2026-09-23T04:25:19.843Z",
+      "source": {
+        "repository": "USTC-Resource/USTC-Course",
+        "repositoryUrl": "https://github.com/USTC-Resource/USTC-Course",
+        "title": "中国科学技术大学课程资源",
+        "commit": "d091d4d43df88d6744e4c914825afa8f5019d95f"
+      }
+    }
+  ]
+}

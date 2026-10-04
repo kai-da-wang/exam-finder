@@ -1,0 +1,702 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-23T04:25:19.843Z",
+  "school": {
+    "id": "thu",
+    "name": "清华大学",
+    "shortName": "清华",
+    "aliases": [
+      "清华",
+      "THU",
+      "Tsinghua"
+    ],
+    "repository": "PKUanonym/REKCARC-TSC-UHT",
+    "sourceTitle": "清华大学计算机系课程攻略"
+  },
+  "courses": [
+    {
+      "name": "大学化学A",
+      "aliases": [],
+      "paperCount": 1
+    },
+    {
+      "name": "微积分A(1)",
+      "aliases": [
+        "微积分A（1）",
+        "微积分A一"
+      ],
+      "paperCount": 15
+    }
+  ],
+  "papers": [
+    {
+      "id": "thu-001",
+      "school": "thu",
+      "course": "微积分A(1)",
+      "aliases": [
+        "微积分A（1）",
+        "微积分A一"
+      ],
+      "originalTitle": "2004微积分（1）期末",
+      "year": 2004,
+      "yearLabel": "2004",
+      "term": "",
+      "type": "original",
+      "files": [
+        {
+          "name": "2004微积分（1）期末.pdf",
+          "path": "大一上/微积分A(1)/exam/期末/2004微积分（1）期末.pdf",
+          "format": "PDF",
+          "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%BE%AE%E7%A7%AF%E5%88%86A(1)/exam/%E6%9C%9F%E6%9C%AB/2004%E5%BE%AE%E7%A7%AF%E5%88%86%EF%BC%881%EF%BC%89%E6%9C%9F%E6%9C%AB.pdf",
+          "blobSha": "9a1c3e764f7bf1f4f943df546124345a296804d6"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "",
+      "verifiedAt": "2026-09-23T04:25:19.843Z",
+      "source": {
+        "repository": "PKUanonym/REKCARC-TSC-UHT",
+        "repositoryUrl": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+        "title": "清华大学计算机系课程攻略",
+        "commit": "37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0"
+      }
+    },
+    {
+      "id": "thu-002",
+      "school": "thu",
+      "course": "微积分A(1)",
+      "aliases": [
+        "微积分A（1）",
+        "微积分A一"
+      ],
+      "originalTitle": "2005微积分（1）期末",
+      "year": 2005,
+      "yearLabel": "2005",
+      "term": "",
+      "type": "original",
+      "files": [
+        {
+          "name": "2005微积分（1）期末.pdf",
+          "path": "大一上/微积分A(1)/exam/期末/2005微积分（1）期末.pdf",
+          "format": "PDF",
+          "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%BE%AE%E7%A7%AF%E5%88%86A(1)/exam/%E6%9C%9F%E6%9C%AB/2005%E5%BE%AE%E7%A7%AF%E5%88%86%EF%BC%881%EF%BC%89%E6%9C%9F%E6%9C%AB.pdf",
+          "blobSha": "383f47d288d7f4084b58f00e89744e80e9229292"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "",
+      "verifiedAt": "2026-09-23T04:25:19.843Z",
+      "source": {
+        "repository": "PKUanonym/REKCARC-TSC-UHT",
+        "repositoryUrl": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+        "title": "清华大学计算机系课程攻略",
+        "commit": "37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0"
+      }
+    },
+    {
+      "id": "thu-004",
+      "school": "thu",
+      "course": "微积分A(1)",
+      "aliases": [
+        "微积分A（1）",
+        "微积分A一"
+      ],
+      "originalTitle": "2007微积分（1）期末",
+      "year": 2007,
+      "yearLabel": "2007",
+      "term": "",
+      "type": "original",
+      "files": [
+        {
+          "name": "2007微积分（1）期末.pdf",
+          "path": "大一上/微积分A(1)/exam/期末/2007微积分（1）期末.pdf",
+          "format": "PDF",
+          "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%BE%AE%E7%A7%AF%E5%88%86A(1)/exam/%E6%9C%9F%E6%9C%AB/2007%E5%BE%AE%E7%A7%AF%E5%88%86%EF%BC%881%EF%BC%89%E6%9C%9F%E6%9C%AB.pdf",
+          "blobSha": "da699decbc7ba75b83bf04df367fc706df57fb09"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "",
+      "verifiedAt": "2026-09-23T04:25:19.843Z",
+      "source": {
+        "repository": "PKUanonym/REKCARC-TSC-UHT",
+        "repositoryUrl": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+        "title": "清华大学计算机系课程攻略",
+        "commit": "37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0"
+      }
+    },
+    {
+      "id": "thu-006",
+      "school": "thu",
+      "course": "微积分A(1)",
+      "aliases": [
+        "微积分A（1）",
+        "微积分A一"
+      ],
+      "originalTitle": "2014微积分（1）期末",
+      "year": 2014,
+      "yearLabel": "2014",
+      "term": "",
+      "type": "original",
+      "files": [
+        {
+          "name": "2014微积分（1）期末.doc",
+          "path": "大一上/微积分A(1)/exam/期末/2014微积分（1）期末.doc",
+          "format": "DOC",
+          "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%BE%AE%E7%A7%AF%E5%88%86A(1)/exam/%E6%9C%9F%E6%9C%AB/2014%E5%BE%AE%E7%A7%AF%E5%88%86%EF%BC%881%EF%BC%89%E6%9C%9F%E6%9C%AB.doc",
+          "blobSha": "1f34ade3f9cd72d91096703aab1d9592f42fe2e4"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "",
+      "verifiedAt": "2026-09-23T04:25:19.843Z",
+      "source": {
+        "repository": "PKUanonym/REKCARC-TSC-UHT",
+        "repositoryUrl": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+        "title": "清华大学计算机系课程攻略",
+        "commit": "37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0"
+      }
+    },
+    {
+      "id": "thu-007",
+      "school": "thu",
+      "course": "微积分A(1)",
+      "aliases": [
+        "微积分A（1）",
+        "微积分A一"
+      ],
+      "originalTitle": "2017微积分（1）期末",
+      "year": 2017,
+      "yearLabel": "2017",
+      "term": "",
+      "type": "original",
+      "files": [
+        {
+          "name": "2017微积分（1）期末.pdf",
+          "path": "大一上/微积分A(1)/exam/期末/2017微积分（1）期末.pdf",
+          "format": "PDF",
+          "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%BE%AE%E7%A7%AF%E5%88%86A(1)/exam/%E6%9C%9F%E6%9C%AB/2017%E5%BE%AE%E7%A7%AF%E5%88%86%EF%BC%881%EF%BC%89%E6%9C%9F%E6%9C%AB.pdf",
+          "blobSha": "787db26e39af73f54bab1e178805935ee975f971"
+        }
+      ],
+      "answers": [
+        {
+          "name": "2017微积分（1）期末考试答案.pdf",
+          "path": "大一上/微积分A(1)/exam/期末/2017微积分（1）期末考试答案.pdf",
+          "format": "PDF",
+          "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%BE%AE%E7%A7%AF%E5%88%86A(1)/exam/%E6%9C%9F%E6%9C%AB/2017%E5%BE%AE%E7%A7%AF%E5%88%86%EF%BC%881%EF%BC%89%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E7%AD%94%E6%A1%88.pdf",
+          "blobSha": "182ec5c4057f3aa7abf8c54aca6a16b1b65e33a9"
+        }
+      ],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "",
+      "verifiedAt": "2026-09-23T04:25:19.843Z",
+      "source": {
+        "repository": "PKUanonym/REKCARC-TSC-UHT",
+        "repositoryUrl": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+        "title": "清华大学计算机系课程攻略",
+        "commit": "37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0"
+      }
+    },
+    {
+      "id": "thu-008",
+      "school": "thu",
+      "course": "微积分A(1)",
+      "aliases": [
+        "微积分A（1）",
+        "微积分A一"
+      ],
+      "originalTitle": "2019-VA1-期末",
+      "year": 2019,
+      "yearLabel": "2019",
+      "term": "",
+      "type": "original",
+      "files": [
+        {
+          "name": "2019-VA1-期末.pdf",
+          "path": "大一上/微积分A(1)/exam/期末/2019-VA1-期末.pdf",
+          "format": "PDF",
+          "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%BE%AE%E7%A7%AF%E5%88%86A(1)/exam/%E6%9C%9F%E6%9C%AB/2019-VA1-%E6%9C%9F%E6%9C%AB.pdf",
+          "blobSha": "ea430dc249ffd96821025cd92e3af38e367f3feb"
+        }
+      ],
+      "answers": [
+        {
+          "name": "2019-VA1-期末(含答案).pdf",
+          "path": "大一上/微积分A(1)/exam/期末/2019-VA1-期末(含答案).pdf",
+          "format": "PDF",
+          "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%BE%AE%E7%A7%AF%E5%88%86A(1)/exam/%E6%9C%9F%E6%9C%AB/2019-VA1-%E6%9C%9F%E6%9C%AB(%E5%90%AB%E7%AD%94%E6%A1%88).pdf",
+          "blobSha": "ea430dc249ffd96821025cd92e3af38e367f3feb"
+        }
+      ],
+      "answerIncluded": false,
+      "answerNote": "参考答案位于含答案版本中。",
+      "note": "",
+      "verifiedAt": "2026-09-23T04:25:19.843Z",
+      "source": {
+        "repository": "PKUanonym/REKCARC-TSC-UHT",
+        "repositoryUrl": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+        "title": "清华大学计算机系课程攻略",
+        "commit": "37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0"
+      }
+    },
+    {
+      "id": "thu-009",
+      "school": "thu",
+      "course": "微积分A(1)",
+      "aliases": [
+        "微积分A（1）",
+        "微积分A一"
+      ],
+      "originalTitle": "2020-VA1-期末",
+      "year": 2020,
+      "yearLabel": "2020",
+      "term": "",
+      "type": "original",
+      "files": [
+        {
+          "name": "2020-VA1-期末.pdf",
+          "path": "大一上/微积分A(1)/exam/期末/2020-VA1-期末.pdf",
+          "format": "PDF",
+          "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%BE%AE%E7%A7%AF%E5%88%86A(1)/exam/%E6%9C%9F%E6%9C%AB/2020-VA1-%E6%9C%9F%E6%9C%AB.pdf",
+          "blobSha": "42a2ef1881d047ad71b31c3ed658038ee486561d"
+        }
+      ],
+      "answers": [
+        {
+          "name": "2020-VA1-期末(含答案).pdf",
+          "path": "大一上/微积分A(1)/exam/期末/2020-VA1-期末(含答案).pdf",
+          "format": "PDF",
+          "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%BE%AE%E7%A7%AF%E5%88%86A(1)/exam/%E6%9C%9F%E6%9C%AB/2020-VA1-%E6%9C%9F%E6%9C%AB(%E5%90%AB%E7%AD%94%E6%A1%88).pdf",
+          "blobSha": "4b8fcbb9ad2e72c5782897c8446c299746d87fce"
+        }
+      ],
+      "answerIncluded": false,
+      "answerNote": "参考答案位于含答案版本中。",
+      "note": "",
+      "verifiedAt": "2026-09-23T04:25:19.843Z",
+      "source": {
+        "repository": "PKUanonym/REKCARC-TSC-UHT",
+        "repositoryUrl": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+        "title": "清华大学计算机系课程攻略",
+        "commit": "37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0"
+      }
+    },
+    {
+      "id": "thu-010",
+      "school": "thu",
+      "course": "微积分A(1)",
+      "aliases": [
+        "微积分A（1）",
+        "微积分A一"
+      ],
+      "originalTitle": "2021-VA1-期末",
+      "year": 2021,
+      "yearLabel": "2021",
+      "term": "",
+      "type": "original",
+      "files": [
+        {
+          "name": "2021-VA1-期末.pdf",
+          "path": "大一上/微积分A(1)/exam/期末/2021-VA1-期末.pdf",
+          "format": "PDF",
+          "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%BE%AE%E7%A7%AF%E5%88%86A(1)/exam/%E6%9C%9F%E6%9C%AB/2021-VA1-%E6%9C%9F%E6%9C%AB.pdf",
+          "blobSha": "120e8b7973a685bdeaedb40343dee021c8f02725"
+        }
+      ],
+      "answers": [
+        {
+          "name": "2021-VA1-期末(含答案).pdf",
+          "path": "大一上/微积分A(1)/exam/期末/2021-VA1-期末(含答案).pdf",
+          "format": "PDF",
+          "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%BE%AE%E7%A7%AF%E5%88%86A(1)/exam/%E6%9C%9F%E6%9C%AB/2021-VA1-%E6%9C%9F%E6%9C%AB(%E5%90%AB%E7%AD%94%E6%A1%88).pdf",
+          "blobSha": "3176cbc508d0e3a4e246e23e530c0aad62c2af3a"
+        }
+      ],
+      "answerIncluded": false,
+      "answerNote": "参考答案位于含答案版本中。",
+      "note": "",
+      "verifiedAt": "2026-09-23T04:25:19.843Z",
+      "source": {
+        "repository": "PKUanonym/REKCARC-TSC-UHT",
+        "repositoryUrl": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+        "title": "清华大学计算机系课程攻略",
+        "commit": "37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0"
+      }
+    },
+    {
+      "id": "thu-011",
+      "school": "thu",
+      "course": "微积分A(1)",
+      "aliases": [
+        "微积分A（1）",
+        "微积分A一"
+      ],
+      "originalTitle": "2022-VA1-期末",
+      "year": 2022,
+      "yearLabel": "2022",
+      "term": "",
+      "type": "original",
+      "files": [
+        {
+          "name": "2022-VA1-期末.pdf",
+          "path": "大一上/微积分A(1)/exam/期末/2022-VA1-期末.pdf",
+          "format": "PDF",
+          "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%BE%AE%E7%A7%AF%E5%88%86A(1)/exam/%E6%9C%9F%E6%9C%AB/2022-VA1-%E6%9C%9F%E6%9C%AB.pdf",
+          "blobSha": "41cbf264a5099a0e6d5e9d7dca2945aa76cd91b7"
+        }
+      ],
+      "answers": [
+        {
+          "name": "2022-VA1-期末(含答案).pdf",
+          "path": "大一上/微积分A(1)/exam/期末/2022-VA1-期末(含答案).pdf",
+          "format": "PDF",
+          "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%BE%AE%E7%A7%AF%E5%88%86A(1)/exam/%E6%9C%9F%E6%9C%AB/2022-VA1-%E6%9C%9F%E6%9C%AB(%E5%90%AB%E7%AD%94%E6%A1%88).pdf",
+          "blobSha": "eb9ee95b7155c42ec43835b1277c08076f5a0bb7"
+        }
+      ],
+      "answerIncluded": false,
+      "answerNote": "参考答案位于含答案版本中。",
+      "note": "",
+      "verifiedAt": "2026-09-23T04:25:19.843Z",
+      "source": {
+        "repository": "PKUanonym/REKCARC-TSC-UHT",
+        "repositoryUrl": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+        "title": "清华大学计算机系课程攻略",
+        "commit": "37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0"
+      }
+    },
+    {
+      "id": "thu-012",
+      "school": "thu",
+      "course": "微积分A(1)",
+      "aliases": [
+        "微积分A（1）",
+        "微积分A一"
+      ],
+      "originalTitle": "2023-VA1-期末",
+      "year": 2023,
+      "yearLabel": "2023",
+      "term": "",
+      "type": "original",
+      "files": [
+        {
+          "name": "2023-VA1-期末.pdf",
+          "path": "大一上/微积分A(1)/exam/期末/2023-VA1-期末.pdf",
+          "format": "PDF",
+          "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%BE%AE%E7%A7%AF%E5%88%86A(1)/exam/%E6%9C%9F%E6%9C%AB/2023-VA1-%E6%9C%9F%E6%9C%AB.pdf",
+          "blobSha": "872a91281aae24c8160f1529152cc0a4cba8c256"
+        }
+      ],
+      "answers": [
+        {
+          "name": "2023-VA1-期末(含答案).pdf",
+          "path": "大一上/微积分A(1)/exam/期末/2023-VA1-期末(含答案).pdf",
+          "format": "PDF",
+          "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%BE%AE%E7%A7%AF%E5%88%86A(1)/exam/%E6%9C%9F%E6%9C%AB/2023-VA1-%E6%9C%9F%E6%9C%AB(%E5%90%AB%E7%AD%94%E6%A1%88).pdf",
+          "blobSha": "c48e6c429831fa402e4fa61e877d86c37195650f"
+        }
+      ],
+      "answerIncluded": false,
+      "answerNote": "参考答案位于含答案版本中。",
+      "note": "",
+      "verifiedAt": "2026-09-23T04:25:19.843Z",
+      "source": {
+        "repository": "PKUanonym/REKCARC-TSC-UHT",
+        "repositoryUrl": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+        "title": "清华大学计算机系课程攻略",
+        "commit": "37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0"
+      }
+    },
+    {
+      "id": "thu-013",
+      "school": "thu",
+      "course": "微积分A(1)",
+      "aliases": [
+        "微积分A（1）",
+        "微积分A一"
+      ],
+      "originalTitle": "2024-VA1-期末",
+      "year": 2024,
+      "yearLabel": "2024",
+      "term": "",
+      "type": "original",
+      "files": [
+        {
+          "name": "2024-VA1-期末.pdf",
+          "path": "大一上/微积分A(1)/exam/期末/2024-VA1-期末.pdf",
+          "format": "PDF",
+          "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%BE%AE%E7%A7%AF%E5%88%86A(1)/exam/%E6%9C%9F%E6%9C%AB/2024-VA1-%E6%9C%9F%E6%9C%AB.pdf",
+          "blobSha": "9e67f6ff5e403ec6cd711c14464e33dd8ac4bbc7"
+        }
+      ],
+      "answers": [
+        {
+          "name": "2024-VA1-期末(含答案).pdf",
+          "path": "大一上/微积分A(1)/exam/期末/2024-VA1-期末(含答案).pdf",
+          "format": "PDF",
+          "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%BE%AE%E7%A7%AF%E5%88%86A(1)/exam/%E6%9C%9F%E6%9C%AB/2024-VA1-%E6%9C%9F%E6%9C%AB(%E5%90%AB%E7%AD%94%E6%A1%88).pdf",
+          "blobSha": "a515a13e46328e034f0b472d466eb62c7d367527"
+        }
+      ],
+      "answerIncluded": false,
+      "answerNote": "参考答案位于含答案版本中。",
+      "note": "",
+      "verifiedAt": "2026-09-23T04:25:19.843Z",
+      "source": {
+        "repository": "PKUanonym/REKCARC-TSC-UHT",
+        "repositoryUrl": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+        "title": "清华大学计算机系课程攻略",
+        "commit": "37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0"
+      }
+    },
+    {
+      "id": "thu-014",
+      "school": "thu",
+      "course": "微积分A(1)",
+      "aliases": [
+        "微积分A（1）",
+        "微积分A一"
+      ],
+      "originalTitle": "2025-VA1-期末",
+      "year": 2025,
+      "yearLabel": "2025",
+      "term": "",
+      "type": "original",
+      "files": [
+        {
+          "name": "2025-VA1-期末.pdf",
+          "path": "大一上/微积分A(1)/exam/期末/2025-VA1-期末.pdf",
+          "format": "PDF",
+          "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%BE%AE%E7%A7%AF%E5%88%86A(1)/exam/%E6%9C%9F%E6%9C%AB/2025-VA1-%E6%9C%9F%E6%9C%AB.pdf",
+          "blobSha": "6d8517103fb8791d01e160fdff350d563815531f"
+        }
+      ],
+      "answers": [
+        {
+          "name": "2025-VA1-期末(含答案).pdf",
+          "path": "大一上/微积分A(1)/exam/期末/2025-VA1-期末(含答案).pdf",
+          "format": "PDF",
+          "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%BE%AE%E7%A7%AF%E5%88%86A(1)/exam/%E6%9C%9F%E6%9C%AB/2025-VA1-%E6%9C%9F%E6%9C%AB(%E5%90%AB%E7%AD%94%E6%A1%88).pdf",
+          "blobSha": "f7963812ba6fc20aed0a2fe9a5d15b7e4f1f7ced"
+        }
+      ],
+      "answerIncluded": false,
+      "answerNote": "参考答案位于含答案版本中。",
+      "note": "",
+      "verifiedAt": "2026-09-23T04:25:19.843Z",
+      "source": {
+        "repository": "PKUanonym/REKCARC-TSC-UHT",
+        "repositoryUrl": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+        "title": "清华大学计算机系课程攻略",
+        "commit": "37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0"
+      }
+    },
+    {
+      "id": "thu-015",
+      "school": "thu",
+      "course": "微积分A(1)",
+      "aliases": [
+        "微积分A（1）",
+        "微积分A一"
+      ],
+      "originalTitle": "不明年份1-一元微积分期末考卷题目",
+      "year": null,
+      "yearLabel": "年份未注明",
+      "term": "",
+      "type": "original",
+      "files": [
+        {
+          "name": "不明年份1-一元微积分期末考卷题目.pdf",
+          "path": "大一上/微积分A(1)/exam/期末/不明年份1-一元微积分期末考卷题目.pdf",
+          "format": "PDF",
+          "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%BE%AE%E7%A7%AF%E5%88%86A(1)/exam/%E6%9C%9F%E6%9C%AB/%E4%B8%8D%E6%98%8E%E5%B9%B4%E4%BB%BD1-%E4%B8%80%E5%85%83%E5%BE%AE%E7%A7%AF%E5%88%86%E6%9C%9F%E6%9C%AB%E8%80%83%E5%8D%B7%E9%A2%98%E7%9B%AE.pdf",
+          "blobSha": "a5cab4eb6d5cacf39858c310e258dcf2b425a128"
+        }
+      ],
+      "answers": [
+        {
+          "name": "不明年份1-一元微积分期末考卷题目答案.pdf",
+          "path": "大一上/微积分A(1)/exam/期末/不明年份1-一元微积分期末考卷题目答案.pdf",
+          "format": "PDF",
+          "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%BE%AE%E7%A7%AF%E5%88%86A(1)/exam/%E6%9C%9F%E6%9C%AB/%E4%B8%8D%E6%98%8E%E5%B9%B4%E4%BB%BD1-%E4%B8%80%E5%85%83%E5%BE%AE%E7%A7%AF%E5%88%86%E6%9C%9F%E6%9C%AB%E8%80%83%E5%8D%B7%E9%A2%98%E7%9B%AE%E7%AD%94%E6%A1%88.pdf",
+          "blobSha": "f3f36c1c88251632bdd1e27a64e044976b6aaef2"
+        }
+      ],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "",
+      "verifiedAt": "2026-09-23T04:25:19.843Z",
+      "source": {
+        "repository": "PKUanonym/REKCARC-TSC-UHT",
+        "repositoryUrl": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+        "title": "清华大学计算机系课程攻略",
+        "commit": "37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0"
+      }
+    },
+    {
+      "id": "thu-016",
+      "school": "thu",
+      "course": "微积分A(1)",
+      "aliases": [
+        "微积分A（1）",
+        "微积分A一"
+      ],
+      "originalTitle": "微积分A(1) 2008期末试卷（4页）",
+      "year": 2008,
+      "yearLabel": "2008",
+      "term": "",
+      "type": "original",
+      "files": [
+        {
+          "name": "SKMBT_C22013040417060_0017.jpg",
+          "path": "大一上/微积分A(1)/exam/期末/微积分（1）期末（2008）/SKMBT_C22013040417060_0017.jpg",
+          "format": "JPG",
+          "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%BE%AE%E7%A7%AF%E5%88%86A(1)/exam/%E6%9C%9F%E6%9C%AB/%E5%BE%AE%E7%A7%AF%E5%88%86%EF%BC%881%EF%BC%89%E6%9C%9F%E6%9C%AB%EF%BC%882008%EF%BC%89/SKMBT_C22013040417060_0017.jpg",
+          "blobSha": "eaa051bc27319c1a4b3baf78361c4e25693239aa"
+        },
+        {
+          "name": "SKMBT_C22013040417060_0018.jpg",
+          "path": "大一上/微积分A(1)/exam/期末/微积分（1）期末（2008）/SKMBT_C22013040417060_0018.jpg",
+          "format": "JPG",
+          "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%BE%AE%E7%A7%AF%E5%88%86A(1)/exam/%E6%9C%9F%E6%9C%AB/%E5%BE%AE%E7%A7%AF%E5%88%86%EF%BC%881%EF%BC%89%E6%9C%9F%E6%9C%AB%EF%BC%882008%EF%BC%89/SKMBT_C22013040417060_0018.jpg",
+          "blobSha": "b4235f24bd0ea4cd96796551a64cbb8ef6cdad53"
+        },
+        {
+          "name": "SKMBT_C22013040417060_0019.jpg",
+          "path": "大一上/微积分A(1)/exam/期末/微积分（1）期末（2008）/SKMBT_C22013040417060_0019.jpg",
+          "format": "JPG",
+          "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%BE%AE%E7%A7%AF%E5%88%86A(1)/exam/%E6%9C%9F%E6%9C%AB/%E5%BE%AE%E7%A7%AF%E5%88%86%EF%BC%881%EF%BC%89%E6%9C%9F%E6%9C%AB%EF%BC%882008%EF%BC%89/SKMBT_C22013040417060_0019.jpg",
+          "blobSha": "0240f16cdf8841a27bf082d87d17be1056aa985e"
+        },
+        {
+          "name": "SKMBT_C22013040417060_0020.jpg",
+          "path": "大一上/微积分A(1)/exam/期末/微积分（1）期末（2008）/SKMBT_C22013040417060_0020.jpg",
+          "format": "JPG",
+          "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%BE%AE%E7%A7%AF%E5%88%86A(1)/exam/%E6%9C%9F%E6%9C%AB/%E5%BE%AE%E7%A7%AF%E5%88%86%EF%BC%881%EF%BC%89%E6%9C%9F%E6%9C%AB%EF%BC%882008%EF%BC%89/SKMBT_C22013040417060_0020.jpg",
+          "blobSha": "b05a0413a188799f533a130276e9410234967c3d"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "",
+      "verifiedAt": "2026-09-23T04:25:19.843Z",
+      "source": {
+        "repository": "PKUanonym/REKCARC-TSC-UHT",
+        "repositoryUrl": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+        "title": "清华大学计算机系课程攻略",
+        "commit": "37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0"
+      }
+    },
+    {
+      "id": "thu-017",
+      "school": "thu",
+      "course": "微积分A(1)",
+      "aliases": [
+        "微积分A（1）",
+        "微积分A一"
+      ],
+      "originalTitle": "微积分A(1) 2009期末试卷（5页）",
+      "year": 2009,
+      "yearLabel": "2009",
+      "term": "",
+      "type": "original",
+      "files": [
+        {
+          "name": "SKMBT_C22013040417060_0021.jpg",
+          "path": "大一上/微积分A(1)/exam/期末/微积分（1）期末（2009）/SKMBT_C22013040417060_0021.jpg",
+          "format": "JPG",
+          "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%BE%AE%E7%A7%AF%E5%88%86A(1)/exam/%E6%9C%9F%E6%9C%AB/%E5%BE%AE%E7%A7%AF%E5%88%86%EF%BC%881%EF%BC%89%E6%9C%9F%E6%9C%AB%EF%BC%882009%EF%BC%89/SKMBT_C22013040417060_0021.jpg",
+          "blobSha": "c0b4bbab32cc4566a845deaf59b96ef7c0f59e57"
+        },
+        {
+          "name": "SKMBT_C22013040417060_0022.jpg",
+          "path": "大一上/微积分A(1)/exam/期末/微积分（1）期末（2009）/SKMBT_C22013040417060_0022.jpg",
+          "format": "JPG",
+          "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%BE%AE%E7%A7%AF%E5%88%86A(1)/exam/%E6%9C%9F%E6%9C%AB/%E5%BE%AE%E7%A7%AF%E5%88%86%EF%BC%881%EF%BC%89%E6%9C%9F%E6%9C%AB%EF%BC%882009%EF%BC%89/SKMBT_C22013040417060_0022.jpg",
+          "blobSha": "1621b1fa3bfc37385bca3fa68e01efc7f68b0fde"
+        },
+        {
+          "name": "SKMBT_C22013040417060_0023.jpg",
+          "path": "大一上/微积分A(1)/exam/期末/微积分（1）期末（2009）/SKMBT_C22013040417060_0023.jpg",
+          "format": "JPG",
+          "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%BE%AE%E7%A7%AF%E5%88%86A(1)/exam/%E6%9C%9F%E6%9C%AB/%E5%BE%AE%E7%A7%AF%E5%88%86%EF%BC%881%EF%BC%89%E6%9C%9F%E6%9C%AB%EF%BC%882009%EF%BC%89/SKMBT_C22013040417060_0023.jpg",
+          "blobSha": "24ec639a4ec9e1cb782bda58d836f15197fc831e"
+        },
+        {
+          "name": "SKMBT_C22013040417060_0024.jpg",
+          "path": "大一上/微积分A(1)/exam/期末/微积分（1）期末（2009）/SKMBT_C22013040417060_0024.jpg",
+          "format": "JPG",
+          "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%BE%AE%E7%A7%AF%E5%88%86A(1)/exam/%E6%9C%9F%E6%9C%AB/%E5%BE%AE%E7%A7%AF%E5%88%86%EF%BC%881%EF%BC%89%E6%9C%9F%E6%9C%AB%EF%BC%882009%EF%BC%89/SKMBT_C22013040417060_0024.jpg",
+          "blobSha": "c7efc8c400a542199bf55c30e2c684cdfaeeb517"
+        },
+        {
+          "name": "SKMBT_C22013040417060_0025.jpg",
+          "path": "大一上/微积分A(1)/exam/期末/微积分（1）期末（2009）/SKMBT_C22013040417060_0025.jpg",
+          "format": "JPG",
+          "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%BE%AE%E7%A7%AF%E5%88%86A(1)/exam/%E6%9C%9F%E6%9C%AB/%E5%BE%AE%E7%A7%AF%E5%88%86%EF%BC%881%EF%BC%89%E6%9C%9F%E6%9C%AB%EF%BC%882009%EF%BC%89/SKMBT_C22013040417060_0025.jpg",
+          "blobSha": "df988ebabb0e56b22261c6372c726da4fe472435"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "",
+      "verifiedAt": "2026-09-23T04:25:19.843Z",
+      "source": {
+        "repository": "PKUanonym/REKCARC-TSC-UHT",
+        "repositoryUrl": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+        "title": "清华大学计算机系课程攻略",
+        "commit": "37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0"
+      }
+    },
+    {
+      "id": "thu-018",
+      "school": "thu",
+      "course": "大学化学A",
+      "aliases": [],
+      "originalTitle": "大学化学A2023期末回忆版",
+      "year": 2023,
+      "yearLabel": "2023",
+      "term": "",
+      "type": "recalled",
+      "files": [
+        {
+          "name": "大学化学A2023期末回忆版.pdf",
+          "path": "大一上/大学化学A/大学化学A2023期末回忆版.pdf",
+          "format": "PDF",
+          "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%A4%A7%E5%AD%A6%E5%8C%96%E5%AD%A6A/%E5%A4%A7%E5%AD%A6%E5%8C%96%E5%AD%A6A2023%E6%9C%9F%E6%9C%AB%E5%9B%9E%E5%BF%86%E7%89%88.pdf",
+          "blobSha": "4fc37ad3c8a09693aae29a6c9d8088318f7a5e5a"
+        },
+        {
+          "name": "大学化学A2023期末回忆版.md",
+          "path": "大一上/大学化学A/大学化学A2023期末回忆版.md",
+          "format": "MD",
+          "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%A4%A7%E5%AD%A6%E5%8C%96%E5%AD%A6A/%E5%A4%A7%E5%AD%A6%E5%8C%96%E5%AD%A6A2023%E6%9C%9F%E6%9C%AB%E5%9B%9E%E5%BF%86%E7%89%88.md",
+          "blobSha": "c31e8eb5cfee47d3d6c8c7d1c797a188d6ba154d"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "",
+      "verifiedAt": "2026-09-23T04:25:19.843Z",
+      "source": {
+        "repository": "PKUanonym/REKCARC-TSC-UHT",
+        "repositoryUrl": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+        "title": "清华大学计算机系课程攻略",
+        "commit": "37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0"
+      }
+    }
+  ]
+}

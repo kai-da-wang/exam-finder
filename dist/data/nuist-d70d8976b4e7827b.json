@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-23T04:25:19.843Z",
+  "school": {
+    "id": "nuist",
+    "name": "南京信息工程大学",
+    "shortName": "南信大",
+    "aliases": [
+      "南信大",
+      "南气",
+      "NUIST"
+    ],
+    "repository": "wzy-acsuc/NUIST-Resources",
+    "sourceTitle": "南京信息工程大学课程资源合集",
+    "coursePathIndex": 1,
+    "province": "江苏"
+  },
+  "courses": [
+    {
+      "name": "编译原理",
+      "aliases": [],
+      "paperCount": 1
+    },
+    {
+      "name": "人工智能概论",
+      "aliases": [],
+      "paperCount": 2
+    },
+    {
+      "name": "数据结构",
+      "aliases": [],
+      "paperCount": 1
+    }
+  ],
+  "papers": [
+    {
+      "id": "nuist-001",
+      "school": "nuist",
+      "course": "人工智能概论",
+      "aliases": [],
+      "originalTitle": "2019～2020《人工智能概论》期末试卷",
+      "year": 2020,
+      "yearLabel": "2019-2020",
+      "term": "第二学期 · A 卷",
+      "type": "original",
+      "files": [
+        {
+          "name": "2019～2020《人工智能概论》期末试卷.pdf",
+          "path": "专业课/人工智能导论I/2019～2020《人工智能概论》期末试卷.pdf",
+          "format": "PDF",
+          "url": "https://github.com/wzy-acsuc/NUIST-Resources/blob/e97242e78179ced12d321768fd2868924ea42361/%E4%B8%93%E4%B8%9A%E8%AF%BE/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%BC%E8%AE%BAI/2019%EF%BD%9E2020%E3%80%8A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%A6%82%E8%AE%BA%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "blobSha": "9e450d9f18d1eddc11367d48b9eaadd72dd3ab83"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "按卷头“人工智能概论”收录；不与目录名中的“人工智能导论 I”合并。",
+      "verifiedAt": "2026-09-23T04:25:19.843Z",
+      "source": {
+        "repository": "wzy-acsuc/NUIST-Resources",
+        "repositoryUrl": "https://github.com/wzy-acsuc/NUIST-Resources",
+        "title": "南京信息工程大学课程资源合集",
+        "commit": "e97242e78179ced12d321768fd2868924ea42361"
+      }
+    },
+    {
+      "id": "nuist-002",
+      "school": "nuist",
+      "course": "人工智能概论",
+      "aliases": [],
+      "originalTitle": "南京信息工程大学《人工智能概论》2021-2022学年第二学期期末试卷",
+      "year": 2022,
+      "yearLabel": "2021-2022",
+      "term": "第二学期 · A 卷",
+      "type": "original",
+      "files": [
+        {
+          "name": "南京信息工程大学《人工智能概论》2021-2022学年第二学期期末试卷.pdf",
+          "path": "专业课/人工智能导论I/南京信息工程大学《人工智能概论》2021-2022学年第二学期期末试卷.pdf",
+          "format": "PDF",
+          "url": "https://github.com/wzy-acsuc/NUIST-Resources/blob/e97242e78179ced12d321768fd2868924ea42361/%E4%B8%93%E4%B8%9A%E8%AF%BE/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%BC%E8%AE%BAI/%E5%8D%97%E4%BA%AC%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E5%A4%A7%E5%AD%A6%E3%80%8A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%A6%82%E8%AE%BA%E3%80%8B2021-2022%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "blobSha": "4fb0cf08630f534cd2973a92312fd9f8ad7e5162"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": true,
+      "answerNote": "文件含选择题、判断题等部分作答，非完整答案册",
+      "note": "按卷头“人工智能概论”收录；不与目录名中的“人工智能导论 I”合并。",
+      "verifiedAt": "2026-09-23T04:25:19.843Z",
+      "source": {
+        "repository": "wzy-acsuc/NUIST-Resources",
+        "repositoryUrl": "https://github.com/wzy-acsuc/NUIST-Resources",
+        "title": "南京信息工程大学课程资源合集",
+        "commit": "e97242e78179ced12d321768fd2868924ea42361"
+      }
+    },
+    {
+      "id": "nuist-003",
+      "school": "nuist",
+      "course": "数据结构",
+      "aliases": [],
+      "originalTitle": "南京信息工程大学《数据结构》2019-2020学年第一学期期末试卷",
+      "year": 2020,
+      "yearLabel": "2019-2020",
+      "term": "第一学期 · A 卷",
+      "type": "original",
+      "files": [
+        {
+          "name": "南京信息工程大学《数据结构》2019-2020学年第一学期期末试卷.pdf",
+          "path": "专业课/数据结构I+课程设计/南京信息工程大学《数据结构》2019-2020学年第一学期期末试卷.pdf",
+          "format": "PDF",
+          "url": "https://github.com/wzy-acsuc/NUIST-Resources/blob/e97242e78179ced12d321768fd2868924ea42361/%E4%B8%93%E4%B8%9A%E8%AF%BE/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84I%2B%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1/%E5%8D%97%E4%BA%AC%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E5%A4%A7%E5%AD%A6%E3%80%8A%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E3%80%8B2019-2020%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "blobSha": "84f83b7fb3d2c515877a50ae8be6b9737136208e"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "按卷头“数据结构”收录，不根据目录名擅自加上 I 版本。",
+      "verifiedAt": "2026-09-23T04:25:19.843Z",
+      "source": {
+        "repository": "wzy-acsuc/NUIST-Resources",
+        "repositoryUrl": "https://github.com/wzy-acsuc/NUIST-Resources",
+        "title": "南京信息工程大学课程资源合集",
+        "commit": "e97242e78179ced12d321768fd2868924ea42361"
+      }
+    },
+    {
+      "id": "nuist-004",
+      "school": "nuist",
+      "course": "编译原理",
+      "aliases": [],
+      "originalTitle": "南京信息工程大学编译原理期末2023",
+      "year": 2024,
+      "yearLabel": "2023-2024",
+      "term": "第二学期 · A 卷",
+      "type": "original",
+      "files": [
+        {
+          "name": "南京信息工程大学编译原理期末2023.pdf",
+          "path": "专业课/编译原理I/试卷/南京信息工程大学编译原理期末2023.pdf",
+          "format": "PDF",
+          "url": "https://github.com/wzy-acsuc/NUIST-Resources/blob/e97242e78179ced12d321768fd2868924ea42361/%E4%B8%93%E4%B8%9A%E8%AF%BE/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86I/%E8%AF%95%E5%8D%B7/%E5%8D%97%E4%BA%AC%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E5%A4%A7%E5%AD%A6%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E6%9C%9F%E6%9C%AB2023.pdf",
+          "blobSha": "2678ec101ec0fcf1b3a7d187cba96bf45bc8cc62"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": true,
+      "answerNote": "文件附选择题作答，非完整答案册",
+      "note": "原文件名含“2023”；卷头明确为 2023-2024 学年第二学期、2024 年 6 月，以卷头为准。",
+      "verifiedAt": "2026-09-23T04:25:19.843Z",
+      "source": {
+        "repository": "wzy-acsuc/NUIST-Resources",
+        "repositoryUrl": "https://github.com/wzy-acsuc/NUIST-Resources",
+        "title": "南京信息工程大学课程资源合集",
+        "commit": "e97242e78179ced12d321768fd2868924ea42361"
+      }
+    }
+  ]
+}

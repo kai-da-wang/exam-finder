@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-23T05:00:01.257Z",
+  "school": {
+    "id": "xjtlu",
+    "name": "西交利物浦大学",
+    "shortName": "西浦",
+    "aliases": [
+      "西浦",
+      "XJTLU",
+      "Xi’an Jiaotong-Liverpool University"
+    ],
+    "repository": "PeronGH/CPT107-Revision",
+    "sourceTitle": "PeronGH 课程资料中的 CSE107 历年试卷",
+    "coursePathIndex": 0,
+    "province": "江苏"
+  },
+  "courses": [
+    {
+      "name": "Discrete Mathematics and Statistics（CSE107）",
+      "aliases": [
+        "CSE107",
+        "离散数学与统计（CSE107）",
+        "Discrete Mathematics and Statistics"
+      ],
+      "paperCount": 1
+    }
+  ],
+  "papers": [
+    {
+      "id": "xjtlu-cse107-2019-2020",
+      "school": "xjtlu",
+      "course": "Discrete Mathematics and Statistics（CSE107）",
+      "aliases": [
+        "CSE107",
+        "离散数学与统计（CSE107）",
+        "Discrete Mathematics and Statistics"
+      ],
+      "originalTitle": "2019-2020_CSE107_Final_S1",
+      "year": 2020,
+      "yearLabel": "2019-2020",
+      "term": "第1学期",
+      "type": "original",
+      "files": [
+        {
+          "name": "2019-2020_CSE107_Final_S1.pdf",
+          "path": "2019-2020_CSE107_Final_S1.pdf",
+          "format": "PDF",
+          "url": "https://github.com/PeronGH/CPT107-Revision/blob/646ec937aec8c68be5f5251fd4a48546a4a460aa/2019-2020_CSE107_Final_S1.pdf",
+          "blobSha": "f0cd2ad43fcc50f001cd87047f780149d375fc13"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "卷头课程代码为CSE107，按原卷保留；不因仓库名为CPT107而合并课程。5页英文期末原卷。",
+      "verifiedAt": "2026-09-23T05:00:01.257Z",
+      "source": {
+        "repository": "PeronGH/CPT107-Revision",
+        "repositoryUrl": "https://github.com/PeronGH/CPT107-Revision",
+        "title": "PeronGH 课程资料中的 CSE107 历年试卷",
+        "commit": "646ec937aec8c68be5f5251fd4a48546a4a460aa"
+      }
+    }
+  ]
+}

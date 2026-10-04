@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-23T04:25:19.843Z",
+  "school": {
+    "id": "njupt",
+    "name": "南京邮电大学",
+    "shortName": "南邮",
+    "aliases": [
+      "南邮",
+      "NJUPT"
+    ],
+    "repository": "NJUPTFreeExams/NJUPT-CST-Free-Exams",
+    "sourceTitle": "南京邮电大学计算机专业历年考试资料",
+    "coursePathIndex": 0,
+    "province": "江苏"
+  },
+  "courses": [
+    {
+      "name": "离散数学",
+      "aliases": [],
+      "paperCount": 1
+    }
+  ],
+  "papers": [
+    {
+      "id": "njupt-001",
+      "school": "njupt",
+      "course": "离散数学",
+      "aliases": [],
+      "originalTitle": "离散2016-2017-1-A卷",
+      "year": 2017,
+      "yearLabel": "2016-2017",
+      "term": "第一学期 · A 卷",
+      "type": "original",
+      "files": [
+        {
+          "name": "离散2016-2017-1-A卷.pdf",
+          "path": "离散数学/试卷/离散2016-2017-1-A卷.pdf",
+          "format": "PDF",
+          "url": "https://github.com/NJUPTFreeExams/NJUPT-CST-Free-Exams/blob/857543a64893a396fd5fc05c53a2075e2bd4f8bc/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E8%AF%95%E5%8D%B7/%E7%A6%BB%E6%95%A32016-2017-1-A%E5%8D%B7.pdf",
+          "blobSha": "230aaba4c5ed4632f8c1697e4cc1644b1d7c5d0d"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": true,
+      "answerNote": "部分解答已写入试卷，非完整答案册",
+      "note": "",
+      "verifiedAt": "2026-09-23T04:25:19.843Z",
+      "source": {
+        "repository": "NJUPTFreeExams/NJUPT-CST-Free-Exams",
+        "repositoryUrl": "https://github.com/NJUPTFreeExams/NJUPT-CST-Free-Exams",
+        "title": "南京邮电大学计算机专业历年考试资料",
+        "commit": "857543a64893a396fd5fc05c53a2075e2bd4f8bc"
+      }
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-22T14:26:25.273Z",
+  "school": {
+    "id": "pku",
+    "name": "北京大学",
+    "shortName": "北大",
+    "aliases": [
+      "北大",
+      "PKU"
+    ],
+    "repository": "lib-pku/libpku",
+    "sourceTitle": "北京大学课程资料民间整理"
+  },
+  "courses": [
+    {
+      "name": "几何学",
+      "aliases": [],
+      "paperCount": 7
+    },
+    {
+      "name": "人工智能",
+      "aliases": [],
+      "paperCount": 1
+    },
+    {
+      "name": "中国哲学（下）",
+      "aliases": [],
+      "paperCount": 1
+    },
+    {
+      "name": "Web技术概论",
+      "aliases": [
+        "web技术概论"
+      ],
+      "paperCount": 1
+    }
+  ],
+  "papers": [
+    {
+      "id": "pku-001",
+      "school": "pku",
+      "course": "几何学",
+      "aliases": [],
+      "originalTitle": "几何学2009秋期末",
+      "year": 2009,
+      "yearLabel": "2009",
+      "term": "秋季学期",
+      "type": "original",
+      "files": [
+        {
+          "name": "几何学2009秋期末.pdf",
+          "path": "专业课/几何学/几何学2009秋期末.pdf",
+          "format": "PDF",
+          "url": "https://github.com/lib-pku/libpku/blob/03118218556158430178d25497ed9804dfafe9ac/%E4%B8%93%E4%B8%9A%E8%AF%BE/%E5%87%A0%E4%BD%95%E5%AD%A6/%E5%87%A0%E4%BD%95%E5%AD%A62009%E7%A7%8B%E6%9C%9F%E6%9C%AB.pdf",
+          "blobSha": "6a02e6ebac3f2f60d361a2223c960c28cb410c3d"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "verifiedAt": "2026-09-22T14:26:25.273Z",
+      "source": {
+        "repository": "lib-pku/libpku",
+        "repositoryUrl": "https://github.com/lib-pku/libpku",
+        "title": "北京大学课程资料民间整理",
+        "commit": "03118218556158430178d25497ed9804dfafe9ac"
+      }
+    },
+    {
+      "id": "pku-002",
+      "school": "pku",
+      "course": "几何学",
+      "aliases": [],
+      "originalTitle": "几何学2010秋期末",
+      "year": 2010,
+      "yearLabel": "2010",
+      "term": "秋季学期",
+      "type": "original",
+      "files": [
+        {
+          "name": "几何学2010秋期末.pdf",
+          "path": "专业课/几何学/几何学2010秋期末.pdf",
+          "format": "PDF",
+          "url": "https://github.com/lib-pku/libpku/blob/03118218556158430178d25497ed9804dfafe9ac/%E4%B8%93%E4%B8%9A%E8%AF%BE/%E5%87%A0%E4%BD%95%E5%AD%A6/%E5%87%A0%E4%BD%95%E5%AD%A62010%E7%A7%8B%E6%9C%9F%E6%9C%AB.pdf",
+          "blobSha": "29f311b09eb463df1e3de8c9e108527abe23363c"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "verifiedAt": "2026-09-22T14:26:25.273Z",
+      "source": {
+        "repository": "lib-pku/libpku",
+        "repositoryUrl": "https://github.com/lib-pku/libpku",
+        "title": "北京大学课程资料民间整理",
+        "commit": "03118218556158430178d25497ed9804dfafe9ac"
+      }
+    },
+    {
+      "id": "pku-003",
+      "school": "pku",
+      "course": "几何学",
+      "aliases": [],
+      "originalTitle": "几何学2011秋期末",
+      "year": 2011,
+      "yearLabel": "2011",
+      "term": "秋季学期",
+      "type": "original",
+      "files": [
+        {
+          "name": "几何学2011秋期末.pdf",
+          "path": "专业课/几何学/几何学2011秋期末.pdf",
+          "format": "PDF",
+          "url": "https://github.com/lib-pku/libpku/blob/03118218556158430178d25497ed9804dfafe9ac/%E4%B8%93%E4%B8%9A%E8%AF%BE/%E5%87%A0%E4%BD%95%E5%AD%A6/%E5%87%A0%E4%BD%95%E5%AD%A62011%E7%A7%8B%E6%9C%9F%E6%9C%AB.pdf",
+          "blobSha": "741d5f8cbb5a6608e373ff2a3545f0c3b85138ad"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "verifiedAt": "2026-09-22T14:26:25.273Z",
+      "source": {
+        "repository": "lib-pku/libpku",
+        "repositoryUrl": "https://github.com/lib-pku/libpku",
+        "title": "北京大学课程资料民间整理",
+        "commit": "03118218556158430178d25497ed9804dfafe9ac"
+      }
+    },
+    {
+      "id": "pku-004",
+      "school": "pku",
+      "course": "几何学",
+      "aliases": [],
+      "originalTitle": "几何学2013秋期末",
+      "year": 2013,
+      "yearLabel": "2013",
+      "term": "秋季学期",
+      "type": "original",
+      "files": [
+        {
+          "name": "几何学2013秋期末.pdf",
+          "path": "专业课/几何学/几何学2013秋期末.pdf",
+          "format": "PDF",
+          "url": "https://github.com/lib-pku/libpku/blob/03118218556158430178d25497ed9804dfafe9ac/%E4%B8%93%E4%B8%9A%E8%AF%BE/%E5%87%A0%E4%BD%95%E5%AD%A6/%E5%87%A0%E4%BD%95%E5%AD%A62013%E7%A7%8B%E6%9C%9F%E6%9C%AB.pdf",
+          "blobSha": "e7b8c1770c68dc1369a5b6d467fd7310696c7dfe"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "verifiedAt": "2026-09-22T14:26:25.273Z",
+      "source": {
+        "repository": "lib-pku/libpku",
+        "repositoryUrl": "https://github.com/lib-pku/libpku",
+        "title": "北京大学课程资料民间整理",
+        "commit": "03118218556158430178d25497ed9804dfafe9ac"
+      }
+    },
+    {
+      "id": "pku-005",
+      "school": "pku",
+      "course": "几何学",
+      "aliases": [],
+      "originalTitle": "几何学2014秋期末",
+      "year": 2014,
+      "yearLabel": "2014",
+      "term": "秋季学期",
+      "type": "original",
+      "files": [
+        {
+          "name": "几何学2014秋期末.pdf",
+          "path": "专业课/几何学/几何学2014秋期末.pdf",
+          "format": "PDF",
+          "url": "https://github.com/lib-pku/libpku/blob/03118218556158430178d25497ed9804dfafe9ac/%E4%B8%93%E4%B8%9A%E8%AF%BE/%E5%87%A0%E4%BD%95%E5%AD%A6/%E5%87%A0%E4%BD%95%E5%AD%A62014%E7%A7%8B%E6%9C%9F%E6%9C%AB.pdf",
+          "blobSha": "460a2edd8854405cea1d7f1a81231e2ab3a2b010"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "verifiedAt": "2026-09-22T14:26:25.273Z",
+      "source": {
+        "repository": "lib-pku/libpku",
+        "repositoryUrl": "https://github.com/lib-pku/libpku",
+        "title": "北京大学课程资料民间整理",
+        "commit": "03118218556158430178d25497ed9804dfafe9ac"
+      }
+    },
+    {
+      "id": "pku-006",
+      "school": "pku",
+      "course": "几何学",
+      "aliases": [],
+      "originalTitle": "马翔几何学2015秋期末",
+      "year": 2015,
+      "yearLabel": "2015",
+      "term": "秋季学期",
+      "type": "original",
+      "files": [
+        {
+          "name": "马翔几何学2015秋期末.jpg",
+          "path": "专业课/几何学/马翔几何学2015秋期末.jpg",
+          "format": "JPG",
+          "url": "https://github.com/lib-pku/libpku/blob/03118218556158430178d25497ed9804dfafe9ac/%E4%B8%93%E4%B8%9A%E8%AF%BE/%E5%87%A0%E4%BD%95%E5%AD%A6/%E9%A9%AC%E7%BF%94%E5%87%A0%E4%BD%95%E5%AD%A62015%E7%A7%8B%E6%9C%9F%E6%9C%AB.jpg",
+          "blobSha": "f0d13d8380f5afca475ac259f3f69ab25647d2cd"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "verifiedAt": "2026-09-22T14:26:25.273Z",
+      "source": {
+        "repository": "lib-pku/libpku",
+        "repositoryUrl": "https://github.com/lib-pku/libpku",
+        "title": "北京大学课程资料民间整理",
+        "commit": "03118218556158430178d25497ed9804dfafe9ac"
+      }
+    },
+    {
+      "id": "pku-007",
+      "school": "pku",
+      "course": "几何学",
+      "aliases": [],
+      "originalTitle": "马翔几何学2016秋期末",
+      "year": 2016,
+      "yearLabel": "2016",
+      "term": "秋季学期",
+      "type": "original",
+      "files": [
+        {
+          "name": "马翔几何学2016秋期末.jpg",
+          "path": "专业课/几何学/马翔几何学2016秋期末.jpg",
+          "format": "JPG",
+          "url": "https://github.com/lib-pku/libpku/blob/03118218556158430178d25497ed9804dfafe9ac/%E4%B8%93%E4%B8%9A%E8%AF%BE/%E5%87%A0%E4%BD%95%E5%AD%A6/%E9%A9%AC%E7%BF%94%E5%87%A0%E4%BD%95%E5%AD%A62016%E7%A7%8B%E6%9C%9F%E6%9C%AB.jpg",
+          "blobSha": "1761e01e46baf9937e85dd61db07f6894c3bc220"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "verifiedAt": "2026-09-22T14:26:25.273Z",
+      "source": {
+        "repository": "lib-pku/libpku",
+        "repositoryUrl": "https://github.com/lib-pku/libpku",
+        "title": "北京大学课程资料民间整理",
+        "commit": "03118218556158430178d25497ed9804dfafe9ac"
+      }
+    },
+    {
+      "id": "pku-008",
+      "school": "pku",
+      "course": "Web技术概论",
+      "aliases": [
+        "web技术概论"
+      ],
+      "originalTitle": "Web技术概论 2016期末试卷（2页）",
+      "year": 2016,
+      "yearLabel": "2016",
+      "term": "秋季学期",
+      "type": "original",
+      "files": [
+        {
+          "name": "Web技术概论2016秋期末1.jpg",
+          "path": "专业课/web技术概论/Web技术概论2016秋期末1.jpg",
+          "format": "JPG",
+          "url": "https://github.com/lib-pku/libpku/blob/03118218556158430178d25497ed9804dfafe9ac/%E4%B8%93%E4%B8%9A%E8%AF%BE/web%E6%8A%80%E6%9C%AF%E6%A6%82%E8%AE%BA/Web%E6%8A%80%E6%9C%AF%E6%A6%82%E8%AE%BA2016%E7%A7%8B%E6%9C%9F%E6%9C%AB1.jpg",
+          "blobSha": "debdd002db63d774cc4a080d62e473836ccb3936"
+        },
+        {
+          "name": "Web技术概论2016秋期末2.jpg",
+          "path": "专业课/web技术概论/Web技术概论2016秋期末2.jpg",
+          "format": "JPG",
+          "url": "https://github.com/lib-pku/libpku/blob/03118218556158430178d25497ed9804dfafe9ac/%E4%B8%93%E4%B8%9A%E8%AF%BE/web%E6%8A%80%E6%9C%AF%E6%A6%82%E8%AE%BA/Web%E6%8A%80%E6%9C%AF%E6%A6%82%E8%AE%BA2016%E7%A7%8B%E6%9C%9F%E6%9C%AB2.jpg",
+          "blobSha": "7b7f0cc97c0247941cee8e27c25ea43f0b301d67"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "verifiedAt": "2026-09-22T14:26:25.273Z",
+      "source": {
+        "repository": "lib-pku/libpku",
+        "repositoryUrl": "https://github.com/lib-pku/libpku",
+        "title": "北京大学课程资料民间整理",
+        "commit": "03118218556158430178d25497ed9804dfafe9ac"
+      }
+    },
+    {
+      "id": "pku-009",
+      "school": "pku",
+      "course": "中国哲学（下）",
+      "aliases": [],
+      "originalTitle": "2019春中哲（下）期末试题",
+      "year": 2019,
+      "yearLabel": "2019",
+      "term": "春季学期",
+      "type": "original",
+      "files": [
+        {
+          "name": "2019春中哲（下）期末试题.pdf",
+          "path": "专业课/中国哲学（下）/2019春中哲（下）期末试题.pdf",
+          "format": "PDF",
+          "url": "https://github.com/lib-pku/libpku/blob/03118218556158430178d25497ed9804dfafe9ac/%E4%B8%93%E4%B8%9A%E8%AF%BE/%E4%B8%AD%E5%9B%BD%E5%93%B2%E5%AD%A6%EF%BC%88%E4%B8%8B%EF%BC%89/2019%E6%98%A5%E4%B8%AD%E5%93%B2%EF%BC%88%E4%B8%8B%EF%BC%89%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf",
+          "blobSha": "f174921486ef8ce9089735b3b957a3fd4514e527"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "verifiedAt": "2026-09-22T14:26:25.273Z",
+      "source": {
+        "repository": "lib-pku/libpku",
+        "repositoryUrl": "https://github.com/lib-pku/libpku",
+        "title": "北京大学课程资料民间整理",
+        "commit": "03118218556158430178d25497ed9804dfafe9ac"
+      }
+    },
+    {
+      "id": "pku-010",
+      "school": "pku",
+      "course": "人工智能",
+      "aliases": [],
+      "originalTitle": "林作铨AI2013春期末",
+      "year": 2013,
+      "yearLabel": "2013",
+      "term": "春季学期",
+      "type": "original",
+      "files": [
+        {
+          "name": "林作铨AI2013春期末.pdf",
+          "path": "专业课/人工智能/林作铨AI2013春期末.pdf",
+          "format": "PDF",
+          "url": "https://github.com/lib-pku/libpku/blob/03118218556158430178d25497ed9804dfafe9ac/%E4%B8%93%E4%B8%9A%E8%AF%BE/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/%E6%9E%97%E4%BD%9C%E9%93%A8AI2013%E6%98%A5%E6%9C%9F%E6%9C%AB.pdf",
+          "blobSha": "2746d1729013a70d7b0478fea52102429e3b1d5b"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "verifiedAt": "2026-09-22T14:26:25.273Z",
+      "source": {
+        "repository": "lib-pku/libpku",
+        "repositoryUrl": "https://github.com/lib-pku/libpku",
+        "title": "北京大学课程资料民间整理",
+        "commit": "03118218556158430178d25497ed9804dfafe9ac"
+      }
+    }
+  ]
+}

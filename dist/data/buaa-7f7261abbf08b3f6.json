@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-23T04:25:19.843Z",
+  "school": {
+    "id": "buaa",
+    "name": "北京航空航天大学",
+    "shortName": "北航",
+    "aliases": [
+      "北航",
+      "BUAA"
+    ],
+    "repository": "zhangguochun/BUAA_Course_Sharing",
+    "sourceTitle": "北京航空航天大学课程共享资料",
+    "coursePathIndex": 0
+  },
+  "courses": [
+    {
+      "name": "智能自主系统",
+      "aliases": [],
+      "paperCount": 2
+    }
+  ],
+  "papers": [
+    {
+      "id": "buaa-001",
+      "school": "buaa",
+      "course": "智能自主系统",
+      "aliases": [],
+      "originalTitle": "2020考试内容回忆版",
+      "year": 2020,
+      "yearLabel": "2020",
+      "term": "",
+      "type": "recalled",
+      "files": [
+        {
+          "name": "2020考试内容回忆版.md",
+          "path": "智能自主系统/考试信息/2020考试内容回忆版.md",
+          "format": "MD",
+          "url": "https://github.com/zhangguochun/BUAA_Course_Sharing/blob/68c21e1b852c1cdf6a6dfa01d2182f78b675a0b9/%E6%99%BA%E8%83%BD%E8%87%AA%E4%B8%BB%E7%B3%BB%E7%BB%9F/%E8%80%83%E8%AF%95%E4%BF%A1%E6%81%AF/2020%E8%80%83%E8%AF%95%E5%86%85%E5%AE%B9%E5%9B%9E%E5%BF%86%E7%89%88.md",
+          "blobSha": "0de12f1f50833bac7ac655070af807a257bd39d0"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": true,
+      "answerNote": "原文含贡献者尝试解答，正确性未核实。",
+      "note": "",
+      "verifiedAt": "2026-09-23T04:25:19.843Z",
+      "source": {
+        "repository": "zhangguochun/BUAA_Course_Sharing",
+        "repositoryUrl": "https://github.com/zhangguochun/BUAA_Course_Sharing",
+        "title": "北京航空航天大学课程共享资料",
+        "commit": "68c21e1b852c1cdf6a6dfa01d2182f78b675a0b9"
+      }
+    },
+    {
+      "id": "buaa-002",
+      "school": "buaa",
+      "course": "智能自主系统",
+      "aliases": [],
+      "originalTitle": "2023考试内容回忆版",
+      "year": 2023,
+      "yearLabel": "2023",
+      "term": "",
+      "type": "recalled",
+      "files": [
+        {
+          "name": "2023考试内容回忆版.md",
+          "path": "智能自主系统/考试信息/2023考试内容回忆版.md",
+          "format": "MD",
+          "url": "https://github.com/zhangguochun/BUAA_Course_Sharing/blob/68c21e1b852c1cdf6a6dfa01d2182f78b675a0b9/%E6%99%BA%E8%83%BD%E8%87%AA%E4%B8%BB%E7%B3%BB%E7%BB%9F/%E8%80%83%E8%AF%95%E4%BF%A1%E6%81%AF/2023%E8%80%83%E8%AF%95%E5%86%85%E5%AE%B9%E5%9B%9E%E5%BF%86%E7%89%88.md",
+          "blobSha": "0efcc15578703e62c4af834ab079884519e52f89"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "原文注明可能遗漏部分题目。",
+      "verifiedAt": "2026-09-23T04:25:19.843Z",
+      "source": {
+        "repository": "zhangguochun/BUAA_Course_Sharing",
+        "repositoryUrl": "https://github.com/zhangguochun/BUAA_Course_Sharing",
+        "title": "北京航空航天大学课程共享资料",
+        "commit": "68c21e1b852c1cdf6a6dfa01d2182f78b675a0b9"
+      }
+    }
+  ]
+}

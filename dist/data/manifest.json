@@ -1,0 +1,315 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-23T05:00:01.257Z",
+  "paperCount": 86,
+  "schools": [
+    {
+      "id": "zju",
+      "name": "浙江大学",
+      "shortName": "浙大",
+      "aliases": [
+        "浙大",
+        "ZJU"
+      ],
+      "repository": "QSCTech/zju-icicles",
+      "sourceTitle": "浙江大学课程攻略共享计划",
+      "paperCount": 12,
+      "courseCount": 6,
+      "dataUrl": "./data/zju-ffcb7d72bac6e8c7.json"
+    },
+    {
+      "id": "ustc",
+      "name": "中国科学技术大学",
+      "shortName": "中科大",
+      "aliases": [
+        "中科大",
+        "中国科大",
+        "USTC"
+      ],
+      "repository": "USTC-Resource/USTC-Course",
+      "sourceTitle": "中国科学技术大学课程资源",
+      "paperCount": 4,
+      "courseCount": 4,
+      "dataUrl": "./data/ustc-48f55b1a4eb0195b.json"
+    },
+    {
+      "id": "pku",
+      "name": "北京大学",
+      "shortName": "北大",
+      "aliases": [
+        "北大",
+        "PKU"
+      ],
+      "repository": "lib-pku/libpku",
+      "sourceTitle": "北京大学课程资料民间整理",
+      "paperCount": 10,
+      "courseCount": 4,
+      "dataUrl": "./data/pku-7278b98846edfaba.json"
+    },
+    {
+      "id": "thu",
+      "name": "清华大学",
+      "shortName": "清华",
+      "aliases": [
+        "清华",
+        "THU",
+        "Tsinghua"
+      ],
+      "repository": "PKUanonym/REKCARC-TSC-UHT",
+      "sourceTitle": "清华大学计算机系课程攻略",
+      "paperCount": 16,
+      "courseCount": 2,
+      "dataUrl": "./data/thu-c6265b6bc8ecabf9.json"
+    },
+    {
+      "id": "nju",
+      "name": "南京大学",
+      "shortName": "南大",
+      "aliases": [
+        "南大",
+        "NJU"
+      ],
+      "repository": "NJU-SE-15-share-review/professional-class",
+      "sourceTitle": "南京大学软件学院专业课共享资料",
+      "coursePathIndex": 0,
+      "province": "江苏",
+      "paperCount": 6,
+      "courseCount": 6,
+      "dataUrl": "./data/nju-b245b88490c1f609.json"
+    },
+    {
+      "id": "buaa",
+      "name": "北京航空航天大学",
+      "shortName": "北航",
+      "aliases": [
+        "北航",
+        "BUAA"
+      ],
+      "repository": "zhangguochun/BUAA_Course_Sharing",
+      "sourceTitle": "北京航空航天大学课程共享资料",
+      "coursePathIndex": 0,
+      "paperCount": 2,
+      "courseCount": 1,
+      "dataUrl": "./data/buaa-7665f99b029486d1.json"
+    },
+    {
+      "id": "hitsz",
+      "name": "哈尔滨工业大学（深圳）",
+      "shortName": "哈工大深圳",
+      "aliases": [
+        "哈工大深圳",
+        "哈工大（深圳）",
+        "哈工深",
+        "HITSZ",
+        "哈尔滨工业大学深圳校区"
+      ],
+      "repository": "HITsz-OpenCS/HITSZ-OpenCS",
+      "sourceTitle": "哈工大（深圳）计算机专业课程攻略",
+      "coursePathIndex": 1,
+      "paperCount": 2,
+      "courseCount": 2,
+      "dataUrl": "./data/hitsz-af7d05c92cae8c1c.json"
+    },
+    {
+      "id": "seu",
+      "name": "东南大学",
+      "shortName": "东南",
+      "aliases": [
+        "东南",
+        "东大",
+        "SEU"
+      ],
+      "repository": "Golevka2001/Experiments-and-Homework-in-SEU",
+      "sourceTitle": "东南大学网安学院本科课程资料",
+      "coursePathIndex": 1,
+      "province": "江苏",
+      "paperCount": 3,
+      "courseCount": 2,
+      "dataUrl": "./data/seu-e6e18fe7f22c53de.json"
+    },
+    {
+      "id": "nuaa",
+      "name": "南京航空航天大学",
+      "shortName": "南航",
+      "aliases": [
+        "南航",
+        "NUAA"
+      ],
+      "repository": "NUAA-Open-Source/NUAA-Course",
+      "sourceTitle": "南京航空航天大学课程资源共享计划",
+      "coursePathIndex": 0,
+      "province": "江苏",
+      "paperCount": 1,
+      "courseCount": 1,
+      "dataUrl": "./data/nuaa-ca6d7fe09f4afe82.json"
+    },
+    {
+      "id": "njust",
+      "name": "南京理工大学",
+      "shortName": "南理工",
+      "aliases": [
+        "南理工",
+        "南京理工",
+        "NJUST"
+      ],
+      "repository": "NJUST-OpenLib/NJUST-docs",
+      "sourceTitle": "南京理工大学课程攻略共享计划",
+      "coursePathIndex": 0,
+      "province": "江苏",
+      "paperCount": 8,
+      "courseCount": 3,
+      "dataUrl": "./data/njust-20869b5ef00f9362.json"
+    },
+    {
+      "id": "njupt",
+      "name": "南京邮电大学",
+      "shortName": "南邮",
+      "aliases": [
+        "南邮",
+        "NJUPT"
+      ],
+      "repository": "NJUPTFreeExams/NJUPT-CST-Free-Exams",
+      "sourceTitle": "南京邮电大学计算机专业历年考试资料",
+      "coursePathIndex": 0,
+      "province": "江苏",
+      "paperCount": 1,
+      "courseCount": 1,
+      "dataUrl": "./data/njupt-dc4ccba24edf48da.json"
+    },
+    {
+      "id": "suda",
+      "name": "苏州大学",
+      "shortName": "苏大",
+      "aliases": [
+        "苏大",
+        "SUDA",
+        "Soochow University"
+      ],
+      "repository": "SoochowXiong/MathWarehouse",
+      "sourceTitle": "苏州大学数学科学学院资源库",
+      "coursePathIndex": 1,
+      "province": "江苏",
+      "paperCount": 4,
+      "courseCount": 3,
+      "dataUrl": "./data/suda-8c44bf68c0fe94ad.json"
+    },
+    {
+      "id": "jiangnan",
+      "name": "江南大学",
+      "shortName": "江南",
+      "aliases": [
+        "江南",
+        "江大",
+        "Jiangnan University"
+      ],
+      "repository": "Charlie315/JNU-XinJi",
+      "sourceTitle": "江南大学信息与计算科学作业与试卷合集",
+      "coursePathIndex": 1,
+      "province": "江苏",
+      "paperCount": 1,
+      "courseCount": 1,
+      "dataUrl": "./data/jiangnan-93621a403f724df6.json"
+    },
+    {
+      "id": "hhu",
+      "name": "河海大学",
+      "shortName": "河海",
+      "aliases": [
+        "河海",
+        "HHU"
+      ],
+      "repository": "zewenli98/HHU_course",
+      "sourceTitle": "河海大学计算机专业课程资料",
+      "coursePathIndex": 0,
+      "province": "江苏",
+      "paperCount": 1,
+      "courseCount": 1,
+      "dataUrl": "./data/hhu-523407900297772e.json"
+    },
+    {
+      "id": "nuist",
+      "name": "南京信息工程大学",
+      "shortName": "南信大",
+      "aliases": [
+        "南信大",
+        "南气",
+        "NUIST"
+      ],
+      "repository": "wzy-acsuc/NUIST-Resources",
+      "sourceTitle": "南京信息工程大学课程资源合集",
+      "coursePathIndex": 1,
+      "province": "江苏",
+      "paperCount": 4,
+      "courseCount": 3,
+      "dataUrl": "./data/nuist-28580decde71a162.json"
+    },
+    {
+      "id": "jit",
+      "name": "金陵科技学院",
+      "shortName": "金科",
+      "aliases": [
+        "金科",
+        "金科院",
+        "JIT"
+      ],
+      "repository": "wugenqiang/JIT-Courses",
+      "sourceTitle": "金陵科技学院课程学习资料",
+      "coursePathIndex": 0,
+      "province": "江苏",
+      "paperCount": 6,
+      "courseCount": 2,
+      "dataUrl": "./data/jit-7efddec70424643f.json"
+    },
+    {
+      "id": "nau",
+      "name": "南京审计大学",
+      "shortName": "南审",
+      "aliases": [
+        "南审",
+        "NAU",
+        "南京审计学院"
+      ],
+      "repository": "lnsongxf/NAUCFA",
+      "sourceTitle": "南京审计大学金融学（CFA）学习资料",
+      "coursePathIndex": 0,
+      "province": "江苏",
+      "paperCount": 3,
+      "courseCount": 2,
+      "dataUrl": "./data/nau-95eac9a1b55631e1.json"
+    },
+    {
+      "id": "ycit",
+      "name": "盐城工学院",
+      "shortName": "盐工",
+      "aliases": [
+        "盐工",
+        "盐城工院",
+        "YCIT"
+      ],
+      "repository": "ZHlovecat/ycitedu",
+      "sourceTitle": "盐城工学院课程攻略共享计划",
+      "coursePathIndex": 1,
+      "province": "江苏",
+      "paperCount": 1,
+      "courseCount": 1,
+      "dataUrl": "./data/ycit-a92a1a84584ce8af.json"
+    },
+    {
+      "id": "xjtlu",
+      "name": "西交利物浦大学",
+      "shortName": "西浦",
+      "aliases": [
+        "西浦",
+        "XJTLU",
+        "Xi’an Jiaotong-Liverpool University"
+      ],
+      "repository": "PeronGH/CPT107-Revision",
+      "sourceTitle": "PeronGH 课程资料中的 CSE107 历年试卷",
+      "coursePathIndex": 0,
+      "province": "江苏",
+      "paperCount": 1,
+      "courseCount": 1,
+      "dataUrl": "./data/xjtlu-165f9a518718d0c8.json"
+    }
+  ]
+}

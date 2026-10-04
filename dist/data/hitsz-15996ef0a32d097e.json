@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-23T04:04:39.580Z",
+  "school": {
+    "id": "hitsz",
+    "name": "哈尔滨工业大学（深圳）",
+    "shortName": "哈工大深圳",
+    "aliases": [
+      "哈工大深圳",
+      "哈工大（深圳）",
+      "哈工深",
+      "HITSZ",
+      "哈尔滨工业大学深圳校区"
+    ],
+    "repository": "HITsz-OpenCS/HITSZ-OpenCS",
+    "sourceTitle": "哈工大（深圳）计算机专业课程攻略",
+    "coursePathIndex": 1
+  },
+  "courses": [
+    {
+      "name": "并行处理与体系结构",
+      "aliases": [
+        "并行计算"
+      ],
+      "paperCount": 1
+    },
+    {
+      "name": "机器学习概论",
+      "aliases": [],
+      "paperCount": 1
+    }
+  ],
+  "papers": [
+    {
+      "id": "hitsz-001",
+      "school": "hitsz",
+      "course": "机器学习概论",
+      "aliases": [],
+      "originalTitle": "2021机器学习期末考_回忆版",
+      "year": 2021,
+      "yearLabel": "2021",
+      "term": "",
+      "type": "recalled",
+      "files": [
+        {
+          "name": "2021机器学习期末考_回忆版.md",
+          "path": "大三上/机器学习概论/exam/2021机器学习期末考_回忆版.md",
+          "format": "MD",
+          "url": "https://github.com/HITsz-OpenCS/HITSZ-OpenCS/blob/ebd1ab512dde9c257d48cb09b309db78b0ff14b7/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%AE%BA/exam/2021%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%9C%9F%E6%9C%AB%E8%80%83_%E5%9B%9E%E5%BF%86%E7%89%88.md",
+          "blobSha": "3d0051966aad8c5f93f09d70faf6c3020847881f"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "深圳校区；考点回忆，未包含完整题面。",
+      "verifiedAt": "2026-09-23T04:04:39.580Z",
+      "source": {
+        "repository": "HITsz-OpenCS/HITSZ-OpenCS",
+        "repositoryUrl": "https://github.com/HITsz-OpenCS/HITSZ-OpenCS",
+        "title": "哈工大（深圳）计算机专业课程攻略",
+        "commit": "ebd1ab512dde9c257d48cb09b309db78b0ff14b7"
+      }
+    },
+    {
+      "id": "hitsz-002",
+      "school": "hitsz",
+      "course": "并行处理与体系结构",
+      "aliases": [
+        "并行计算"
+      ],
+      "originalTitle": "2024_并行处理与体系结构期末考试回忆版",
+      "year": 2024,
+      "yearLabel": "2024",
+      "term": "",
+      "type": "recalled",
+      "files": [
+        {
+          "name": "2024_并行处理与体系结构期末考试回忆版.md",
+          "path": "研究生课/并行处理与体系结构/exam/2024_并行处理与体系结构期末考试回忆版.md",
+          "format": "MD",
+          "url": "https://github.com/HITsz-OpenCS/HITSZ-OpenCS/blob/ebd1ab512dde9c257d48cb09b309db78b0ff14b7/%E7%A0%94%E7%A9%B6%E7%94%9F%E8%AF%BE/%E5%B9%B6%E8%A1%8C%E5%A4%84%E7%90%86%E4%B8%8E%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/exam/2024_%E5%B9%B6%E8%A1%8C%E5%A4%84%E7%90%86%E4%B8%8E%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%9B%9E%E5%BF%86%E7%89%88.md",
+          "blobSha": "86ef222b9562b90e885dff4f6373122e77e1a5ef"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": true,
+      "answerNote": "原文含部分参考答案，未经过本站校对。",
+      "note": "深圳校区研究生课程；部分题目未完整回忆。",
+      "verifiedAt": "2026-09-23T04:04:39.580Z",
+      "source": {
+        "repository": "HITsz-OpenCS/HITSZ-OpenCS",
+        "repositoryUrl": "https://github.com/HITsz-OpenCS/HITSZ-OpenCS",
+        "title": "哈工大（深圳）计算机专业课程攻略",
+        "commit": "ebd1ab512dde9c257d48cb09b309db78b0ff14b7"
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-23T04:25:19.843Z",
+  "school": {
+    "id": "hhu",
+    "name": "河海大学",
+    "shortName": "河海",
+    "aliases": [
+      "河海",
+      "HHU"
+    ],
+    "repository": "zewenli98/HHU_course",
+    "sourceTitle": "河海大学计算机专业课程资料",
+    "coursePathIndex": 0,
+    "province": "江苏"
+  },
+  "courses": [
+    {
+      "name": "软件工程",
+      "aliases": [
+        "软工"
+      ],
+      "paperCount": 1
+    }
+  ],
+  "papers": [
+    {
+      "id": "hhu-001",
+      "school": "hhu",
+      "course": "软件工程",
+      "aliases": [
+        "软工"
+      ],
+      "originalTitle": "试卷_回忆版",
+      "year": null,
+      "yearLabel": "年份未注明",
+      "term": "",
+      "type": "recalled",
+      "files": [
+        {
+          "name": "试卷_回忆版.docx",
+          "path": "软件工程/试卷回忆/试卷_回忆版.docx",
+          "format": "DOCX",
+          "url": "https://github.com/zewenli98/HHU_course/blob/c839564f5f81b1204e8cc3374cd58550446bb74e/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/%E8%AF%95%E5%8D%B7%E5%9B%9E%E5%BF%86/%E8%AF%95%E5%8D%B7_%E5%9B%9E%E5%BF%86%E7%89%88.docx",
+          "blobSha": "1c90bce1a729a0ea3f5400a7257c7fdb94bc0e7b"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": true,
+      "answerNote": "回忆稿中含部分贡献者解答",
+      "note": "原文标题为“软件工程期末考试”，未注明年份。回忆稿含省略题面和缺失图示，不是完整原卷。",
+      "verifiedAt": "2026-09-23T04:25:19.843Z",
+      "source": {
+        "repository": "zewenli98/HHU_course",
+        "repositoryUrl": "https://github.com/zewenli98/HHU_course",
+        "title": "河海大学计算机专业课程资料",
+        "commit": "c839564f5f81b1204e8cc3374cd58550446bb74e"
+      }
+    }
+  ]
+}

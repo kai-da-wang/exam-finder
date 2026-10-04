@@ -1,0 +1,367 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-23T05:00:01.257Z",
+  "school": {
+    "id": "njust",
+    "name": "南京理工大学",
+    "shortName": "南理工",
+    "aliases": [
+      "南理工",
+      "南京理工",
+      "NJUST"
+    ],
+    "repository": "NJUST-OpenLib/NJUST-docs",
+    "sourceTitle": "南京理工大学课程攻略共享计划",
+    "coursePathIndex": 0,
+    "province": "江苏"
+  },
+  "courses": [
+    {
+      "name": "数字逻辑电路",
+      "aliases": [
+        "数逻"
+      ],
+      "paperCount": 2
+    },
+    {
+      "name": "线性代数（2.5 学分）",
+      "aliases": [
+        "线性代数2.5学分",
+        "线代2.5"
+      ],
+      "paperCount": 3
+    },
+    {
+      "name": "C 语言程序设计（4 学分）",
+      "aliases": [
+        "C语言程序设计",
+        "C语言",
+        "C语言程序设计（4学分）"
+      ],
+      "paperCount": 3
+    }
+  ],
+  "papers": [
+    {
+      "id": "njust-001",
+      "school": "njust",
+      "course": "C 语言程序设计（4 学分）",
+      "aliases": [
+        "C语言程序设计",
+        "C语言",
+        "C语言程序设计（4学分）"
+      ],
+      "originalTitle": "2016_C语言_期末考试_试卷",
+      "year": null,
+      "yearLabel": "年份未注明",
+      "term": "A 卷",
+      "type": "original",
+      "files": [
+        {
+          "name": "2016_C语言_期末考试_试卷.pdf",
+          "path": "C语言/06000704-4学分-C语言程序设计/_附件/2016_C语言_期末考试_试卷.pdf",
+          "format": "PDF",
+          "url": "https://github.com/NJUST-OpenLib/NJUST-docs/blob/0abb7ba56c5ccc493f7ef0c1192bf396016aee19/C%E8%AF%AD%E8%A8%80/06000704-4%E5%AD%A6%E5%88%86-C%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/_%E9%99%84%E4%BB%B6/2016_C%E8%AF%AD%E8%A8%80_%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95_%E8%AF%95%E5%8D%B7.pdf",
+          "blobSha": "932e148f89244213efadc2a07b48048c1a249648"
+        }
+      ],
+      "answers": [
+        {
+          "name": "2016_C语言_期末考试_答案.pdf",
+          "path": "C语言/06000704-4学分-C语言程序设计/_附件/2016_C语言_期末考试_答案.pdf",
+          "format": "PDF",
+          "url": "https://github.com/NJUST-OpenLib/NJUST-docs/blob/0abb7ba56c5ccc493f7ef0c1192bf396016aee19/C%E8%AF%AD%E8%A8%80/06000704-4%E5%AD%A6%E5%88%86-C%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/_%E9%99%84%E4%BB%B6/2016_C%E8%AF%AD%E8%A8%80_%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95_%E7%AD%94%E6%A1%88.pdf",
+          "blobSha": "5f4783c42eeae983bcccc292c0a294582de9f0ca"
+        }
+      ],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "原文件标为 2016，卷头组卷日期为 2017 年 1 月；未明确考试年份，暂按未知年份展示。课程编号 06000704。部分后续页沿用 15A 卷号，保留来源原貌。",
+      "verifiedAt": "2026-09-23T05:00:01.257Z",
+      "source": {
+        "repository": "NJUST-OpenLib/NJUST-docs",
+        "repositoryUrl": "https://github.com/NJUST-OpenLib/NJUST-docs",
+        "title": "南京理工大学课程攻略共享计划",
+        "commit": "0abb7ba56c5ccc493f7ef0c1192bf396016aee19"
+      }
+    },
+    {
+      "id": "njust-002",
+      "school": "njust",
+      "course": "C 语言程序设计（4 学分）",
+      "aliases": [
+        "C语言程序设计",
+        "C语言",
+        "C语言程序设计（4学分）"
+      ],
+      "originalTitle": "2017_C语言_期末考试_试卷",
+      "year": null,
+      "yearLabel": "年份未注明",
+      "term": "A 卷",
+      "type": "original",
+      "files": [
+        {
+          "name": "2017_C语言_期末考试_试卷.pdf",
+          "path": "C语言/06000704-4学分-C语言程序设计/_附件/2017_C语言_期末考试_试卷.pdf",
+          "format": "PDF",
+          "url": "https://github.com/NJUST-OpenLib/NJUST-docs/blob/0abb7ba56c5ccc493f7ef0c1192bf396016aee19/C%E8%AF%AD%E8%A8%80/06000704-4%E5%AD%A6%E5%88%86-C%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/_%E9%99%84%E4%BB%B6/2017_C%E8%AF%AD%E8%A8%80_%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95_%E8%AF%95%E5%8D%B7.pdf",
+          "blobSha": "51eb1eb6c9ca75409a3825a4155e5488eeab59f2"
+        }
+      ],
+      "answers": [
+        {
+          "name": "2017_C语言_期末考试_答案.pdf",
+          "path": "C语言/06000704-4学分-C语言程序设计/_附件/2017_C语言_期末考试_答案.pdf",
+          "format": "PDF",
+          "url": "https://github.com/NJUST-OpenLib/NJUST-docs/blob/0abb7ba56c5ccc493f7ef0c1192bf396016aee19/C%E8%AF%AD%E8%A8%80/06000704-4%E5%AD%A6%E5%88%86-C%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/_%E9%99%84%E4%BB%B6/2017_C%E8%AF%AD%E8%A8%80_%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95_%E7%AD%94%E6%A1%88.pdf",
+          "blobSha": "4f9a51b2e4c7398983cf75d6bb5abd02714083b9"
+        }
+      ],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "原文件标为 2017，卷头组卷日期为 2018 年 1 月；未明确考试年份，暂按未知年份展示。课程编号 06000704。",
+      "verifiedAt": "2026-09-23T05:00:01.257Z",
+      "source": {
+        "repository": "NJUST-OpenLib/NJUST-docs",
+        "repositoryUrl": "https://github.com/NJUST-OpenLib/NJUST-docs",
+        "title": "南京理工大学课程攻略共享计划",
+        "commit": "0abb7ba56c5ccc493f7ef0c1192bf396016aee19"
+      }
+    },
+    {
+      "id": "njust-003",
+      "school": "njust",
+      "course": "C 语言程序设计（4 学分）",
+      "aliases": [
+        "C语言程序设计",
+        "C语言",
+        "C语言程序设计（4学分）"
+      ],
+      "originalTitle": "2018_C语言_期末考试_试卷",
+      "year": null,
+      "yearLabel": "年份未注明",
+      "term": "A 卷",
+      "type": "original",
+      "files": [
+        {
+          "name": "2018_C语言_期末考试_试卷.pdf",
+          "path": "C语言/06000704-4学分-C语言程序设计/_附件/2018_C语言_期末考试_试卷.pdf",
+          "format": "PDF",
+          "url": "https://github.com/NJUST-OpenLib/NJUST-docs/blob/0abb7ba56c5ccc493f7ef0c1192bf396016aee19/C%E8%AF%AD%E8%A8%80/06000704-4%E5%AD%A6%E5%88%86-C%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/_%E9%99%84%E4%BB%B6/2018_C%E8%AF%AD%E8%A8%80_%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95_%E8%AF%95%E5%8D%B7.pdf",
+          "blobSha": "6df4acb9023517ec55b10bad94604e7bc288d42a"
+        }
+      ],
+      "answers": [
+        {
+          "name": "2018_C语言_期末考试_答案.pdf",
+          "path": "C语言/06000704-4学分-C语言程序设计/_附件/2018_C语言_期末考试_答案.pdf",
+          "format": "PDF",
+          "url": "https://github.com/NJUST-OpenLib/NJUST-docs/blob/0abb7ba56c5ccc493f7ef0c1192bf396016aee19/C%E8%AF%AD%E8%A8%80/06000704-4%E5%AD%A6%E5%88%86-C%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/_%E9%99%84%E4%BB%B6/2018_C%E8%AF%AD%E8%A8%80_%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95_%E7%AD%94%E6%A1%88.pdf",
+          "blobSha": "c17a109a2854fcbeaed9d862a5a5ab6b0200b5a4"
+        }
+      ],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "原文件标为 2018，卷头组卷日期为 2019 年 1 月；未明确考试年份，暂按未知年份展示。课程编号 06000704。",
+      "verifiedAt": "2026-09-23T05:00:01.257Z",
+      "source": {
+        "repository": "NJUST-OpenLib/NJUST-docs",
+        "repositoryUrl": "https://github.com/NJUST-OpenLib/NJUST-docs",
+        "title": "南京理工大学课程攻略共享计划",
+        "commit": "0abb7ba56c5ccc493f7ef0c1192bf396016aee19"
+      }
+    },
+    {
+      "id": "njust-004",
+      "school": "njust",
+      "course": "线性代数（2.5 学分）",
+      "aliases": [
+        "线性代数2.5学分",
+        "线代2.5"
+      ],
+      "originalTitle": "线代试卷(2.5)(21.12.2)",
+      "year": 2022,
+      "yearLabel": "2021-2022",
+      "term": "秋学期 · A 卷",
+      "type": "original",
+      "files": [
+        {
+          "name": "线代试卷(2.5)(21.12.2).pdf",
+          "path": "线性代数/11031201-2.5学分-线性代数/_附件/线代试卷(2.5)(21.12.2).pdf",
+          "format": "PDF",
+          "url": "https://github.com/NJUST-OpenLib/NJUST-docs/blob/0abb7ba56c5ccc493f7ef0c1192bf396016aee19/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/11031201-2.5%E5%AD%A6%E5%88%86-%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/_%E9%99%84%E4%BB%B6/%E7%BA%BF%E4%BB%A3%E8%AF%95%E5%8D%B7(2.5)(21.12.2).pdf",
+          "blobSha": "2abff4b3eae1caebbb89f64dc679d587e5c2ffec"
+        }
+      ],
+      "answers": [
+        {
+          "name": "线代试卷(2.5)(21.12.2)答案.pdf",
+          "path": "线性代数/11031201-2.5学分-线性代数/_附件/线代试卷(2.5)(21.12.2)答案.pdf",
+          "format": "PDF",
+          "url": "https://github.com/NJUST-OpenLib/NJUST-docs/blob/0abb7ba56c5ccc493f7ef0c1192bf396016aee19/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/11031201-2.5%E5%AD%A6%E5%88%86-%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/_%E9%99%84%E4%BB%B6/%E7%BA%BF%E4%BB%A3%E8%AF%95%E5%8D%B7(2.5)(21.12.2)%E7%AD%94%E6%A1%88.pdf",
+          "blobSha": "9bb44b148f362484e31fa4423b6e2f195c1ffe7b"
+        }
+      ],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "学年与秋学期依据配套答案标题；课程编号 11031201，2.5 学分。A/B 为试卷版本。",
+      "verifiedAt": "2026-09-23T05:00:01.257Z",
+      "source": {
+        "repository": "NJUST-OpenLib/NJUST-docs",
+        "repositoryUrl": "https://github.com/NJUST-OpenLib/NJUST-docs",
+        "title": "南京理工大学课程攻略共享计划",
+        "commit": "0abb7ba56c5ccc493f7ef0c1192bf396016aee19"
+      }
+    },
+    {
+      "id": "njust-005",
+      "school": "njust",
+      "course": "线性代数（2.5 学分）",
+      "aliases": [
+        "线性代数2.5学分",
+        "线代2.5"
+      ],
+      "originalTitle": "线代试卷(2.5)(22.12.4)",
+      "year": 2023,
+      "yearLabel": "2022-2023",
+      "term": "秋学期 · A 卷",
+      "type": "original",
+      "files": [
+        {
+          "name": "线代试卷(2.5)(22.12.4).pdf",
+          "path": "线性代数/11031201-2.5学分-线性代数/_附件/线代试卷(2.5)(22.12.4).pdf",
+          "format": "PDF",
+          "url": "https://github.com/NJUST-OpenLib/NJUST-docs/blob/0abb7ba56c5ccc493f7ef0c1192bf396016aee19/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/11031201-2.5%E5%AD%A6%E5%88%86-%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/_%E9%99%84%E4%BB%B6/%E7%BA%BF%E4%BB%A3%E8%AF%95%E5%8D%B7(2.5)(22.12.4).pdf",
+          "blobSha": "3ce349008d675a592c36a4fd1436be563a186949"
+        }
+      ],
+      "answers": [
+        {
+          "name": "线代试卷(2.5)(22.12.4)答案.pdf",
+          "path": "线性代数/11031201-2.5学分-线性代数/_附件/线代试卷(2.5)(22.12.4)答案.pdf",
+          "format": "PDF",
+          "url": "https://github.com/NJUST-OpenLib/NJUST-docs/blob/0abb7ba56c5ccc493f7ef0c1192bf396016aee19/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/11031201-2.5%E5%AD%A6%E5%88%86-%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/_%E9%99%84%E4%BB%B6/%E7%BA%BF%E4%BB%A3%E8%AF%95%E5%8D%B7(2.5)(22.12.4)%E7%AD%94%E6%A1%88.pdf",
+          "blobSha": "d2a4d76d91c0112a84f60ac68af2069c9d962a71"
+        }
+      ],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "学年与秋学期依据配套答案标题；课程编号 11031201，2.5 学分。A/B 为试卷版本。",
+      "verifiedAt": "2026-09-23T05:00:01.257Z",
+      "source": {
+        "repository": "NJUST-OpenLib/NJUST-docs",
+        "repositoryUrl": "https://github.com/NJUST-OpenLib/NJUST-docs",
+        "title": "南京理工大学课程攻略共享计划",
+        "commit": "0abb7ba56c5ccc493f7ef0c1192bf396016aee19"
+      }
+    },
+    {
+      "id": "njust-006",
+      "school": "njust",
+      "course": "线性代数（2.5 学分）",
+      "aliases": [
+        "线性代数2.5学分",
+        "线代2.5"
+      ],
+      "originalTitle": "线代试卷(2.5)(23.1.6)",
+      "year": 2023,
+      "yearLabel": "2022-2023",
+      "term": "秋学期 · B 卷",
+      "type": "original",
+      "files": [
+        {
+          "name": "线代试卷(2.5)(23.1.6).pdf",
+          "path": "线性代数/11031201-2.5学分-线性代数/_附件/线代试卷(2.5)(23.1.6).pdf",
+          "format": "PDF",
+          "url": "https://github.com/NJUST-OpenLib/NJUST-docs/blob/0abb7ba56c5ccc493f7ef0c1192bf396016aee19/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/11031201-2.5%E5%AD%A6%E5%88%86-%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/_%E9%99%84%E4%BB%B6/%E7%BA%BF%E4%BB%A3%E8%AF%95%E5%8D%B7(2.5)(23.1.6).pdf",
+          "blobSha": "4ad2bb143aa90e864d4f205e94492bd4af9f94ca"
+        }
+      ],
+      "answers": [
+        {
+          "name": "线代试卷(2.5)(23.1.6)答案.pdf",
+          "path": "线性代数/11031201-2.5学分-线性代数/_附件/线代试卷(2.5)(23.1.6)答案.pdf",
+          "format": "PDF",
+          "url": "https://github.com/NJUST-OpenLib/NJUST-docs/blob/0abb7ba56c5ccc493f7ef0c1192bf396016aee19/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/11031201-2.5%E5%AD%A6%E5%88%86-%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/_%E9%99%84%E4%BB%B6/%E7%BA%BF%E4%BB%A3%E8%AF%95%E5%8D%B7(2.5)(23.1.6)%E7%AD%94%E6%A1%88.pdf",
+          "blobSha": "bcb157185a3c2f2f79fe5e7d0319f5e07422c0ab"
+        }
+      ],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "学年与秋学期依据配套答案标题；课程编号 11031201，2.5 学分。A/B 为试卷版本。",
+      "verifiedAt": "2026-09-23T05:00:01.257Z",
+      "source": {
+        "repository": "NJUST-OpenLib/NJUST-docs",
+        "repositoryUrl": "https://github.com/NJUST-OpenLib/NJUST-docs",
+        "title": "南京理工大学课程攻略共享计划",
+        "commit": "0abb7ba56c5ccc493f7ef0c1192bf396016aee19"
+      }
+    },
+    {
+      "id": "njust-007",
+      "school": "njust",
+      "course": "数字逻辑电路",
+      "aliases": [
+        "数逻"
+      ],
+      "originalTitle": "试卷2021",
+      "year": 2021,
+      "yearLabel": "2021",
+      "term": "上半年 · A 卷",
+      "type": "original",
+      "files": [
+        {
+          "name": "试卷2021.pdf",
+          "path": "数字逻辑电路/04026304-3.5学分-数字逻辑电路/_附件/试卷2021.pdf",
+          "format": "PDF",
+          "url": "https://github.com/NJUST-OpenLib/NJUST-docs/blob/0abb7ba56c5ccc493f7ef0c1192bf396016aee19/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF/04026304-3.5%E5%AD%A6%E5%88%86-%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF/_%E9%99%84%E4%BB%B6/%E8%AF%95%E5%8D%B72021.pdf",
+          "blobSha": "613cb3461efbebb1dc3156aca65bb9577598a01a"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "卷头试卷编号明确标注年份，课程编号 04026304，3.5 学分。",
+      "verifiedAt": "2026-09-23T05:00:01.257Z",
+      "source": {
+        "repository": "NJUST-OpenLib/NJUST-docs",
+        "repositoryUrl": "https://github.com/NJUST-OpenLib/NJUST-docs",
+        "title": "南京理工大学课程攻略共享计划",
+        "commit": "0abb7ba56c5ccc493f7ef0c1192bf396016aee19"
+      }
+    },
+    {
+      "id": "njust-008",
+      "school": "njust",
+      "course": "数字逻辑电路",
+      "aliases": [
+        "数逻"
+      ],
+      "originalTitle": "试卷2022",
+      "year": 2022,
+      "yearLabel": "2022",
+      "term": "上半年 · A 卷",
+      "type": "original",
+      "files": [
+        {
+          "name": "试卷2022.pdf",
+          "path": "数字逻辑电路/04026304-3.5学分-数字逻辑电路/_附件/试卷2022.pdf",
+          "format": "PDF",
+          "url": "https://github.com/NJUST-OpenLib/NJUST-docs/blob/0abb7ba56c5ccc493f7ef0c1192bf396016aee19/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF/04026304-3.5%E5%AD%A6%E5%88%86-%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF/_%E9%99%84%E4%BB%B6/%E8%AF%95%E5%8D%B72022.pdf",
+          "blobSha": "dc4d9b230e348b33d132eb74c25838aca480ff3e"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "卷头试卷编号明确标注年份，课程编号 04026304，3.5 学分。",
+      "verifiedAt": "2026-09-23T05:00:01.257Z",
+      "source": {
+        "repository": "NJUST-OpenLib/NJUST-docs",
+        "repositoryUrl": "https://github.com/NJUST-OpenLib/NJUST-docs",
+        "title": "南京理工大学课程攻略共享计划",
+        "commit": "0abb7ba56c5ccc493f7ef0c1192bf396016aee19"
+      }
+    }
+  ]
+}

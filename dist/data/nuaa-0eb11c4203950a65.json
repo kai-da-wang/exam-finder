@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-23T04:25:19.843Z",
+  "school": {
+    "id": "nuaa",
+    "name": "南京航空航天大学",
+    "shortName": "南航",
+    "aliases": [
+      "南航",
+      "NUAA"
+    ],
+    "repository": "NUAA-Open-Source/NUAA-Course",
+    "sourceTitle": "南京航空航天大学课程资源共享计划",
+    "coursePathIndex": 0,
+    "province": "江苏"
+  },
+  "courses": [
+    {
+      "name": "工科数学分析 I",
+      "aliases": [
+        "工科数学分析Ⅰ",
+        "工科数学分析1"
+      ],
+      "paperCount": 1
+    }
+  ],
+  "papers": [
+    {
+      "id": "nuaa-001",
+      "school": "nuaa",
+      "course": "工科数学分析 I",
+      "aliases": [
+        "工科数学分析Ⅰ",
+        "工科数学分析1"
+      ],
+      "originalTitle": "2018级第1学期期末考试试AB卷及答案",
+      "year": 2019,
+      "yearLabel": "2018-2019",
+      "term": "第一学期 · A/B 卷合辑",
+      "type": "original",
+      "files": [
+        {
+          "name": "2018级第1学期期末考试试AB卷及答案.pdf",
+          "path": "工科数学分析/2018级第1学期期末考试试AB卷及答案.pdf",
+          "format": "PDF",
+          "url": "https://github.com/NUAA-Open-Source/NUAA-Course/blob/00d180ee6c6bc2445d38c2ece812be090cc4de14/%E5%B7%A5%E7%A7%91%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/2018%E7%BA%A7%E7%AC%AC1%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95AB%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf",
+          "blobSha": "808f4a4fc4101edf487ca8fbbd82089016e17fa1"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": true,
+      "answerNote": "同一 PDF 含 A、B 两卷及各自参考答案",
+      "note": "按卷头保留课程 I 版本。16 页合辑作为一条资料展示，不重复计算同一文件。",
+      "verifiedAt": "2026-09-23T04:25:19.843Z",
+      "source": {
+        "repository": "NUAA-Open-Source/NUAA-Course",
+        "repositoryUrl": "https://github.com/NUAA-Open-Source/NUAA-Course",
+        "title": "南京航空航天大学课程资源共享计划",
+        "commit": "00d180ee6c6bc2445d38c2ece812be090cc4de14"
+      }
+    }
+  ]
+}

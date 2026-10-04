@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-23T04:25:19.843Z",
+  "school": {
+    "id": "jiangnan",
+    "name": "江南大学",
+    "shortName": "江南",
+    "aliases": [
+      "江南",
+      "江大",
+      "Jiangnan University"
+    ],
+    "repository": "Charlie315/JNU-XinJi",
+    "sourceTitle": "江南大学信息与计算科学作业与试卷合集",
+    "coursePathIndex": 1,
+    "province": "江苏"
+  },
+  "courses": [
+    {
+      "name": "数据结构",
+      "aliases": [],
+      "paperCount": 1
+    }
+  ],
+  "papers": [
+    {
+      "id": "jiangnan-001",
+      "school": "jiangnan",
+      "course": "数据结构",
+      "aliases": [],
+      "originalTitle": "数据结构2015年期末",
+      "year": 2015,
+      "yearLabel": "2015",
+      "term": "A 卷",
+      "type": "original",
+      "files": [
+        {
+          "name": "数据结构2015年期末.pdf",
+          "path": "计算机类/数据结构/数据结构2015年期末.pdf",
+          "format": "PDF",
+          "url": "https://github.com/Charlie315/JNU-XinJi/blob/13f43f0d8041e4a6870dede9833534511063703d/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%842015%E5%B9%B4%E6%9C%9F%E6%9C%AB.pdf",
+          "blobSha": "f5cafa217a3d01afbd8499822a2aa5e8a39f8dfd"
+        }
+      ],
+      "answers": [
+        {
+          "name": "数据结构2015期末答案.pdf",
+          "path": "计算机类/数据结构/数据结构2015期末答案.pdf",
+          "format": "PDF",
+          "url": "https://github.com/Charlie315/JNU-XinJi/blob/13f43f0d8041e4a6870dede9833534511063703d/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%842015%E6%9C%9F%E6%9C%AB%E7%AD%94%E6%A1%88.pdf",
+          "blobSha": "16eca168eb2f5540a196eb2b7b76f0a1bd332ce7"
+        }
+      ],
+      "answerIncluded": true,
+      "answerNote": "试卷含手写作答；另附对应参考答案",
+      "note": "年份依据原文件及仓库课程说明；部分答案署名 hwdong.com，保留来源署名。",
+      "verifiedAt": "2026-09-23T04:25:19.843Z",
+      "source": {
+        "repository": "Charlie315/JNU-XinJi",
+        "repositoryUrl": "https://github.com/Charlie315/JNU-XinJi",
+        "title": "江南大学信息与计算科学作业与试卷合集",
+        "commit": "13f43f0d8041e4a6870dede9833534511063703d"
+      }
+    }
+  ]
+}

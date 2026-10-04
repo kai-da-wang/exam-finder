@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-23T05:00:01.257Z",
+  "school": {
+    "id": "nau",
+    "name": "南京审计大学",
+    "shortName": "南审",
+    "aliases": [
+      "南审",
+      "NAU",
+      "南京审计学院"
+    ],
+    "repository": "lnsongxf/NAUCFA",
+    "sourceTitle": "南京审计大学金融学（CFA）学习资料",
+    "coursePathIndex": 0,
+    "province": "江苏"
+  },
+  "courses": [
+    {
+      "name": "计量经济学",
+      "aliases": [
+        "Econometrics"
+      ],
+      "paperCount": 2
+    },
+    {
+      "name": "International Settlement",
+      "aliases": [
+        "国际结算"
+      ],
+      "paperCount": 1
+    }
+  ],
+  "papers": [
+    {
+      "id": "nau-settlement-2019-2020",
+      "school": "nau",
+      "course": "International Settlement",
+      "aliases": [
+        "国际结算"
+      ],
+      "originalTitle": "2019-2020-2《International Settlement》试卷",
+      "year": 2020,
+      "yearLabel": "2019-2020",
+      "term": "第2学期",
+      "type": "original",
+      "files": [
+        {
+          "name": "2019-2020-2《International Settlement》试卷.pdf",
+          "path": "国际结算/2019-2020-2《International Settlement》试卷.pdf",
+          "format": "PDF",
+          "url": "https://github.com/lnsongxf/NAUCFA/blob/f7bc80efaa1280585d685f0d8cd153a4b703c99e/%E5%9B%BD%E9%99%85%E7%BB%93%E7%AE%97/2019-2020-2%E3%80%8AInternational%20Settlement%E3%80%8B%E8%AF%95%E5%8D%B7.pdf",
+          "blobSha": "415715288a226de12a1391a0cc018325155c3f96"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "南京审计大学金融学院，2017级 CFA 1—3班；英文开卷试卷。",
+      "verifiedAt": "2026-09-23T05:00:01.257Z",
+      "source": {
+        "repository": "lnsongxf/NAUCFA",
+        "repositoryUrl": "https://github.com/lnsongxf/NAUCFA",
+        "title": "南京审计大学金融学（CFA）学习资料",
+        "commit": "f7bc80efaa1280585d685f0d8cd153a4b703c99e"
+      }
+    },
+    {
+      "id": "nau-econometrics-2019-2020",
+      "school": "nau",
+      "course": "计量经济学",
+      "aliases": [
+        "Econometrics"
+      ],
+      "originalTitle": "计量经济学期末考试试卷",
+      "year": 2020,
+      "yearLabel": "2019-2020",
+      "term": "第2学期",
+      "type": "original",
+      "files": [
+        {
+          "name": "计量经济学期末考试试卷.pdf",
+          "path": "计量经济学/真题/计量经济学期末考试试卷.pdf",
+          "format": "PDF",
+          "url": "https://github.com/lnsongxf/NAUCFA/blob/f7bc80efaa1280585d685f0d8cd153a4b703c99e/%E8%AE%A1%E9%87%8F%E7%BB%8F%E6%B5%8E%E5%AD%A6/%E7%9C%9F%E9%A2%98/%E8%AE%A1%E9%87%8F%E7%BB%8F%E6%B5%8E%E5%AD%A6%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
+          "blobSha": "7ceb2471e86d7e84a32074af3517fd4bd12df536"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "卷头标注2019—2020学年第二学期；来源为南审金融学（CFA）课程仓库。",
+      "verifiedAt": "2026-09-23T05:00:01.257Z",
+      "source": {
+        "repository": "lnsongxf/NAUCFA",
+        "repositoryUrl": "https://github.com/lnsongxf/NAUCFA",
+        "title": "南京审计大学金融学（CFA）学习资料",
+        "commit": "f7bc80efaa1280585d685f0d8cd153a4b703c99e"
+      }
+    },
+    {
+      "id": "nau-econometrics-recalled-unknown",
+      "school": "nau",
+      "course": "计量经济学",
+      "aliases": [
+        "Econometrics"
+      ],
+      "originalTitle": "readme",
+      "year": null,
+      "yearLabel": "年份未注明",
+      "term": "",
+      "type": "recalled",
+      "files": [
+        {
+          "name": "readme.md",
+          "path": "计量经济学/真题/readme.md",
+          "format": "MD",
+          "url": "https://github.com/lnsongxf/NAUCFA/blob/f7bc80efaa1280585d685f0d8cd153a4b703c99e/%E8%AE%A1%E9%87%8F%E7%BB%8F%E6%B5%8E%E5%AD%A6/%E7%9C%9F%E9%A2%98/readme.md",
+          "blobSha": "ff7f1fd481d91420e66fac78104f3ce07a7eb77c"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "不完整回忆版：含部分简答、判断及计算题回忆和少量解题提示，未附完整答案；原文没有注明考试年份，不与同目录原卷推定为同一次考试。",
+      "verifiedAt": "2026-09-23T05:00:01.257Z",
+      "source": {
+        "repository": "lnsongxf/NAUCFA",
+        "repositoryUrl": "https://github.com/lnsongxf/NAUCFA",
+        "title": "南京审计大学金融学（CFA）学习资料",
+        "commit": "f7bc80efaa1280585d685f0d8cd153a4b703c99e"
+      }
+    }
+  ]
+}

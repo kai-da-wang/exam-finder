@@ -1,0 +1,425 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-23T04:04:39.580Z",
+  "school": {
+    "id": "zju",
+    "name": "浙江大学",
+    "shortName": "浙大",
+    "aliases": [
+      "浙大",
+      "ZJU"
+    ],
+    "repository": "QSCTech/zju-icicles",
+    "sourceTitle": "浙江大学课程攻略共享计划"
+  },
+  "courses": [
+    {
+      "name": "程序设计方法学",
+      "aliases": [],
+      "paperCount": 1
+    },
+    {
+      "name": "电磁场与电磁波",
+      "aliases": [],
+      "paperCount": 7
+    },
+    {
+      "name": "数据结构基础",
+      "aliases": [
+        "数据结构"
+      ],
+      "paperCount": 1
+    },
+    {
+      "name": "图像信息处理",
+      "aliases": [],
+      "paperCount": 1
+    },
+    {
+      "name": "物理化学",
+      "aliases": [],
+      "paperCount": 1
+    },
+    {
+      "name": "物理化学（甲）",
+      "aliases": [],
+      "paperCount": 1
+    }
+  ],
+  "papers": [
+    {
+      "id": "zju-001",
+      "school": "zju",
+      "course": "电磁场与电磁波",
+      "aliases": [],
+      "originalTitle": "2011期末考试",
+      "year": 2011,
+      "yearLabel": "2011",
+      "term": "",
+      "type": "original",
+      "files": [
+        {
+          "name": "2011期末考试.pdf",
+          "path": "电磁场与电磁波/历年卷/期末卷/2011期末考试.pdf",
+          "format": "PDF",
+          "url": "https://github.com/QSCTech/zju-icicles/blob/ed653c62efb2f8e2803ba30103b73131fd88628b/%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E7%94%B5%E7%A3%81%E6%B3%A2/%E5%8E%86%E5%B9%B4%E5%8D%B7/%E6%9C%9F%E6%9C%AB%E5%8D%B7/2011%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+          "blobSha": "37d3f904550e6009a78aa687ef4cd76f0b53248a"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "",
+      "verifiedAt": "2026-09-23T04:04:39.580Z",
+      "source": {
+        "repository": "QSCTech/zju-icicles",
+        "repositoryUrl": "https://github.com/QSCTech/zju-icicles",
+        "title": "浙江大学课程攻略共享计划",
+        "commit": "ed653c62efb2f8e2803ba30103b73131fd88628b"
+      }
+    },
+    {
+      "id": "zju-002",
+      "school": "zju",
+      "course": "电磁场与电磁波",
+      "aliases": [],
+      "originalTitle": "2012期末考试",
+      "year": 2012,
+      "yearLabel": "2012",
+      "term": "",
+      "type": "original",
+      "files": [
+        {
+          "name": "2012期末考试.pdf",
+          "path": "电磁场与电磁波/历年卷/期末卷/2012期末考试.pdf",
+          "format": "PDF",
+          "url": "https://github.com/QSCTech/zju-icicles/blob/ed653c62efb2f8e2803ba30103b73131fd88628b/%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E7%94%B5%E7%A3%81%E6%B3%A2/%E5%8E%86%E5%B9%B4%E5%8D%B7/%E6%9C%9F%E6%9C%AB%E5%8D%B7/2012%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+          "blobSha": "40f7b67282a5882f4094e7cff71873b001e810f9"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "",
+      "verifiedAt": "2026-09-23T04:04:39.580Z",
+      "source": {
+        "repository": "QSCTech/zju-icicles",
+        "repositoryUrl": "https://github.com/QSCTech/zju-icicles",
+        "title": "浙江大学课程攻略共享计划",
+        "commit": "ed653c62efb2f8e2803ba30103b73131fd88628b"
+      }
+    },
+    {
+      "id": "zju-003",
+      "school": "zju",
+      "course": "电磁场与电磁波",
+      "aliases": [],
+      "originalTitle": "2013期末考试",
+      "year": 2013,
+      "yearLabel": "2013",
+      "term": "",
+      "type": "original",
+      "files": [
+        {
+          "name": "2013期末考试.pdf",
+          "path": "电磁场与电磁波/历年卷/期末卷/2013期末考试.pdf",
+          "format": "PDF",
+          "url": "https://github.com/QSCTech/zju-icicles/blob/ed653c62efb2f8e2803ba30103b73131fd88628b/%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E7%94%B5%E7%A3%81%E6%B3%A2/%E5%8E%86%E5%B9%B4%E5%8D%B7/%E6%9C%9F%E6%9C%AB%E5%8D%B7/2013%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+          "blobSha": "6c0e50cd26d9856b6a12801f6a90a7f0419c1371"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "",
+      "verifiedAt": "2026-09-23T04:04:39.580Z",
+      "source": {
+        "repository": "QSCTech/zju-icicles",
+        "repositoryUrl": "https://github.com/QSCTech/zju-icicles",
+        "title": "浙江大学课程攻略共享计划",
+        "commit": "ed653c62efb2f8e2803ba30103b73131fd88628b"
+      }
+    },
+    {
+      "id": "zju-004",
+      "school": "zju",
+      "course": "电磁场与电磁波",
+      "aliases": [],
+      "originalTitle": "2014期末考试",
+      "year": 2014,
+      "yearLabel": "2014",
+      "term": "",
+      "type": "original",
+      "files": [
+        {
+          "name": "2014期末考试.pdf",
+          "path": "电磁场与电磁波/历年卷/期末卷/2014期末考试.pdf",
+          "format": "PDF",
+          "url": "https://github.com/QSCTech/zju-icicles/blob/ed653c62efb2f8e2803ba30103b73131fd88628b/%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E7%94%B5%E7%A3%81%E6%B3%A2/%E5%8E%86%E5%B9%B4%E5%8D%B7/%E6%9C%9F%E6%9C%AB%E5%8D%B7/2014%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+          "blobSha": "d585e7a3fcbb8ce11dcdd810aa2502fa00defbab"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "",
+      "verifiedAt": "2026-09-23T04:04:39.580Z",
+      "source": {
+        "repository": "QSCTech/zju-icicles",
+        "repositoryUrl": "https://github.com/QSCTech/zju-icicles",
+        "title": "浙江大学课程攻略共享计划",
+        "commit": "ed653c62efb2f8e2803ba30103b73131fd88628b"
+      }
+    },
+    {
+      "id": "zju-005",
+      "school": "zju",
+      "course": "电磁场与电磁波",
+      "aliases": [],
+      "originalTitle": "2015期末考试",
+      "year": 2015,
+      "yearLabel": "2015",
+      "term": "",
+      "type": "original",
+      "files": [
+        {
+          "name": "2015期末考试.pdf",
+          "path": "电磁场与电磁波/历年卷/期末卷/2015期末考试.pdf",
+          "format": "PDF",
+          "url": "https://github.com/QSCTech/zju-icicles/blob/ed653c62efb2f8e2803ba30103b73131fd88628b/%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E7%94%B5%E7%A3%81%E6%B3%A2/%E5%8E%86%E5%B9%B4%E5%8D%B7/%E6%9C%9F%E6%9C%AB%E5%8D%B7/2015%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+          "blobSha": "e77cd45b8e0748fcd86685214f8905ba78966149"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "",
+      "verifiedAt": "2026-09-23T04:04:39.580Z",
+      "source": {
+        "repository": "QSCTech/zju-icicles",
+        "repositoryUrl": "https://github.com/QSCTech/zju-icicles",
+        "title": "浙江大学课程攻略共享计划",
+        "commit": "ed653c62efb2f8e2803ba30103b73131fd88628b"
+      }
+    },
+    {
+      "id": "zju-006",
+      "school": "zju",
+      "course": "电磁场与电磁波",
+      "aliases": [],
+      "originalTitle": "2016期末考试",
+      "year": 2016,
+      "yearLabel": "2016",
+      "term": "",
+      "type": "original",
+      "files": [
+        {
+          "name": "2016期末考试.pdf",
+          "path": "电磁场与电磁波/历年卷/期末卷/2016期末考试.pdf",
+          "format": "PDF",
+          "url": "https://github.com/QSCTech/zju-icicles/blob/ed653c62efb2f8e2803ba30103b73131fd88628b/%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E7%94%B5%E7%A3%81%E6%B3%A2/%E5%8E%86%E5%B9%B4%E5%8D%B7/%E6%9C%9F%E6%9C%AB%E5%8D%B7/2016%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+          "blobSha": "b37eece29019948046315ea0e58f17db5f35bc77"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "",
+      "verifiedAt": "2026-09-23T04:04:39.580Z",
+      "source": {
+        "repository": "QSCTech/zju-icicles",
+        "repositoryUrl": "https://github.com/QSCTech/zju-icicles",
+        "title": "浙江大学课程攻略共享计划",
+        "commit": "ed653c62efb2f8e2803ba30103b73131fd88628b"
+      }
+    },
+    {
+      "id": "zju-007",
+      "school": "zju",
+      "course": "电磁场与电磁波",
+      "aliases": [],
+      "originalTitle": "2017期末考试",
+      "year": 2017,
+      "yearLabel": "2017",
+      "term": "",
+      "type": "original",
+      "files": [
+        {
+          "name": "2017期末考试.pdf",
+          "path": "电磁场与电磁波/历年卷/期末卷/2017期末考试.pdf",
+          "format": "PDF",
+          "url": "https://github.com/QSCTech/zju-icicles/blob/ed653c62efb2f8e2803ba30103b73131fd88628b/%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E7%94%B5%E7%A3%81%E6%B3%A2/%E5%8E%86%E5%B9%B4%E5%8D%B7/%E6%9C%9F%E6%9C%AB%E5%8D%B7/2017%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+          "blobSha": "779f0d81c003eb373fdc8ab6798e5fcbfd7d90f9"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "",
+      "verifiedAt": "2026-09-23T04:04:39.580Z",
+      "source": {
+        "repository": "QSCTech/zju-icicles",
+        "repositoryUrl": "https://github.com/QSCTech/zju-icicles",
+        "title": "浙江大学课程攻略共享计划",
+        "commit": "ed653c62efb2f8e2803ba30103b73131fd88628b"
+      }
+    },
+    {
+      "id": "zju-008",
+      "school": "zju",
+      "course": "数据结构基础",
+      "aliases": [
+        "数据结构"
+      ],
+      "originalTitle": "浙江大学2018–2019学年秋冬学期 《数据结构基础》课程期末考试试卷",
+      "year": 2019,
+      "yearLabel": "2018–2019 学年",
+      "term": "秋冬学期",
+      "type": "original",
+      "files": [
+        {
+          "name": "浙江大学2018–2019学年秋冬学期 《数据结构基础》课程期末考试试卷.pdf",
+          "path": "数据结构基础/考试/浙江大学2018–2019学年秋冬学期 《数据结构基础》课程期末考试试卷.pdf",
+          "format": "PDF",
+          "url": "https://github.com/QSCTech/zju-icicles/blob/ed653c62efb2f8e2803ba30103b73131fd88628b/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%9F%BA%E7%A1%80/%E8%80%83%E8%AF%95/%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A62018%E2%80%932019%E5%AD%A6%E5%B9%B4%E7%A7%8B%E5%86%AC%E5%AD%A6%E6%9C%9F%20%E3%80%8A%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%9F%BA%E7%A1%80%E3%80%8B%E8%AF%BE%E7%A8%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
+          "blobSha": "42b729c9a150f8d03c3cab4050c396436d9fb418"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "",
+      "verifiedAt": "2026-09-23T04:04:39.580Z",
+      "source": {
+        "repository": "QSCTech/zju-icicles",
+        "repositoryUrl": "https://github.com/QSCTech/zju-icicles",
+        "title": "浙江大学课程攻略共享计划",
+        "commit": "ed653c62efb2f8e2803ba30103b73131fd88628b"
+      }
+    },
+    {
+      "id": "zju-009",
+      "school": "zju",
+      "course": "物理化学（甲）",
+      "aliases": [],
+      "originalTitle": "浙江大学2005-2006学年冬季学期《物理化学(甲)》课程期末考试试卷",
+      "year": 2006,
+      "yearLabel": "2005–2006 学年",
+      "term": "冬季学期",
+      "type": "original",
+      "files": [
+        {
+          "name": "浙江大学2005-2006学年冬季学期《物理化学(甲)》课程期末考试试卷.pdf",
+          "path": "物理化学/历年试卷/浙江大学2005-2006学年冬季学期《物理化学(甲)》课程期末考试试卷.pdf",
+          "format": "PDF",
+          "url": "https://github.com/QSCTech/zju-icicles/blob/ed653c62efb2f8e2803ba30103b73131fd88628b/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6/%E5%8E%86%E5%B9%B4%E8%AF%95%E5%8D%B7/%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A62005-2006%E5%AD%A6%E5%B9%B4%E5%86%AC%E5%AD%A3%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6(%E7%94%B2)%E3%80%8B%E8%AF%BE%E7%A8%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
+          "blobSha": "8269256e28618302bee6e2b79feb2294b60c294c"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "",
+      "verifiedAt": "2026-09-23T04:04:39.580Z",
+      "source": {
+        "repository": "QSCTech/zju-icicles",
+        "repositoryUrl": "https://github.com/QSCTech/zju-icicles",
+        "title": "浙江大学课程攻略共享计划",
+        "commit": "ed653c62efb2f8e2803ba30103b73131fd88628b"
+      }
+    },
+    {
+      "id": "zju-010",
+      "school": "zju",
+      "course": "物理化学",
+      "aliases": [],
+      "originalTitle": "浙江大学2010-2011《物理化学》课程期末考试试卷",
+      "year": 2011,
+      "yearLabel": "2010–2011 学年",
+      "term": "",
+      "type": "original",
+      "files": [
+        {
+          "name": "浙江大学2010-2011《物理化学》课程期末考试试卷.pdf",
+          "path": "物理化学/历年试卷/浙江大学2010-2011《物理化学》课程期末考试试卷.pdf",
+          "format": "PDF",
+          "url": "https://github.com/QSCTech/zju-icicles/blob/ed653c62efb2f8e2803ba30103b73131fd88628b/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6/%E5%8E%86%E5%B9%B4%E8%AF%95%E5%8D%B7/%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A62010-2011%E3%80%8A%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6%E3%80%8B%E8%AF%BE%E7%A8%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
+          "blobSha": "31a78e454fae4b6ecff9e1f72b09fa363b1aacea"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "",
+      "verifiedAt": "2026-09-23T04:04:39.580Z",
+      "source": {
+        "repository": "QSCTech/zju-icicles",
+        "repositoryUrl": "https://github.com/QSCTech/zju-icicles",
+        "title": "浙江大学课程攻略共享计划",
+        "commit": "ed653c62efb2f8e2803ba30103b73131fd88628b"
+      }
+    },
+    {
+      "id": "zju-011",
+      "school": "zju",
+      "course": "图像信息处理",
+      "aliases": [],
+      "originalTitle": "2017期末试卷",
+      "year": 2017,
+      "yearLabel": "2016–2017 学年",
+      "term": "春夏学期",
+      "type": "recalled",
+      "files": [
+        {
+          "name": "2017期末试卷.md",
+          "path": "图像信息处理/2017期末试卷.md",
+          "format": "MD",
+          "url": "https://github.com/QSCTech/zju-icicles/blob/ed653c62efb2f8e2803ba30103b73131fd88628b/%E5%9B%BE%E5%83%8F%E4%BF%A1%E6%81%AF%E5%A4%84%E7%90%86/2017%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.md",
+          "blobSha": "cb7a64b86a651b4effe07a79b38dc57f302b4c93"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "",
+      "verifiedAt": "2026-09-23T04:04:39.580Z",
+      "source": {
+        "repository": "QSCTech/zju-icicles",
+        "repositoryUrl": "https://github.com/QSCTech/zju-icicles",
+        "title": "浙江大学课程攻略共享计划",
+        "commit": "ed653c62efb2f8e2803ba30103b73131fd88628b"
+      }
+    },
+    {
+      "id": "zju-012",
+      "school": "zju",
+      "course": "程序设计方法学",
+      "aliases": [],
+      "originalTitle": "2017期末试卷",
+      "year": 2018,
+      "yearLabel": "2017–2018 学年",
+      "term": "秋冬学期",
+      "type": "recalled",
+      "files": [
+        {
+          "name": "2017期末试卷.md",
+          "path": "程序设计方法学/试卷/2017期末试卷.md",
+          "format": "MD",
+          "url": "https://github.com/QSCTech/zju-icicles/blob/ed653c62efb2f8e2803ba30103b73131fd88628b/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%B3%95%E5%AD%A6/%E8%AF%95%E5%8D%B7/2017%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.md",
+          "blobSha": "3f045804d6cf50748d947f706d73dc0c48eb91b6"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "",
+      "verifiedAt": "2026-09-23T04:04:39.580Z",
+      "source": {
+        "repository": "QSCTech/zju-icicles",
+        "repositoryUrl": "https://github.com/QSCTech/zju-icicles",
+        "title": "浙江大学课程攻略共享计划",
+        "commit": "ed653c62efb2f8e2803ba30103b73131fd88628b"
+      }
+    }
+  ]
+}

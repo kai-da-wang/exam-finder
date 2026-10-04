@@ -1,0 +1,150 @@
+{
+  "checkedAt": "2026-09-23T05:07:18.690Z",
+  "records": [
+    {
+      "id": "ustc-001",
+      "school": "ustc",
+      "files": [
+        "代数结构/exams/2018年春季学期代数结构期末试题.pdf"
+      ],
+      "reason": "学生重排试题，无法确认是原卷还是回忆版，暂缓收录。"
+    },
+    {
+      "id": "ustc-002",
+      "school": "ustc",
+      "files": [
+        "微机原理与系统/exams/2018年秋季学期微机原理与系统（B）期末试题.pdf"
+      ],
+      "reason": "学生重排试题，无法确认是原卷还是回忆版，暂缓收录。"
+    },
+    {
+      "id": "ustc-003",
+      "school": "ustc",
+      "files": [
+        "操作系统原理与设计/exams/2018年春季学期操作系统原理与设计期末试题.pdf"
+      ],
+      "reason": "学生重排试题，无法确认是原卷还是回忆版，暂缓收录。"
+    },
+    {
+      "id": "ustc-006",
+      "school": "ustc",
+      "files": [
+        "算法基础/exams/2018年秋季学期算法基础期末试题-徐云.pdf"
+      ],
+      "reason": "学生重排试题，无法确认是原卷还是回忆版，暂缓收录。"
+    },
+    {
+      "id": "ustc-007",
+      "school": "ustc",
+      "files": [
+        "计算机网络/exams/2018年秋季学期计算机网络期末试题.pdf"
+      ],
+      "reason": "学生重排试题，无法确认是原卷还是回忆版，暂缓收录。"
+    },
+    {
+      "id": "thu-003",
+      "school": "thu",
+      "files": [
+        "大一上/微积分A(1)/exam/期末/2006微积分（1）期末.PDF"
+      ],
+      "reason": "实际文件只有2字节，无法解析为PDF。"
+    },
+    {
+      "id": "thu-005",
+      "school": "thu",
+      "files": [
+        "大一上/微积分A(1)/exam/期末/2013微积分（1）期末.pdf"
+      ],
+      "reason": "正文标题明确标注“期末考试样题”。"
+    },
+    {
+      "id": "njupt-review-18",
+      "school": "njupt",
+      "repository": "NJUPTFreeExams/NJUPT-CST-Free-Exams",
+      "files": [
+        "微型计算机接口技术/试卷/2015年微机接口试卷_20180528181323.pdf",
+        "微型计算机接口技术/试卷/2015年微机接口试卷答案.pdf"
+      ],
+      "reason": "卷头明确为清欠试卷，排除在常规期末试卷范围之外。"
+    },
+    {
+      "id": "suda-review-22",
+      "school": "suda",
+      "repository": "SoochowXiong/MathWarehouse",
+      "files": [
+        "分析与方程/复变函数/苏州大学2021年复变期末-试卷.pdf"
+      ],
+      "reason": "手写整理题面，未明确说明原卷或回忆版性质，暂缓收录。"
+    },
+    {
+      "id": "nuist-review-32",
+      "school": "nuist",
+      "repository": "wzy-acsuc/NUIST-Resources",
+      "files": [
+        "专业课/人工智能导论I/2022～2023《人工智能导论Ⅰ》期末试卷.pdf",
+        "专业课/人工智能导论I/2022～2023《人工智能概论》期末试卷.pdf",
+        "专业课/人工智能导论I/2023～2024《人工智能导论Ⅰ》期末试卷.pdf",
+        "专业课/人工智能导论I/2023～2024《人工智能概论》期末试卷.pdf"
+      ],
+      "reason": "重新排版的题集，未能确认原卷或明确回忆版性质，暂缓收录。"
+    },
+    {
+      "id": "hhu-review-28",
+      "school": "hhu",
+      "repository": "zewenli98/HHU_course",
+      "files": [
+        "软件体系结构/软件体系结构2017级考试原题（2020.9.3期末考试）.txt",
+        "软件体系结构/软件设计模式与体系结构2020级考试题（2022-05-16）.txt"
+      ],
+      "reason": "文字整理稿，未明确标注回忆版性质；本次优先收录明确命名为回忆版的软件工程试卷。"
+    },
+    {
+      "id": "jit-database-sample",
+      "school": "jit",
+      "files": [
+        "数据库原理及应用教程/资料/2016数据库原理 试卷样题1.doc"
+      ],
+      "reason": "文件名明确为样题，不是核实的历史期末卷。"
+    },
+    {
+      "id": "nau-corporate-outline",
+      "school": "nau",
+      "files": [
+        "Corporate Finance/考试真题/公司理财期末考试.md"
+      ],
+      "reason": "短文主要列举题型、名词和计算考点，没有完整题面；本批暂缓。"
+    },
+    {
+      "id": "nau-fra-outline",
+      "school": "nau",
+      "files": [
+        "Financial Reporting and Analysis/真题/期末考题回忆版.md"
+      ],
+      "reason": "主要是题型概述和考点提示，题目非常有限，未作为完整试卷录入。"
+    },
+    {
+      "id": "ycit-control-sample",
+      "school": "ycit",
+      "files": [
+        "盐城工学院课程攻略共享计划/自动控制原理/自动控制原理2020年秋期末考试样卷及解析.pdf"
+      ],
+      "reason": "文件明确标注为样卷。"
+    },
+    {
+      "id": "xjtlu-mock",
+      "school": "xjtlu",
+      "files": [
+        "CPT107_Online MOCK Exam.pdf"
+      ],
+      "reason": "文件及README明确为模拟卷。"
+    },
+    {
+      "id": "xjtlu-resit",
+      "school": "xjtlu",
+      "files": [
+        "2019-2020_CSE107_Resit_SH.pdf"
+      ],
+      "reason": "README明确为补考卷，不属于当前期末原卷范围。"
+    }
+  ]
+}

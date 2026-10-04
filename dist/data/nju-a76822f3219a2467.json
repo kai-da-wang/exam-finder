@@ -1,0 +1,255 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-23T04:25:19.843Z",
+  "school": {
+    "id": "nju",
+    "name": "南京大学",
+    "shortName": "南大",
+    "aliases": [
+      "南大",
+      "NJU"
+    ],
+    "repository": "NJU-SE-15-share-review/professional-class",
+    "sourceTitle": "南京大学软件学院专业课共享资料",
+    "coursePathIndex": 0,
+    "province": "江苏"
+  },
+  "courses": [
+    {
+      "name": "互联网计算",
+      "aliases": [],
+      "paperCount": 1
+    },
+    {
+      "name": "计算机网络",
+      "aliases": [],
+      "paperCount": 1
+    },
+    {
+      "name": "软件工程与计算 I",
+      "aliases": [
+        "软件工程与计算一",
+        "软件工程与计算1"
+      ],
+      "paperCount": 1
+    },
+    {
+      "name": "软件工程与计算 II",
+      "aliases": [
+        "软件工程与计算二",
+        "软件工程与计算2"
+      ],
+      "paperCount": 1
+    },
+    {
+      "name": "需求与商业模式创新",
+      "aliases": [],
+      "paperCount": 1
+    },
+    {
+      "name": "C++程序设计",
+      "aliases": [
+        "C++",
+        "CPP"
+      ],
+      "paperCount": 1
+    }
+  ],
+  "papers": [
+    {
+      "id": "nju-001",
+      "school": "nju",
+      "course": "C++程序设计",
+      "aliases": [
+        "C++",
+        "CPP"
+      ],
+      "originalTitle": "2020C++期末笔试回忆",
+      "year": 2020,
+      "yearLabel": "2020",
+      "term": "",
+      "type": "recalled",
+      "files": [
+        {
+          "name": "2020C++期末笔试回忆.md",
+          "path": "C++/2020C++期末笔试回忆.md",
+          "format": "MD",
+          "url": "https://github.com/NJU-SE-15-share-review/professional-class/blob/e01a2d8faa567706207f6afc8d9ec605a11128fa/C%2B%2B/2020C%2B%2B%E6%9C%9F%E6%9C%AB%E7%AC%94%E8%AF%95%E5%9B%9E%E5%BF%86.md",
+          "blobSha": "3c6cebce22824562d17b7efc930e8e6c42449f6e"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "",
+      "verifiedAt": "2026-09-23T04:25:19.843Z",
+      "source": {
+        "repository": "NJU-SE-15-share-review/professional-class",
+        "repositoryUrl": "https://github.com/NJU-SE-15-share-review/professional-class",
+        "title": "南京大学软件学院专业课共享资料",
+        "commit": "e01a2d8faa567706207f6afc8d9ec605a11128fa"
+      }
+    },
+    {
+      "id": "nju-002",
+      "school": "nju",
+      "course": "计算机网络",
+      "aliases": [],
+      "originalTitle": "2019期末",
+      "year": 2019,
+      "yearLabel": "2019",
+      "term": "",
+      "type": "recalled",
+      "files": [
+        {
+          "name": "2019期末.md",
+          "path": "计算机网络/历年试卷/2019/2019期末.md",
+          "format": "MD",
+          "url": "https://github.com/NJU-SE-15-share-review/professional-class/blob/e01a2d8faa567706207f6afc8d9ec605a11128fa/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E5%8E%86%E5%B9%B4%E8%AF%95%E5%8D%B7/2019/2019%E6%9C%9F%E6%9C%AB.md",
+          "blobSha": "59d32cce2acb9eec3749214d22bf095c5f78ea6a"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "",
+      "verifiedAt": "2026-09-23T04:25:19.843Z",
+      "source": {
+        "repository": "NJU-SE-15-share-review/professional-class",
+        "repositoryUrl": "https://github.com/NJU-SE-15-share-review/professional-class",
+        "title": "南京大学软件学院专业课共享资料",
+        "commit": "e01a2d8faa567706207f6afc8d9ec605a11128fa"
+      }
+    },
+    {
+      "id": "nju-003",
+      "school": "nju",
+      "course": "互联网计算",
+      "aliases": [],
+      "originalTitle": "2020互联网计算期末笔试回忆",
+      "year": 2020,
+      "yearLabel": "2020",
+      "term": "",
+      "type": "recalled",
+      "files": [
+        {
+          "name": "2020互联网计算期末笔试回忆.md",
+          "path": "计算机网络/历年试卷/2020/2020互联网计算期末笔试回忆.md",
+          "format": "MD",
+          "url": "https://github.com/NJU-SE-15-share-review/professional-class/blob/e01a2d8faa567706207f6afc8d9ec605a11128fa/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E5%8E%86%E5%B9%B4%E8%AF%95%E5%8D%B7/2020/2020%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97%E6%9C%9F%E6%9C%AB%E7%AC%94%E8%AF%95%E5%9B%9E%E5%BF%86.md",
+          "blobSha": "593b0505dc15ad3ca299c443f01664fd065019d6"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "",
+      "verifiedAt": "2026-09-23T04:25:19.843Z",
+      "source": {
+        "repository": "NJU-SE-15-share-review/professional-class",
+        "repositoryUrl": "https://github.com/NJU-SE-15-share-review/professional-class",
+        "title": "南京大学软件学院专业课共享资料",
+        "commit": "e01a2d8faa567706207f6afc8d9ec605a11128fa"
+      }
+    },
+    {
+      "id": "nju-004",
+      "school": "nju",
+      "course": "软件工程与计算 I",
+      "aliases": [
+        "软件工程与计算一",
+        "软件工程与计算1"
+      ],
+      "originalTitle": "软件工程与计算一期末试题回忆-2016",
+      "year": null,
+      "yearLabel": "年份未注明",
+      "term": "",
+      "type": "recalled",
+      "files": [
+        {
+          "name": "软件工程与计算一期末试题回忆-2016.md",
+          "path": "软件工程与计算/Software Engineering and Computing I/软件工程与计算一期末试题回忆-2016.md",
+          "format": "MD",
+          "url": "https://github.com/NJU-SE-15-share-review/professional-class/blob/e01a2d8faa567706207f6afc8d9ec605a11128fa/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%8E%E8%AE%A1%E7%AE%97/Software%20Engineering%20and%20Computing%20I/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%8E%E8%AE%A1%E7%AE%97%E4%B8%80%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E5%9B%9E%E5%BF%86-2016.md",
+          "blobSha": "934925ed5e3b8b7a76b103a65a12dd4ee63c199e"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "文件名与正文日期信息不一致，考试年份尚未确认。保留课程 I，与课程 II 分开检索。",
+      "verifiedAt": "2026-09-23T04:25:19.843Z",
+      "source": {
+        "repository": "NJU-SE-15-share-review/professional-class",
+        "repositoryUrl": "https://github.com/NJU-SE-15-share-review/professional-class",
+        "title": "南京大学软件学院专业课共享资料",
+        "commit": "e01a2d8faa567706207f6afc8d9ec605a11128fa"
+      }
+    },
+    {
+      "id": "nju-005",
+      "school": "nju",
+      "course": "软件工程与计算 II",
+      "aliases": [
+        "软件工程与计算二",
+        "软件工程与计算2"
+      ],
+      "originalTitle": "2016期末试题回忆",
+      "year": 2016,
+      "yearLabel": "2016",
+      "term": "",
+      "type": "recalled",
+      "files": [
+        {
+          "name": "2016期末试题回忆.md",
+          "path": "软件工程与计算/Software Engineering and Computing II/2016期末试题回忆.md",
+          "format": "MD",
+          "url": "https://github.com/NJU-SE-15-share-review/professional-class/blob/e01a2d8faa567706207f6afc8d9ec605a11128fa/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%8E%E8%AE%A1%E7%AE%97/Software%20Engineering%20and%20Computing%20II/2016%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E5%9B%9E%E5%BF%86.md",
+          "blobSha": "0624a0830f3a60438863c02a69b920e24ef4c8af"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "按正文标题收录为 2016 年考试；文档整理于 2018 年。",
+      "verifiedAt": "2026-09-23T04:25:19.843Z",
+      "source": {
+        "repository": "NJU-SE-15-share-review/professional-class",
+        "repositoryUrl": "https://github.com/NJU-SE-15-share-review/professional-class",
+        "title": "南京大学软件学院专业课共享资料",
+        "commit": "e01a2d8faa567706207f6afc8d9ec605a11128fa"
+      }
+    },
+    {
+      "id": "nju-006",
+      "school": "nju",
+      "course": "需求与商业模式创新",
+      "aliases": [],
+      "originalTitle": "需求2022期末试题（回忆版）",
+      "year": 2022,
+      "yearLabel": "2022",
+      "term": "",
+      "type": "recalled",
+      "files": [
+        {
+          "name": "需求2022期末试题（回忆版）.md",
+          "path": "需求与商业模式创新/需求2022期末试题（回忆版）.md",
+          "format": "MD",
+          "url": "https://github.com/NJU-SE-15-share-review/professional-class/blob/e01a2d8faa567706207f6afc8d9ec605a11128fa/%E9%9C%80%E6%B1%82%E4%B8%8E%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F%E5%88%9B%E6%96%B0/%E9%9C%80%E6%B1%822022%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%EF%BC%88%E5%9B%9E%E5%BF%86%E7%89%88%EF%BC%89.md",
+          "blobSha": "1d781ddbbc24efd02d6d366a0ba72003d3c5789b"
+        }
+      ],
+      "answers": [],
+      "answerIncluded": false,
+      "answerNote": "",
+      "note": "",
+      "verifiedAt": "2026-09-23T04:25:19.843Z",
+      "source": {
+        "repository": "NJU-SE-15-share-review/professional-class",
+        "repositoryUrl": "https://github.com/NJU-SE-15-share-review/professional-class",
+        "title": "南京大学软件学院专业课共享资料",
+        "commit": "e01a2d8faa567706207f6afc8d9ec605a11128fa"
+      }
+    }
+  ]
+}
